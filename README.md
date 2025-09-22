@@ -27,6 +27,8 @@ The total revenue over the last two years is about **$545K**. The revenue trend 
 2. Which states are the top contributors to sales?
 
 By analyzing the data, we can see that the states with higher poplutaion density like CA and TX are the top contributors to the sales.
+
+
 ![Sales by State Map](images/sales_by_state.png)
 
 3. Which channels are most effective for acquiring new customers?
