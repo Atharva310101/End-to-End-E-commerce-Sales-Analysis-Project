@@ -1,0 +1,11 @@
+product_id,product_name,product_type,price
+P001,Standard Snack Box,Subscription,29.99
+P002,Premium Vegan Box,Subscription,39.99
+P003,Gluten-Free Box,Subscription,34.99
+P004,One-Time Holiday Gift Box,One-Time,49.99
+P005,One-Time Celebration Box,One-Time,59.99
+P006,One-Time Snack Sampler,One-Time,19.99
+P007,Family Snack Pack,Subscription,44.99
+P008,Keto Snack Box,Subscription,39.99
+P009,One-Time Movie Night Box,One-Time,29.99
+P010,One-Time Fitness Snack Box,One-Time,34.99

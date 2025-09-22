@@ -1,0 +1,2001 @@
+customer_id,customer_name,email,join_date,city,state,acquisition_channel
+C00001,David Graves,david.graves@example.com,2024-05-24,San Francisco,CA,Paid Social
+C00002,Victoria Newton,victoria.newton@example.com,2024-01-05,Atlanta,GA,Organic Search
+C00003,Joshua Morris,joshua.morris@example.com,2025-07-06,Houston,TX,Paid Social
+C00004,Ruben Martin,ruben.martin@example.com,2023-11-19,Oklahoma City,OK,Paid Social
+C00005,Brian Olsen,brian.olsen@example.com,2024-06-16,Phoenix,AZ,Email Marketing
+C00006,Larry Jones,larry.jones@example.com,2024-09-21,Phoenix,AZ,Organic Search
+C00007,Bryan Hawkins,bryan.hawkins@example.com,2023-12-30,Boise,ID,Organic Search
+C00008,Julie Harrell,julie.harrell@example.com,2024-05-20,Austin,TX,Referral
+C00009,Jacob Reed,jacob.reed@example.com,2024-12-03,Fresno,CA,Paid Social
+C00010,Melissa Maddox,melissa.maddox@example.com,2025-08-23,Houston,TX,Organic Search
+C00011,Kristen Macdonald,kristen.macdonald@example.com,2024-06-16,Milwaukee,WI,Paid Social
+C00012,Cynthia Cabrera,cynthia.cabrera@example.com,2023-10-25,Dallas,TX,Organic Search
+C00013,Gary Copeland,gary.copeland@example.com,2024-08-20,Orlando,FL,Referral
+C00014,Renee Leon,renee.leon@example.com,2024-01-22,New York,NY,Organic Search
+C00015,Michael Moss,michael.moss@example.com,2024-08-20,Orlando,FL,Organic Search
+C00016,Suzanne Casey,suzanne.casey@example.com,2025-01-09,Oklahoma City,OK,Paid Social
+C00017,Edward Thornton,edward.thornton@example.com,2023-11-22,Baltimore,MD,Organic Search
+C00018,Kaitlin Fernandez,kaitlin.fernandez@example.com,2024-07-31,Oklahoma City,OK,Paid Social
+C00019,Justin Wilkerson,justin.wilkerson@example.com,2024-11-21,Dallas,TX,Organic Search
+C00020,Mariah Reid,mariah.reid@example.com,2023-12-06,Arlington,TX,Paid Social
+C00021,Kelly Fernandez,kelly.fernandez@example.com,2023-10-18,Louisville,KY,Paid Social
+C00022,Roy Herring,roy.herring@example.com,2024-12-18,San Diego,CA,Paid Social
+C00023,Megan Mitchell,megan.mitchell@example.com,2024-04-10,Austin,TX,Paid Social
+C00024,Donald Morris,donald.morris@example.com,2024-10-01,Dallas,TX,Organic Search
+C00025,Amy Lamb,amy.lamb@example.com,2024-09-08,New York,NY,Paid Social
+C00026,Ashley Alexander,ashley.alexander@example.com,2024-02-10,Los Angeles,CA,Organic Search
+C00027,Rachel Matthews,rachel.matthews@example.com,2025-02-19,Baltimore,MD,Referral
+C00028,Ian Taylor,ian.taylor@example.com,2025-03-04,Richmond,VA,Referral
+C00029,Jessica Hernandez,jessica.hernandez@example.com,2025-06-09,Miami,FL,Organic Search
+C00030,Jessica Smith,jessica.smith@example.com,2024-02-06,Miami,FL,Organic Search
+C00031,Jack Hayes,jack.hayes@example.com,2024-12-29,Memphis,TN,Referral
+C00032,Pamela Bond,pamela.bond@example.com,2024-10-05,Fresno,CA,Paid Social
+C00033,Crystal Maynard,crystal.maynard@example.com,2025-02-05,Oklahoma City,OK,Organic Search
+C00034,Keith Mitchell,keith.mitchell@example.com,2023-12-26,Los Angeles,CA,Paid Social
+C00035,Matthew Thomas,matthew.thomas@example.com,2025-08-31,Los Angeles,CA,Paid Social
+C00036,Rachel Mendoza,rachel.mendoza@example.com,2024-05-01,Denver,CO,Organic Search
+C00037,Stacey Lewis,stacey.lewis@example.com,2025-08-20,Houston,TX,Paid Social
+C00038,Katherine Lester,katherine.lester@example.com,2024-04-25,Orlando,FL,Paid Social
+C00039,Crystal Brewer,crystal.brewer@example.com,2025-02-24,Tampa,FL,Organic Search
+C00040,Abigail Peters,abigail.peters@example.com,2025-05-01,Austin,TX,Organic Search
+C00041,Shelly Olsen,shelly.olsen@example.com,2024-10-30,Dallas,TX,Paid Social
+C00042,Jennifer Hopkins,jennifer.hopkins@example.com,2024-02-10,Cleveland,OH,Organic Search
+C00043,Briana Allen,briana.allen@example.com,2023-11-23,Boise,ID,Referral
+C00044,Gabriel Santiago,gabriel.santiago@example.com,2024-06-19,Houston,TX,Organic Search
+C00045,Troy Barrett,troy.barrett@example.com,2024-10-11,Cleveland,OH,Organic Search
+C00046,Brianna Harmon,brianna.harmon@example.com,2025-08-08,Arlington,TX,Email Marketing
+C00047,David Smith,david.smith@example.com,2024-04-19,Fresno,CA,Paid Social
+C00048,Christopher Barnett,christopher.barnett@example.com,2023-12-15,Oklahoma City,OK,Referral
+C00049,Theresa Fisher,theresa.fisher@example.com,2025-03-16,Los Angeles,CA,Email Marketing
+C00050,James Avila,james.avila@example.com,2024-09-07,Miami,FL,Referral
+C00051,Elizabeth Austin,elizabeth.austin@example.com,2025-07-02,Milwaukee,WI,Referral
+C00052,Bryan Hoffman,bryan.hoffman@example.com,2024-10-23,Sacramento,CA,Organic Search
+C00053,Patrick Martinez,patrick.martinez@example.com,2025-09-04,Columbus,OH,Paid Social
+C00054,Dana Brown,dana.brown@example.com,2024-11-12,Nashville,TN,Organic Search
+C00055,Daniel Hawkins,daniel.hawkins@example.com,2023-12-27,Austin,TX,Organic Search
+C00056,Olivia Wright,olivia.wright@example.com,2025-06-27,Oakland,CA,Referral
+C00057,Matthew Rivera,matthew.rivera@example.com,2025-08-01,Orlando,FL,Referral
+C00058,Lisa Gomez,lisa.gomez@example.com,2023-10-01,Milwaukee,WI,Paid Social
+C00059,Robert Pennington,robert.pennington@example.com,2025-07-12,Atlanta,GA,Organic Search
+C00060,Peter Robbins,peter.robbins@example.com,2024-05-26,Sacramento,CA,Paid Social
+C00061,Jessica Sparks,jessica.sparks@example.com,2024-10-01,Los Angeles,CA,Paid Social
+C00062,John Rodriguez,john.rodriguez@example.com,2025-07-26,Los Angeles,CA,Referral
+C00063,Brian Reyes,brian.reyes@example.com,2024-06-09,Los Angeles,CA,Organic Search
+C00064,Sharon Adkins,sharon.adkins@example.com,2024-10-27,Memphis,TN,Email Marketing
+C00065,William Sandoval,william.sandoval@example.com,2023-10-27,Sacramento,CA,Paid Social
+C00066,Carol Mercado,carol.mercado@example.com,2025-01-03,Oakland,CA,Organic Search
+C00067,Sherry Taylor,sherry.taylor@example.com,2025-05-08,Sacramento,CA,Organic Search
+C00068,Ryan Clark,ryan.clark@example.com,2025-07-31,Chicago,IL,Paid Social
+C00069,Sarah Clark,sarah.clark@example.com,2025-05-15,Albuquerque,NM,Referral
+C00070,Abigail Wagner,abigail.wagner@example.com,2024-05-31,Charlotte,NC,Paid Social
+C00071,Ashley Riley,ashley.riley@example.com,2025-01-02,Orlando,FL,Organic Search
+C00072,Elizabeth Clark,elizabeth.clark@example.com,2024-01-05,Oklahoma City,OK,Organic Search
+C00073,Christine Clark,christine.clark@example.com,2025-01-20,Cleveland,OH,Organic Search
+C00074,Brenda Griffin,brenda.griffin@example.com,2025-05-23,Atlanta,GA,Referral
+C00075,Amber Cox,amber.cox@example.com,2024-12-09,New Orleans,LA,Referral
+C00076,Kayla Kirk,kayla.kirk@example.com,2025-06-10,Portland,OR,Organic Search
+C00077,Patricia Nelson,patricia.nelson@example.com,2024-02-04,New York,NY,Referral
+C00078,Patrick White,patrick.white@example.com,2024-11-05,Los Angeles,CA,Email Marketing
+C00079,Justin Rivera,justin.rivera@example.com,2025-06-25,Boston,MA,Email Marketing
+C00080,Lori Butler,lori.butler@example.com,2025-05-26,San Francisco,CA,Referral
+C00081,Veronica Clarke,veronica.clarke@example.com,2024-03-16,Phoenix,AZ,Referral
+C00082,Nicole Evans,nicole.evans@example.com,2025-05-26,Denver,CO,Paid Social
+C00083,Frank Schneider,frank.schneider@example.com,2025-07-31,Fresno,CA,Paid Social
+C00084,Stephanie Nelson,stephanie.nelson@example.com,2024-01-01,Arlington,TX,Paid Social
+C00085,Rachael Crawford,rachael.crawford@example.com,2024-08-05,Salt Lake City,UT,Paid Social
+C00086,Lauren Gomez,lauren.gomez@example.com,2025-03-16,Minneapolis,MN,Referral
+C00087,David Hunt,david.hunt@example.com,2024-12-11,Indianapolis,IN,Organic Search
+C00088,William Jones,william.jones@example.com,2024-07-02,Tulsa,OK,Referral
+C00089,Jennifer Aguirre,jennifer.aguirre@example.com,2024-02-24,Phoenix,AZ,Paid Social
+C00090,Melissa Davis,melissa.davis@example.com,2024-12-16,Nashville,TN,Paid Social
+C00091,Paige Jones,paige.jones@example.com,2025-01-19,Denver,CO,Organic Search
+C00092,James James,james.james@example.com,2023-11-15,Atlanta,GA,Organic Search
+C00093,Marie Dalton,marie.dalton@example.com,2024-09-18,Las Vegas,NV,Organic Search
+C00094,Paul Brown,paul.brown@example.com,2025-03-28,New York,NY,Referral
+C00095,Travis Martin,travis.martin@example.com,2024-03-13,Phoenix,AZ,Organic Search
+C00096,Elizabeth Brown,elizabeth.brown@example.com,2024-08-29,Las Vegas,NV,Organic Search
+C00097,Austin Wolfe,austin.wolfe@example.com,2024-02-12,Albuquerque,NM,Organic Search
+C00098,Matthew Herrera,matthew.herrera@example.com,2024-12-17,Sacramento,CA,Organic Search
+C00099,Sherri Coffey,sherri.coffey@example.com,2024-02-04,San Francisco,CA,Organic Search
+C00100,Melissa Pope,melissa.pope@example.com,2025-03-14,Philadelphia,PA,Referral
+C00101,Devon Carter,devon.carter@example.com,2023-11-19,Cincinnati,OH,Paid Social
+C00102,Sheri George,sheri.george@example.com,2023-10-15,Columbus,OH,Paid Social
+C00103,Nathan Baker,nathan.baker@example.com,2023-09-23,New Orleans,LA,Paid Social
+C00104,Steve Castillo,steve.castillo@example.com,2025-08-15,New York,NY,Email Marketing
+C00105,Michael Hernandez,michael.hernandez@example.com,2023-10-14,Pittsburgh,PA,Organic Search
+C00106,Jamie Ross,jamie.ross@example.com,2023-10-24,Louisville,KY,Paid Social
+C00107,Anne Gardner,anne.gardner@example.com,2025-04-26,Baltimore,MD,Organic Search
+C00108,Karen Smith,karen.smith@example.com,2025-09-21,Cincinnati,OH,Organic Search
+C00109,Connie Gray,connie.gray@example.com,2024-05-29,Salt Lake City,UT,Referral
+C00110,Mark Clark,mark.clark@example.com,2024-12-09,New Orleans,LA,Paid Social
+C00111,Brianna Sparks,brianna.sparks@example.com,2024-06-10,Charlotte,NC,Referral
+C00112,Cheryl Brown,cheryl.brown@example.com,2024-06-28,Arlington,TX,Referral
+C00113,Marcus Hill,marcus.hill@example.com,2024-03-15,Pittsburgh,PA,Organic Search
+C00114,Morgan Ray,morgan.ray@example.com,2024-06-10,Portland,OR,Organic Search
+C00115,Sharon Gray,sharon.gray@example.com,2024-08-31,Los Angeles,CA,Organic Search
+C00116,Deborah Moore,deborah.moore@example.com,2025-08-07,Nashville,TN,Paid Social
+C00117,Jennifer Mclaughlin,jennifer.mclaughlin@example.com,2023-10-17,Oakland,CA,Organic Search
+C00118,Sandra Garner,sandra.garner@example.com,2025-08-05,Minneapolis,MN,Organic Search
+C00119,Cody Foster,cody.foster@example.com,2024-08-14,Tampa,FL,Organic Search
+C00120,Joanna Lee,joanna.lee@example.com,2025-08-02,Los Angeles,CA,Organic Search
+C00121,Joseph Hampton,joseph.hampton@example.com,2024-07-04,Mesa,AZ,Paid Social
+C00122,Travis Ortiz,travis.ortiz@example.com,2025-05-21,Arlington,TX,Referral
+C00123,Kenneth Jones,kenneth.jones@example.com,2025-01-16,Salt Lake City,UT,Organic Search
+C00124,Ryan Jennings,ryan.jennings@example.com,2024-01-24,Cleveland,OH,Paid Social
+C00125,Michelle Singleton,michelle.singleton@example.com,2024-05-25,Pittsburgh,PA,Organic Search
+C00126,Cheryl Hanson,cheryl.hanson@example.com,2025-02-15,Las Vegas,NV,Organic Search
+C00127,Jill Lee,jill.lee@example.com,2024-02-15,Cincinnati,OH,Referral
+C00128,Craig Smith,craig.smith@example.com,2023-12-12,Pittsburgh,PA,Paid Social
+C00129,Susan Wang,susan.wang@example.com,2024-11-11,Indianapolis,IN,Organic Search
+C00130,Barry Ross,barry.ross@example.com,2025-07-20,New Orleans,LA,Paid Social
+C00131,Richard Wilcox,richard.wilcox@example.com,2024-10-22,Memphis,TN,Paid Social
+C00132,Matthew Chandler,matthew.chandler@example.com,2025-02-26,Miami,FL,Organic Search
+C00133,James Sanchez,james.sanchez@example.com,2025-03-29,Raleigh,NC,Paid Social
+C00134,Andrew Rogers,andrew.rogers@example.com,2024-02-25,Los Angeles,CA,Organic Search
+C00135,Justin Sanchez,justin.sanchez@example.com,2023-12-07,Indianapolis,IN,Paid Social
+C00136,Kristin Mendez,kristin.mendez@example.com,2024-09-28,Austin,TX,Paid Social
+C00137,Catherine Carr,catherine.carr@example.com,2024-08-27,Long Beach,CA,Organic Search
+C00138,Brian Green,brian.green@example.com,2025-03-10,Austin,TX,Paid Social
+C00139,Jesus Lee,jesus.lee@example.com,2025-04-23,Long Beach,CA,Paid Social
+C00140,Christina Smith,christina.smith@example.com,2023-09-24,Dallas,TX,Organic Search
+C00141,Sandra George,sandra.george@example.com,2024-11-03,Houston,TX,Referral
+C00142,Roger Garcia,roger.garcia@example.com,2024-03-31,Sacramento,CA,Email Marketing
+C00143,Kristen Kennedy,kristen.kennedy@example.com,2025-08-30,Arlington,TX,Organic Search
+C00144,Harold Williams,harold.williams@example.com,2024-04-18,San Francisco,CA,Organic Search
+C00145,Xavier Oconnell,xavier.oconnell@example.com,2023-11-08,New York,NY,Email Marketing
+C00146,Haley Richards,haley.richards@example.com,2024-02-21,Fresno,CA,Paid Social
+C00147,Benjamin Davila,benjamin.davila@example.com,2024-07-11,New York,NY,Paid Social
+C00148,James Martinez,james.martinez@example.com,2023-11-03,Long Beach,CA,Referral
+C00149,Jenny Shepard,jenny.shepard@example.com,2025-02-15,Tampa,FL,Email Marketing
+C00150,Jody Moore,jody.moore@example.com,2024-09-29,Oklahoma City,OK,Referral
+C00151,Debra Woods,debra.woods@example.com,2025-01-16,New York,NY,Referral
+C00152,George Holmes,george.holmes@example.com,2023-10-02,Austin,TX,Organic Search
+C00153,Peter Pennington,peter.pennington@example.com,2023-11-01,Austin,TX,Paid Social
+C00154,Ricky Thomas,ricky.thomas@example.com,2024-04-02,Boise,ID,Organic Search
+C00155,Diana Calderon,diana.calderon@example.com,2024-05-06,Pittsburgh,PA,Organic Search
+C00156,Melissa Hall,melissa.hall@example.com,2024-09-07,Cleveland,OH,Referral
+C00157,Nicholas Bradford,nicholas.bradford@example.com,2023-11-18,Sacramento,CA,Organic Search
+C00158,Christina Carey,christina.carey@example.com,2024-01-03,Orlando,FL,Organic Search
+C00159,Amanda Malone,amanda.malone@example.com,2025-09-01,Memphis,TN,Paid Social
+C00160,Misty Wilson,misty.wilson@example.com,2024-02-07,San Francisco,CA,Organic Search
+C00161,Elizabeth Warner,elizabeth.warner@example.com,2025-06-06,Minneapolis,MN,Referral
+C00162,Tammy Weeks,tammy.weeks@example.com,2025-05-01,Sacramento,CA,Paid Social
+C00163,Alejandro Petty,alejandro.petty@example.com,2024-10-02,Dallas,TX,Organic Search
+C00164,Vanessa Robertson,vanessa.robertson@example.com,2025-06-14,New Orleans,LA,Paid Social
+C00165,Julian Estrada,julian.estrada@example.com,2025-02-10,Albuquerque,NM,Organic Search
+C00166,Jesse Hensley,jesse.hensley@example.com,2023-12-23,Mesa,AZ,Referral
+C00167,Pamela Brown,pamela.brown@example.com,2023-09-27,Minneapolis,MN,Paid Social
+C00168,Stephanie Miller,stephanie.miller@example.com,2024-04-12,Orlando,FL,Organic Search
+C00169,Ellen Cruz,ellen.cruz@example.com,2023-10-01,Columbus,OH,Referral
+C00170,Patricia Brown,patricia.brown@example.com,2025-02-02,Tucson,AZ,Paid Social
+C00171,Jason Grant,jason.grant@example.com,2024-07-07,Mesa,AZ,Paid Social
+C00172,Lisa Ayala,lisa.ayala@example.com,2025-01-20,Portland,OR,Referral
+C00173,Jason Flores,jason.flores@example.com,2024-02-27,Salt Lake City,UT,Organic Search
+C00174,Andrew Gray,andrew.gray@example.com,2023-09-25,Oakland,CA,Referral
+C00175,David Jackson,david.jackson@example.com,2025-07-30,Denver,CO,Organic Search
+C00176,Katherine Johnson,katherine.johnson@example.com,2023-12-27,Oakland,CA,Organic Search
+C00177,Daniel Wall,daniel.wall@example.com,2024-10-10,Chicago,IL,Paid Social
+C00178,Troy Hernandez,troy.hernandez@example.com,2025-07-29,Fresno,CA,Email Marketing
+C00179,Laura Burton,laura.burton@example.com,2024-03-10,Oakland,CA,Paid Social
+C00180,Dawn Wright,dawn.wright@example.com,2025-05-17,New Orleans,LA,Organic Search
+C00181,Jessica Jones,jessica.jones@example.com,2024-02-03,Oakland,CA,Email Marketing
+C00182,Jose Guzman,jose.guzman@example.com,2025-06-26,Atlanta,GA,Paid Social
+C00183,Robert Peterson,robert.peterson@example.com,2024-05-03,Richmond,VA,Email Marketing
+C00184,Caroline Wade,caroline.wade@example.com,2024-05-04,Houston,TX,Organic Search
+C00185,Charles Baker,charles.baker@example.com,2025-01-04,Mesa,AZ,Referral
+C00186,Andrew Kelley,andrew.kelley@example.com,2024-04-07,Philadelphia,PA,Organic Search
+C00187,Richard Gardner,richard.gardner@example.com,2024-10-31,Milwaukee,WI,Organic Search
+C00188,Virginia Callahan,virginia.callahan@example.com,2025-09-14,Sacramento,CA,Organic Search
+C00189,Dylan Livingston,dylan.livingston@example.com,2025-04-26,Albuquerque,NM,Paid Social
+C00190,Mary Kim,mary.kim@example.com,2025-07-07,Chicago,IL,Email Marketing
+C00191,Felicia Williams,felicia.williams@example.com,2025-06-19,New York,NY,Paid Social
+C00192,Elizabeth Thomas,elizabeth.thomas@example.com,2025-07-26,Boston,MA,Email Marketing
+C00193,Stacy Lyons,stacy.lyons@example.com,2023-11-23,Portland,OR,Paid Social
+C00194,Steven Jackson,steven.jackson@example.com,2024-10-28,Minneapolis,MN,Organic Search
+C00195,Jodi Campbell,jodi.campbell@example.com,2024-09-04,Miami,FL,Organic Search
+C00196,Arthur Boyd,arthur.boyd@example.com,2025-02-24,Seattle,WA,Referral
+C00197,Terri Jackson,terri.jackson@example.com,2023-12-04,Long Beach,CA,Organic Search
+C00198,Brian Wright,brian.wright@example.com,2024-07-11,Tucson,AZ,Organic Search
+C00199,Lori Wright,lori.wright@example.com,2024-11-17,Cleveland,OH,Paid Social
+C00200,Monique Cunningham,monique.cunningham@example.com,2024-07-22,Sacramento,CA,Email Marketing
+C00201,Joe Bailey,joe.bailey@example.com,2024-09-10,Tampa,FL,Referral
+C00202,Cheyenne Lindsey,cheyenne.lindsey@example.com,2024-01-10,Nashville,TN,Paid Social
+C00203,Brian Ramos,brian.ramos@example.com,2024-09-03,San Francisco,CA,Referral
+C00204,Marcus Bush,marcus.bush@example.com,2024-09-12,Orlando,FL,Referral
+C00205,Sean Lewis,sean.lewis@example.com,2025-02-20,Dallas,TX,Paid Social
+C00206,Megan Long,megan.long@example.com,2025-03-25,Miami,FL,Organic Search
+C00207,Alexis Cook,alexis.cook@example.com,2024-12-10,Arlington,TX,Organic Search
+C00208,Russell Wilson,russell.wilson@example.com,2025-02-04,Tampa,FL,Email Marketing
+C00209,Brittney Harvey,brittney.harvey@example.com,2024-04-26,Oklahoma City,OK,Organic Search
+C00210,Melinda Sheppard,melinda.sheppard@example.com,2025-07-06,Salt Lake City,UT,Organic Search
+C00211,Alyssa Washington,alyssa.washington@example.com,2024-06-13,Dallas,TX,Paid Social
+C00212,Michael Myers,michael.myers@example.com,2025-08-23,Nashville,TN,Email Marketing
+C00213,Melissa Snyder,melissa.snyder@example.com,2024-07-24,Boston,MA,Organic Search
+C00214,Kimberly White,kimberly.white@example.com,2024-08-27,Minneapolis,MN,Referral
+C00215,Emily Garrett,emily.garrett@example.com,2025-07-18,Tampa,FL,Organic Search
+C00216,Anthony Reed,anthony.reed@example.com,2025-05-13,Austin,TX,Organic Search
+C00217,Allison Gonzalez,allison.gonzalez@example.com,2024-07-01,Los Angeles,CA,Referral
+C00218,Seth Gardner,seth.gardner@example.com,2025-02-21,Oklahoma City,OK,Organic Search
+C00219,John Crane,john.crane@example.com,2025-04-23,Denver,CO,Paid Social
+C00220,Robert Davis,robert.davis@example.com,2023-12-23,San Diego,CA,Paid Social
+C00221,Ashley Moore,ashley.moore@example.com,2023-12-13,Cincinnati,OH,Referral
+C00222,Amber Perez,amber.perez@example.com,2025-03-24,Austin,TX,Email Marketing
+C00223,Brooke Guerra,brooke.guerra@example.com,2025-02-11,Miami,FL,Paid Social
+C00224,Teresa Johnson,teresa.johnson@example.com,2024-08-24,Memphis,TN,Referral
+C00225,Mike Anderson,mike.anderson@example.com,2023-11-05,Portland,OR,Organic Search
+C00226,Patrick Beck,patrick.beck@example.com,2024-08-19,Seattle,WA,Organic Search
+C00227,Gregory Lopez,gregory.lopez@example.com,2024-03-25,Boston,MA,Organic Search
+C00228,Victor Mora,victor.mora@example.com,2024-03-06,Seattle,WA,Referral
+C00229,Chris Smith,chris.smith@example.com,2024-05-27,Richmond,VA,Paid Social
+C00230,Joshua Payne,joshua.payne@example.com,2024-08-07,Atlanta,GA,Referral
+C00231,Laura Powers,laura.powers@example.com,2024-06-05,Tampa,FL,Paid Social
+C00232,Kenneth Thomas,kenneth.thomas@example.com,2023-09-29,Virginia Beach,VA,Paid Social
+C00233,Jennifer Calderon,jennifer.calderon@example.com,2025-01-08,Long Beach,CA,Paid Social
+C00234,Samantha Cook,samantha.cook@example.com,2024-04-11,Austin,TX,Organic Search
+C00235,Natalie Howard,natalie.howard@example.com,2024-10-08,New York,NY,Organic Search
+C00236,Jennifer Rowe,jennifer.rowe@example.com,2023-12-07,Fresno,CA,Organic Search
+C00237,Victor Stevens,victor.stevens@example.com,2024-11-18,San Diego,CA,Paid Social
+C00238,Amy Campbell,amy.campbell@example.com,2025-04-01,Seattle,WA,Paid Social
+C00239,Scott Thornton,scott.thornton@example.com,2025-05-08,Los Angeles,CA,Referral
+C00240,Amanda Melendez,amanda.melendez@example.com,2024-03-25,Pittsburgh,PA,Organic Search
+C00241,Melanie Brown,melanie.brown@example.com,2024-11-11,Salt Lake City,UT,Email Marketing
+C00242,Erika Tucker,erika.tucker@example.com,2023-10-12,Dallas,TX,Organic Search
+C00243,Suzanne Newton,suzanne.newton@example.com,2025-09-03,Milwaukee,WI,Organic Search
+C00244,Lauren Flores,lauren.flores@example.com,2025-06-18,Houston,TX,Paid Social
+C00245,Bradley Paul,bradley.paul@example.com,2024-07-25,Pittsburgh,PA,Paid Social
+C00246,Kathryn Rios,kathryn.rios@example.com,2024-02-01,Oklahoma City,OK,Paid Social
+C00247,Cody Martinez,cody.martinez@example.com,2023-11-24,Kansas City,MO,Organic Search
+C00248,Brent Smith,brent.smith@example.com,2023-10-29,Indianapolis,IN,Email Marketing
+C00249,Craig Nelson,craig.nelson@example.com,2025-09-10,Arlington,TX,Referral
+C00250,Heather Stewart,heather.stewart@example.com,2024-03-17,Tucson,AZ,Paid Social
+C00251,Veronica Miller,veronica.miller@example.com,2023-11-01,Columbus,OH,Referral
+C00252,Brian Jones,brian.jones@example.com,2025-09-11,Virginia Beach,VA,Organic Search
+C00253,Brittany Jackson,brittany.jackson@example.com,2024-08-16,Richmond,VA,Referral
+C00254,Tabitha Bennett,tabitha.bennett@example.com,2024-11-22,Long Beach,CA,Organic Search
+C00255,Dorothy Ferguson,dorothy.ferguson@example.com,2024-02-01,Memphis,TN,Organic Search
+C00256,Nicholas Dixon,nicholas.dixon@example.com,2024-04-28,Boise,ID,Referral
+C00257,Andrew Gonzalez,andrew.gonzalez@example.com,2024-01-27,Richmond,VA,Referral
+C00258,Timothy Gallegos,timothy.gallegos@example.com,2023-11-18,San Diego,CA,Organic Search
+C00259,Michelle Page,michelle.page@example.com,2025-09-04,Philadelphia,PA,Organic Search
+C00260,Jennifer Hughes,jennifer.hughes@example.com,2025-08-24,Tucson,AZ,Paid Social
+C00261,Ashley Cooper,ashley.cooper@example.com,2024-08-09,Chicago,IL,Referral
+C00262,Michael Deleon,michael.deleon@example.com,2025-03-26,Fresno,CA,Organic Search
+C00263,Nathaniel Black,nathaniel.black@example.com,2024-06-12,Los Angeles,CA,Organic Search
+C00264,Nathaniel Lewis,nathaniel.lewis@example.com,2025-08-05,Phoenix,AZ,Paid Social
+C00265,Michael Weber,michael.weber@example.com,2023-12-04,Fresno,CA,Referral
+C00266,Christopher Adkins,christopher.adkins@example.com,2024-02-17,Boise,ID,Organic Search
+C00267,Nancy Hurley,nancy.hurley@example.com,2025-07-19,Chicago,IL,Organic Search
+C00268,Brian Wood,brian.wood@example.com,2025-01-28,Arlington,TX,Organic Search
+C00269,Jennifer Howell,jennifer.howell@example.com,2025-03-26,Cleveland,OH,Email Marketing
+C00270,Gary Lambert,gary.lambert@example.com,2025-05-01,Mesa,AZ,Paid Social
+C00271,Julie Good,julie.good@example.com,2024-09-25,Houston,TX,Paid Social
+C00272,Susan Cooper,susan.cooper@example.com,2023-09-25,Salt Lake City,UT,Email Marketing
+C00273,Elizabeth Joyce,elizabeth.joyce@example.com,2025-03-05,Albuquerque,NM,Referral
+C00274,Joshua Sanchez,joshua.sanchez@example.com,2025-01-15,Indianapolis,IN,Organic Search
+C00275,Sandra Cook,sandra.cook@example.com,2025-08-28,Arlington,TX,Paid Social
+C00276,Robert Fox,robert.fox@example.com,2025-03-23,Portland,OR,Organic Search
+C00277,Katherine Mullins,katherine.mullins@example.com,2024-11-29,Tampa,FL,Organic Search
+C00278,Kathleen Love,kathleen.love@example.com,2025-05-14,Seattle,WA,Organic Search
+C00279,Sara Knight,sara.knight@example.com,2025-06-28,New Orleans,LA,Paid Social
+C00280,Warren Ramirez,warren.ramirez@example.com,2025-01-09,Oakland,CA,Organic Search
+C00281,Taylor Carlson,taylor.carlson@example.com,2025-05-03,Houston,TX,Organic Search
+C00282,Paul Diaz,paul.diaz@example.com,2025-07-10,Cincinnati,OH,Organic Search
+C00283,Sarah Caldwell,sarah.caldwell@example.com,2024-06-21,Oakland,CA,Organic Search
+C00284,Tina Williams,tina.williams@example.com,2024-12-09,Orlando,FL,Email Marketing
+C00285,Cristina Morris,cristina.morris@example.com,2025-09-09,Miami,FL,Referral
+C00286,Andrea Lewis,andrea.lewis@example.com,2024-02-10,Boston,MA,Organic Search
+C00287,Christopher Perez,christopher.perez@example.com,2024-05-28,Kansas City,MO,Email Marketing
+C00288,Brian Clarke,brian.clarke@example.com,2025-04-03,Dallas,TX,Organic Search
+C00289,James Johnson,james.johnson@example.com,2023-11-08,San Francisco,CA,Organic Search
+C00290,Meghan Johnson,meghan.johnson@example.com,2024-02-07,San Diego,CA,Paid Social
+C00291,Jennifer Dodson,jennifer.dodson@example.com,2025-08-22,Dallas,TX,Organic Search
+C00292,Maxwell Farley,maxwell.farley@example.com,2024-01-22,Chicago,IL,Paid Social
+C00293,Cheyenne Barajas,cheyenne.barajas@example.com,2023-12-02,San Francisco,CA,Organic Search
+C00294,Susan Good,susan.good@example.com,2025-07-03,Houston,TX,Email Marketing
+C00295,James Williams,james.williams@example.com,2024-01-06,Seattle,WA,Referral
+C00296,Abigail Sullivan,abigail.sullivan@example.com,2023-12-05,Milwaukee,WI,Referral
+C00297,Sherry Shah,sherry.shah@example.com,2023-10-26,Phoenix,AZ,Paid Social
+C00298,Patricia Sanchez,patricia.sanchez@example.com,2025-05-29,Orlando,FL,Organic Search
+C00299,Kelsey Farmer,kelsey.farmer@example.com,2024-08-01,Boston,MA,Paid Social
+C00300,Lauren Lee,lauren.lee@example.com,2025-05-25,Dallas,TX,Organic Search
+C00301,Melanie Kirk,melanie.kirk@example.com,2024-10-31,Raleigh,NC,Organic Search
+C00302,Robert Lozano,robert.lozano@example.com,2023-10-02,Seattle,WA,Referral
+C00303,Kimberly Johnson,kimberly.johnson@example.com,2025-04-13,Portland,OR,Organic Search
+C00304,Shannon Valencia,shannon.valencia@example.com,2025-09-06,San Francisco,CA,Paid Social
+C00305,Richard Dyer,richard.dyer@example.com,2023-10-02,Long Beach,CA,Organic Search
+C00306,Elizabeth Valenzuela,elizabeth.valenzuela@example.com,2025-02-04,Tampa,FL,Organic Search
+C00307,Phyllis Hicks,phyllis.hicks@example.com,2024-03-13,Sacramento,CA,Referral
+C00308,Marcia James,marcia.james@example.com,2023-11-15,Oklahoma City,OK,Referral
+C00309,Douglas Mcdonald,douglas.mcdonald@example.com,2025-03-28,Atlanta,GA,Organic Search
+C00310,Melanie Snyder,melanie.snyder@example.com,2024-04-15,Salt Lake City,UT,Paid Social
+C00311,Debbie Clarke,debbie.clarke@example.com,2024-07-28,Kansas City,MO,Referral
+C00312,Joshua Valdez,joshua.valdez@example.com,2025-01-05,New Orleans,LA,Organic Search
+C00313,Courtney Hess,courtney.hess@example.com,2025-01-01,New York,NY,Organic Search
+C00314,Sheila Pena,sheila.pena@example.com,2024-03-03,Minneapolis,MN,Paid Social
+C00315,Sean Oliver,sean.oliver@example.com,2024-01-24,Las Vegas,NV,Paid Social
+C00316,Jessica Avery,jessica.avery@example.com,2024-08-26,New Orleans,LA,Referral
+C00317,Sarah Gallagher,sarah.gallagher@example.com,2024-08-04,Pittsburgh,PA,Paid Social
+C00318,Jeffrey Lucas,jeffrey.lucas@example.com,2025-04-15,San Diego,CA,Organic Search
+C00319,Jacob Flowers,jacob.flowers@example.com,2025-08-09,Tampa,FL,Paid Social
+C00320,Shawn Horne,shawn.horne@example.com,2025-04-25,Philadelphia,PA,Referral
+C00321,Joshua Jenkins,joshua.jenkins@example.com,2025-04-09,Tucson,AZ,Organic Search
+C00322,Amy Frost,amy.frost@example.com,2024-07-25,Nashville,TN,Paid Social
+C00323,Deborah Ramos,deborah.ramos@example.com,2024-07-14,New York,NY,Organic Search
+C00324,Lisa Lambert,lisa.lambert@example.com,2023-11-02,Austin,TX,Organic Search
+C00325,Laura Lawson,laura.lawson@example.com,2025-08-23,Albuquerque,NM,Referral
+C00326,Lori Hess,lori.hess@example.com,2025-08-19,Arlington,TX,Email Marketing
+C00327,Matthew Campbell,matthew.campbell@example.com,2024-03-03,Louisville,KY,Paid Social
+C00328,Shelia Martinez,shelia.martinez@example.com,2024-01-12,Milwaukee,WI,Organic Search
+C00329,Jorge Jacobs,jorge.jacobs@example.com,2024-02-19,Boston,MA,Paid Social
+C00330,Larry Powell,larry.powell@example.com,2024-04-13,Arlington,TX,Referral
+C00331,Michelle Pearson,michelle.pearson@example.com,2024-08-30,Salt Lake City,UT,Referral
+C00332,Peter Gill,peter.gill@example.com,2025-08-15,Cincinnati,OH,Organic Search
+C00333,Shawn Richardson,shawn.richardson@example.com,2023-09-25,Kansas City,MO,Paid Social
+C00334,Stephanie Campbell,stephanie.campbell@example.com,2025-01-30,Long Beach,CA,Referral
+C00335,Rachael Parker,rachael.parker@example.com,2025-05-11,San Francisco,CA,Paid Social
+C00336,Kenneth Quinn,kenneth.quinn@example.com,2025-09-12,Oakland,CA,Referral
+C00337,Patricia Allen,patricia.allen@example.com,2025-02-22,Chicago,IL,Organic Search
+C00338,Michele Guerra,michele.guerra@example.com,2025-08-13,Raleigh,NC,Paid Social
+C00339,Drew Boyer,drew.boyer@example.com,2024-02-29,Arlington,TX,Email Marketing
+C00340,Michael Esparza,michael.esparza@example.com,2025-06-13,Austin,TX,Organic Search
+C00341,Alexis Baird,alexis.baird@example.com,2024-03-03,Orlando,FL,Referral
+C00342,Corey Mcintosh,corey.mcintosh@example.com,2025-07-02,New York,NY,Referral
+C00343,Jean Evans,jean.evans@example.com,2025-07-22,Nashville,TN,Referral
+C00344,Matthew Jimenez,matthew.jimenez@example.com,2024-03-11,Louisville,KY,Organic Search
+C00345,Rebekah Fowler,rebekah.fowler@example.com,2024-02-06,Tulsa,OK,Paid Social
+C00346,Sarah Mcpherson,sarah.mcpherson@example.com,2025-03-29,Arlington,TX,Organic Search
+C00347,Adam Young,adam.young@example.com,2025-01-25,Las Vegas,NV,Paid Social
+C00348,Cassandra Sullivan,cassandra.sullivan@example.com,2025-02-06,New York,NY,Paid Social
+C00349,Peter Brady,peter.brady@example.com,2025-02-25,Tulsa,OK,Referral
+C00350,Kristopher Smith,kristopher.smith@example.com,2024-07-01,San Francisco,CA,Organic Search
+C00351,Christina Dawson,christina.dawson@example.com,2025-01-29,Houston,TX,Paid Social
+C00352,Katherine Gilbert,katherine.gilbert@example.com,2024-12-02,Fresno,CA,Paid Social
+C00353,Alexander Johnson,alexander.johnson@example.com,2024-06-16,Dallas,TX,Paid Social
+C00354,Sonya Barrett,sonya.barrett@example.com,2025-04-13,Albuquerque,NM,Organic Search
+C00355,Catherine Smith,catherine.smith@example.com,2025-03-06,Pittsburgh,PA,Paid Social
+C00356,David Griffin,david.griffin@example.com,2025-09-20,Tucson,AZ,Referral
+C00357,Dawn Marshall,dawn.marshall@example.com,2024-01-29,Los Angeles,CA,Paid Social
+C00358,Anne Miller,anne.miller@example.com,2024-07-04,Las Vegas,NV,Paid Social
+C00359,Eric Bauer,eric.bauer@example.com,2023-09-25,Minneapolis,MN,Organic Search
+C00360,Paul Klein,paul.klein@example.com,2024-11-10,Fresno,CA,Organic Search
+C00361,Jacqueline Washington,jacqueline.washington@example.com,2024-11-21,New Orleans,LA,Organic Search
+C00362,Curtis Cardenas,curtis.cardenas@example.com,2023-09-25,Austin,TX,Referral
+C00363,Scott Daniels,scott.daniels@example.com,2025-02-07,Atlanta,GA,Paid Social
+C00364,Jill Hamilton,jill.hamilton@example.com,2025-04-23,Orlando,FL,Organic Search
+C00365,Breanna Perez,breanna.perez@example.com,2025-07-27,Miami,FL,Organic Search
+C00366,Christina White,christina.white@example.com,2024-05-22,Tampa,FL,Organic Search
+C00367,Sharon Mitchell,sharon.mitchell@example.com,2024-12-11,Raleigh,NC,Organic Search
+C00368,Mallory Leonard,mallory.leonard@example.com,2025-03-28,Kansas City,MO,Paid Social
+C00369,Bryan Murray,bryan.murray@example.com,2025-07-10,Orlando,FL,Referral
+C00370,Marcus Brown,marcus.brown@example.com,2025-07-08,Atlanta,GA,Referral
+C00371,Jeffery Mcbride,jeffery.mcbride@example.com,2024-08-24,Sacramento,CA,Paid Social
+C00372,Benjamin Jarvis,benjamin.jarvis@example.com,2025-09-18,Phoenix,AZ,Referral
+C00373,Angelica White,angelica.white@example.com,2025-02-10,Oakland,CA,Organic Search
+C00374,Leonard Olsen,leonard.olsen@example.com,2024-08-30,Denver,CO,Referral
+C00375,Rebekah Moore,rebekah.moore@example.com,2023-12-06,Denver,CO,Email Marketing
+C00376,Christopher Meyer,christopher.meyer@example.com,2025-06-28,Miami,FL,Paid Social
+C00377,Kevin Barnes,kevin.barnes@example.com,2024-01-19,San Francisco,CA,Organic Search
+C00378,Stacey Gordon,stacey.gordon@example.com,2025-02-15,Mesa,AZ,Referral
+C00379,Brianna Garner,brianna.garner@example.com,2024-07-20,Chicago,IL,Referral
+C00380,Cindy Nichols,cindy.nichols@example.com,2023-12-05,Los Angeles,CA,Paid Social
+C00381,Austin Stewart,austin.stewart@example.com,2025-02-17,Austin,TX,Referral
+C00382,Paul Robles,paul.robles@example.com,2025-07-15,Houston,TX,Organic Search
+C00383,Caleb Wade,caleb.wade@example.com,2023-10-10,Salt Lake City,UT,Referral
+C00384,Richard Barber,richard.barber@example.com,2024-05-30,Milwaukee,WI,Paid Social
+C00385,Donna Jones,donna.jones@example.com,2024-12-29,Arlington,TX,Email Marketing
+C00386,Anthony Evans,anthony.evans@example.com,2025-02-03,Virginia Beach,VA,Organic Search
+C00387,Zachary Young,zachary.young@example.com,2024-03-20,Cincinnati,OH,Organic Search
+C00388,Christopher King,christopher.king@example.com,2024-05-31,Sacramento,CA,Organic Search
+C00389,Heather Miller,heather.miller@example.com,2024-08-10,Charlotte,NC,Paid Social
+C00390,Michael Graham,michael.graham@example.com,2024-12-06,Houston,TX,Paid Social
+C00391,Jamie Dorsey,jamie.dorsey@example.com,2024-03-30,Sacramento,CA,Paid Social
+C00392,Alfred Freeman,alfred.freeman@example.com,2025-03-03,New Orleans,LA,Paid Social
+C00393,Jasmine Lin,jasmine.lin@example.com,2025-07-03,Austin,TX,Paid Social
+C00394,Janet Jones,janet.jones@example.com,2025-06-17,Chicago,IL,Organic Search
+C00395,Chelsea Crawford,chelsea.crawford@example.com,2023-10-31,Albuquerque,NM,Paid Social
+C00396,Kimberly Bartlett,kimberly.bartlett@example.com,2024-07-25,San Francisco,CA,Paid Social
+C00397,Matthew Walker,matthew.walker@example.com,2024-07-30,San Francisco,CA,Organic Search
+C00398,Margaret Perez,margaret.perez@example.com,2024-10-04,Baltimore,MD,Organic Search
+C00399,Adam Williams,adam.williams@example.com,2024-09-25,Phoenix,AZ,Paid Social
+C00400,Katie Owens,katie.owens@example.com,2023-11-23,Phoenix,AZ,Paid Social
+C00401,Rachel Barr,rachel.barr@example.com,2024-02-28,Pittsburgh,PA,Organic Search
+C00402,Valerie Mckinney,valerie.mckinney@example.com,2024-02-08,Boise,ID,Paid Social
+C00403,Joshua Hurley,joshua.hurley@example.com,2024-03-27,Arlington,TX,Organic Search
+C00404,Elizabeth Glass,elizabeth.glass@example.com,2025-01-22,Tucson,AZ,Email Marketing
+C00405,Angela Miller,angela.miller@example.com,2025-06-01,Tampa,FL,Organic Search
+C00406,Colleen Rodgers,colleen.rodgers@example.com,2024-07-04,Boston,MA,Paid Social
+C00407,Angela Hicks,angela.hicks@example.com,2024-05-05,Kansas City,MO,Organic Search
+C00408,Jonathan Brown,jonathan.brown@example.com,2023-10-28,Fresno,CA,Organic Search
+C00409,Ethan Villanueva,ethan.villanueva@example.com,2025-05-28,Tucson,AZ,Organic Search
+C00410,Martha Dixon,martha.dixon@example.com,2024-07-21,San Francisco,CA,Email Marketing
+C00411,Kathryn Cardenas,kathryn.cardenas@example.com,2025-04-14,Arlington,TX,Organic Search
+C00412,Shelly Savage,shelly.savage@example.com,2025-07-23,Virginia Beach,VA,Paid Social
+C00413,Carla Miller,carla.miller@example.com,2025-07-14,Albuquerque,NM,Organic Search
+C00414,Justin Martinez,justin.martinez@example.com,2025-05-04,Boise,ID,Organic Search
+C00415,Caleb Johnson,caleb.johnson@example.com,2025-02-08,Tucson,AZ,Paid Social
+C00416,Jennifer Mcfarland,jennifer.mcfarland@example.com,2024-01-24,San Diego,CA,Paid Social
+C00417,Angela Gordon,angela.gordon@example.com,2024-05-03,Columbus,OH,Paid Social
+C00418,Brandy Fisher,brandy.fisher@example.com,2024-02-07,Seattle,WA,Paid Social
+C00419,Kristin Day,kristin.day@example.com,2025-05-29,Virginia Beach,VA,Organic Search
+C00420,Anne White,anne.white@example.com,2024-03-10,Nashville,TN,Organic Search
+C00421,Steven Young,steven.young@example.com,2023-11-25,Houston,TX,Paid Social
+C00422,Janet Martinez,janet.martinez@example.com,2024-09-24,Austin,TX,Organic Search
+C00423,Samantha Pierce,samantha.pierce@example.com,2024-10-03,Portland,OR,Referral
+C00424,Steven Deleon,steven.deleon@example.com,2024-02-26,Boston,MA,Organic Search
+C00425,Pamela Stone,pamela.stone@example.com,2023-10-28,Fresno,CA,Referral
+C00426,Catherine Gay,catherine.gay@example.com,2024-03-10,Long Beach,CA,Organic Search
+C00427,Frederick Garza,frederick.garza@example.com,2025-01-18,Tucson,AZ,Paid Social
+C00428,Shawn Fletcher,shawn.fletcher@example.com,2025-05-09,San Diego,CA,Organic Search
+C00429,Christopher Spencer,christopher.spencer@example.com,2025-01-05,Salt Lake City,UT,Referral
+C00430,Joanna Roberts,joanna.roberts@example.com,2025-06-07,Charlotte,NC,Organic Search
+C00431,Stephanie Sparks,stephanie.sparks@example.com,2025-02-16,Miami,FL,Paid Social
+C00432,Rachel Mcclure,rachel.mcclure@example.com,2024-02-09,Fresno,CA,Organic Search
+C00433,John Donovan,john.donovan@example.com,2024-08-02,Kansas City,MO,Organic Search
+C00434,Thomas Patel,thomas.patel@example.com,2024-02-10,Miami,FL,Paid Social
+C00435,Edward Brown,edward.brown@example.com,2023-11-10,Memphis,TN,Paid Social
+C00436,Darlene Hayes,darlene.hayes@example.com,2024-03-23,Indianapolis,IN,Email Marketing
+C00437,Brandon Payne,brandon.payne@example.com,2024-12-09,Houston,TX,Email Marketing
+C00438,Lauren Anderson,lauren.anderson@example.com,2024-02-27,Albuquerque,NM,Organic Search
+C00439,Jordan Thornton,jordan.thornton@example.com,2023-11-11,Denver,CO,Paid Social
+C00440,Mason Shelton,mason.shelton@example.com,2025-03-06,Phoenix,AZ,Email Marketing
+C00441,Brian Willis,brian.willis@example.com,2025-08-19,Sacramento,CA,Paid Social
+C00442,Victoria Miller,victoria.miller@example.com,2024-02-12,Columbus,OH,Organic Search
+C00443,Katie Conway,katie.conway@example.com,2024-04-25,Columbus,OH,Organic Search
+C00444,Tammy Sherman,tammy.sherman@example.com,2024-09-23,Long Beach,CA,Organic Search
+C00445,Sonya Thompson,sonya.thompson@example.com,2024-03-15,Austin,TX,Paid Social
+C00446,Beth Everett,beth.everett@example.com,2025-05-07,Kansas City,MO,Paid Social
+C00447,David Gates,david.gates@example.com,2025-03-04,Pittsburgh,PA,Email Marketing
+C00448,Theresa Lane,theresa.lane@example.com,2024-09-11,Arlington,TX,Paid Social
+C00449,Daniel Thompson,daniel.thompson@example.com,2024-02-09,Charlotte,NC,Referral
+C00450,Stephanie Fisher,stephanie.fisher@example.com,2024-05-14,Los Angeles,CA,Organic Search
+C00451,Tommy Anderson,tommy.anderson@example.com,2025-05-20,Denver,CO,Referral
+C00452,Zachary Shaffer,zachary.shaffer@example.com,2024-02-11,San Francisco,CA,Organic Search
+C00453,Edward Johnson,edward.johnson@example.com,2024-12-10,Cleveland,OH,Organic Search
+C00454,Michael Ramos,michael.ramos@example.com,2025-07-09,Louisville,KY,Organic Search
+C00455,Tammy Garza,tammy.garza@example.com,2023-11-12,Baltimore,MD,Paid Social
+C00456,April Jordan,april.jordan@example.com,2024-08-26,Charlotte,NC,Organic Search
+C00457,Edward Barnes,edward.barnes@example.com,2024-11-13,New Orleans,LA,Organic Search
+C00458,Paige Washington,paige.washington@example.com,2024-02-06,Los Angeles,CA,Email Marketing
+C00459,Michael Wilson,michael.wilson@example.com,2025-05-03,Louisville,KY,Organic Search
+C00460,Tracy Hicks,tracy.hicks@example.com,2023-09-29,Seattle,WA,Referral
+C00461,Daniel Anderson,daniel.anderson@example.com,2024-08-09,New Orleans,LA,Paid Social
+C00462,Stephen Williams,stephen.williams@example.com,2025-02-19,Boston,MA,Referral
+C00463,Jody Powers,jody.powers@example.com,2025-03-31,San Diego,CA,Organic Search
+C00464,Olivia Smith,olivia.smith@example.com,2025-09-20,Phoenix,AZ,Paid Social
+C00465,Troy Ruiz,troy.ruiz@example.com,2025-09-09,Miami,FL,Referral
+C00466,Michael Cain,michael.cain@example.com,2024-07-28,Cleveland,OH,Organic Search
+C00467,Kristin Williams,kristin.williams@example.com,2024-09-09,Tulsa,OK,Paid Social
+C00468,Kevin Sherman,kevin.sherman@example.com,2023-12-09,Virginia Beach,VA,Organic Search
+C00469,Tonya Long,tonya.long@example.com,2024-04-18,Mesa,AZ,Organic Search
+C00470,Melissa Turner,melissa.turner@example.com,2024-01-12,Las Vegas,NV,Referral
+C00471,Shawn Blake,shawn.blake@example.com,2024-08-06,Phoenix,AZ,Organic Search
+C00472,Sara Valentine,sara.valentine@example.com,2024-07-03,Salt Lake City,UT,Referral
+C00473,Brenda Carter,brenda.carter@example.com,2024-07-21,Houston,TX,Paid Social
+C00474,Richard Mcbride,richard.mcbride@example.com,2024-07-24,Austin,TX,Organic Search
+C00475,Matthew Day,matthew.day@example.com,2025-03-10,Cleveland,OH,Paid Social
+C00476,Cheryl Soto,cheryl.soto@example.com,2025-03-10,Boise,ID,Organic Search
+C00477,Jeffrey Durham,jeffrey.durham@example.com,2024-12-01,Salt Lake City,UT,Referral
+C00478,Samantha Lawrence,samantha.lawrence@example.com,2025-02-03,Los Angeles,CA,Referral
+C00479,Zachary Lee,zachary.lee@example.com,2024-03-05,Austin,TX,Referral
+C00480,Patricia Lopez,patricia.lopez@example.com,2024-07-07,Tulsa,OK,Organic Search
+C00481,Alexis Pena,alexis.pena@example.com,2024-07-14,Philadelphia,PA,Paid Social
+C00482,Briana Pollard,briana.pollard@example.com,2024-03-09,Virginia Beach,VA,Paid Social
+C00483,Tammy Horton,tammy.horton@example.com,2025-05-03,Orlando,FL,Organic Search
+C00484,Nathaniel Smith,nathaniel.smith@example.com,2025-04-02,Sacramento,CA,Organic Search
+C00485,George Hess,george.hess@example.com,2024-06-01,Louisville,KY,Paid Social
+C00486,Lori Gregory,lori.gregory@example.com,2023-10-16,Baltimore,MD,Organic Search
+C00487,Veronica Harris,veronica.harris@example.com,2025-05-28,Boston,MA,Organic Search
+C00488,Jeffrey Padilla,jeffrey.padilla@example.com,2024-03-29,Memphis,TN,Paid Social
+C00489,Luis Owens,luis.owens@example.com,2024-05-07,Sacramento,CA,Email Marketing
+C00490,Garrett Tucker,garrett.tucker@example.com,2024-02-11,Dallas,TX,Email Marketing
+C00491,Summer Wilson,summer.wilson@example.com,2024-08-08,Los Angeles,CA,Organic Search
+C00492,Penny Wilson,penny.wilson@example.com,2024-11-19,Miami,FL,Email Marketing
+C00493,Alexandra Roberts,alexandra.roberts@example.com,2025-09-05,Charlotte,NC,Paid Social
+C00494,Stephanie Harris,stephanie.harris@example.com,2024-03-05,Houston,TX,Organic Search
+C00495,Joshua Soto,joshua.soto@example.com,2025-01-04,Seattle,WA,Referral
+C00496,William Foster,william.foster@example.com,2025-04-05,Portland,OR,Organic Search
+C00497,Andrew Mahoney,andrew.mahoney@example.com,2024-06-12,San Diego,CA,Paid Social
+C00498,Scott Gay,scott.gay@example.com,2025-06-22,Oakland,CA,Paid Social
+C00499,Andrea Day,andrea.day@example.com,2024-06-22,San Francisco,CA,Paid Social
+C00500,Bryan Mccoy,bryan.mccoy@example.com,2024-01-05,San Francisco,CA,Referral
+C00501,Denise Martinez,denise.martinez@example.com,2024-09-09,Tampa,FL,Referral
+C00502,Robert Davis,robert.davis@example.com,2023-10-12,Tampa,FL,Paid Social
+C00503,Thomas Fitzpatrick,thomas.fitzpatrick@example.com,2024-11-06,Milwaukee,WI,Paid Social
+C00504,Michael Clark,michael.clark@example.com,2024-08-27,Tulsa,OK,Organic Search
+C00505,Shaun Fischer,shaun.fischer@example.com,2023-11-03,Phoenix,AZ,Email Marketing
+C00506,Benjamin Hensley,benjamin.hensley@example.com,2023-12-16,Orlando,FL,Paid Social
+C00507,Jeffrey Stuart,jeffrey.stuart@example.com,2025-01-10,Long Beach,CA,Paid Social
+C00508,Ashley Sanchez,ashley.sanchez@example.com,2024-05-30,New York,NY,Paid Social
+C00509,Angela Young,angela.young@example.com,2025-09-20,Louisville,KY,Referral
+C00510,Thomas Mendez,thomas.mendez@example.com,2023-09-22,Virginia Beach,VA,Referral
+C00511,Tiffany Chavez,tiffany.chavez@example.com,2025-04-01,Arlington,TX,Paid Social
+C00512,Thomas Grant,thomas.grant@example.com,2024-08-25,New York,NY,Referral
+C00513,Richard Bates,richard.bates@example.com,2025-02-22,Milwaukee,WI,Organic Search
+C00514,Danielle Gonzales,danielle.gonzales@example.com,2023-10-31,Nashville,TN,Referral
+C00515,Nancy Sampson,nancy.sampson@example.com,2025-05-01,Charlotte,NC,Organic Search
+C00516,Jessica Porter,jessica.porter@example.com,2024-12-05,Oakland,CA,Paid Social
+C00517,Amy Jones,amy.jones@example.com,2025-08-16,Tampa,FL,Organic Search
+C00518,Nicole Richards,nicole.richards@example.com,2023-10-23,Oklahoma City,OK,Paid Social
+C00519,Samantha Davis,samantha.davis@example.com,2024-01-02,Arlington,TX,Organic Search
+C00520,Elizabeth Davenport,elizabeth.davenport@example.com,2024-11-27,Columbus,OH,Organic Search
+C00521,Joshua Morrison,joshua.morrison@example.com,2025-01-31,Kansas City,MO,Organic Search
+C00522,Carlos Rice,carlos.rice@example.com,2023-12-18,Raleigh,NC,Paid Social
+C00523,James Bates,james.bates@example.com,2024-09-26,Boise,ID,Paid Social
+C00524,Cody Norman,cody.norman@example.com,2023-10-27,San Francisco,CA,Referral
+C00525,Matthew Hernandez,matthew.hernandez@example.com,2024-08-03,Boise,ID,Organic Search
+C00526,Arthur Smith,arthur.smith@example.com,2024-05-13,Tucson,AZ,Referral
+C00527,Robert Thompson,robert.thompson@example.com,2024-01-11,Atlanta,GA,Organic Search
+C00528,Kimberly Rose,kimberly.rose@example.com,2025-09-05,Minneapolis,MN,Organic Search
+C00529,Julia Wilson,julia.wilson@example.com,2024-05-30,Oakland,CA,Organic Search
+C00530,Billy Cummings,billy.cummings@example.com,2024-12-07,Columbus,OH,Referral
+C00531,David Oconnor,david.oconnor@example.com,2024-03-15,Cleveland,OH,Organic Search
+C00532,Isabella Jackson,isabella.jackson@example.com,2025-07-20,Sacramento,CA,Paid Social
+C00533,Scott Watts,scott.watts@example.com,2024-01-06,Nashville,TN,Paid Social
+C00534,Jonathan Garner,jonathan.garner@example.com,2025-04-05,San Francisco,CA,Referral
+C00535,Megan Chen,megan.chen@example.com,2025-07-15,Oklahoma City,OK,Paid Social
+C00536,Ryan Patrick,ryan.patrick@example.com,2024-02-01,Albuquerque,NM,Paid Social
+C00537,Courtney Blake,courtney.blake@example.com,2024-06-05,San Francisco,CA,Paid Social
+C00538,Brittany Bates,brittany.bates@example.com,2024-08-14,Cleveland,OH,Paid Social
+C00539,Todd Rodriguez,todd.rodriguez@example.com,2024-11-28,Long Beach,CA,Paid Social
+C00540,Heather Lopez,heather.lopez@example.com,2025-08-20,Houston,TX,Paid Social
+C00541,Kristin Torres,kristin.torres@example.com,2025-07-27,Miami,FL,Email Marketing
+C00542,Taylor Miller,taylor.miller@example.com,2025-06-13,Louisville,KY,Organic Search
+C00543,Jason Hughes,jason.hughes@example.com,2023-12-05,Virginia Beach,VA,Organic Search
+C00544,Tonya Rodriguez,tonya.rodriguez@example.com,2023-11-14,Orlando,FL,Organic Search
+C00545,Kevin Thomas,kevin.thomas@example.com,2024-10-27,Salt Lake City,UT,Email Marketing
+C00546,Melanie Lopez,melanie.lopez@example.com,2023-12-10,Seattle,WA,Paid Social
+C00547,Michael Powers,michael.powers@example.com,2025-05-08,Tampa,FL,Organic Search
+C00548,James Washington,james.washington@example.com,2025-02-01,Los Angeles,CA,Organic Search
+C00549,Ronald Cabrera,ronald.cabrera@example.com,2025-01-27,San Francisco,CA,Organic Search
+C00550,Richard Duarte,richard.duarte@example.com,2025-03-26,Sacramento,CA,Organic Search
+C00551,Allen Whitney,allen.whitney@example.com,2024-02-08,San Diego,CA,Paid Social
+C00552,Cindy Sanders,cindy.sanders@example.com,2024-02-10,Houston,TX,Referral
+C00553,Billy Wright,billy.wright@example.com,2025-04-18,Oklahoma City,OK,Organic Search
+C00554,Shannon Miller,shannon.miller@example.com,2024-01-28,Indianapolis,IN,Organic Search
+C00555,Jason West,jason.west@example.com,2024-02-24,Pittsburgh,PA,Referral
+C00556,Brittany Sanchez,brittany.sanchez@example.com,2024-08-28,Virginia Beach,VA,Email Marketing
+C00557,Martha Cain,martha.cain@example.com,2025-04-15,Richmond,VA,Organic Search
+C00558,Jessica Hall,jessica.hall@example.com,2025-04-13,Tulsa,OK,Referral
+C00559,Jessica Benjamin,jessica.benjamin@example.com,2024-12-27,Pittsburgh,PA,Organic Search
+C00560,Rachel Knight,rachel.knight@example.com,2023-12-15,Los Angeles,CA,Paid Social
+C00561,Cristina Holden,cristina.holden@example.com,2024-02-12,Richmond,VA,Email Marketing
+C00562,Michelle Bonilla,michelle.bonilla@example.com,2024-10-23,Miami,FL,Organic Search
+C00563,Renee Brown,renee.brown@example.com,2025-01-23,Austin,TX,Referral
+C00564,Jennifer Horton,jennifer.horton@example.com,2024-12-13,Salt Lake City,UT,Paid Social
+C00565,David Harris,david.harris@example.com,2024-07-16,Atlanta,GA,Paid Social
+C00566,Michael Bowman,michael.bowman@example.com,2025-07-07,Cincinnati,OH,Referral
+C00567,Daniel Price,daniel.price@example.com,2025-08-01,Arlington,TX,Paid Social
+C00568,Jessica Sanchez,jessica.sanchez@example.com,2024-02-19,Tucson,AZ,Email Marketing
+C00569,Kyle Patterson,kyle.patterson@example.com,2024-10-22,Fresno,CA,Organic Search
+C00570,Traci Mitchell,traci.mitchell@example.com,2024-06-05,Minneapolis,MN,Referral
+C00571,Joseph Burns,joseph.burns@example.com,2024-02-20,Tampa,FL,Organic Search
+C00572,Frank Martinez,frank.martinez@example.com,2024-03-23,Houston,TX,Paid Social
+C00573,Tyler Washington,tyler.washington@example.com,2025-07-27,Las Vegas,NV,Paid Social
+C00574,William Armstrong,william.armstrong@example.com,2025-03-01,Las Vegas,NV,Referral
+C00575,Marissa Hinton,marissa.hinton@example.com,2024-07-15,Denver,CO,Email Marketing
+C00576,Dennis Benton,dennis.benton@example.com,2024-11-16,Los Angeles,CA,Paid Social
+C00577,Nicole Thomas,nicole.thomas@example.com,2025-05-28,Cleveland,OH,Organic Search
+C00578,Ariana Bailey,ariana.bailey@example.com,2024-07-29,New York,NY,Email Marketing
+C00579,Lindsay Taylor,lindsay.taylor@example.com,2024-01-13,Sacramento,CA,Paid Social
+C00580,Patrick Velazquez,patrick.velazquez@example.com,2024-10-20,Sacramento,CA,Organic Search
+C00581,Todd Buck,todd.buck@example.com,2024-01-11,Nashville,TN,Organic Search
+C00582,Christina Black,christina.black@example.com,2024-07-12,Philadelphia,PA,Paid Social
+C00583,Troy Carroll,troy.carroll@example.com,2024-11-11,Los Angeles,CA,Organic Search
+C00584,Kylie Adams,kylie.adams@example.com,2025-04-11,Atlanta,GA,Email Marketing
+C00585,Joshua Green,joshua.green@example.com,2025-01-05,Dallas,TX,Organic Search
+C00586,Sarah Velasquez,sarah.velasquez@example.com,2025-07-17,Louisville,KY,Paid Social
+C00587,Joseph Blankenship,joseph.blankenship@example.com,2025-03-10,Dallas,TX,Organic Search
+C00588,Elizabeth Williams,elizabeth.williams@example.com,2024-01-28,Oakland,CA,Organic Search
+C00589,Jordan Wall,jordan.wall@example.com,2025-03-09,Kansas City,MO,Paid Social
+C00590,Dana Wilson,dana.wilson@example.com,2024-11-01,Long Beach,CA,Referral
+C00591,Derrick Burke,derrick.burke@example.com,2025-05-13,Minneapolis,MN,Organic Search
+C00592,Robin Johnson,robin.johnson@example.com,2025-07-04,Portland,OR,Organic Search
+C00593,Alyssa Rollins,alyssa.rollins@example.com,2025-03-13,Dallas,TX,Paid Social
+C00594,Nicole Boyd,nicole.boyd@example.com,2025-07-08,Fresno,CA,Email Marketing
+C00595,Stacey Barnes,stacey.barnes@example.com,2025-02-06,Charlotte,NC,Paid Social
+C00596,Audrey Lane,audrey.lane@example.com,2025-03-05,Columbus,OH,Organic Search
+C00597,Adam Hernandez,adam.hernandez@example.com,2024-05-09,Phoenix,AZ,Paid Social
+C00598,Nichole Vargas,nichole.vargas@example.com,2024-06-11,Los Angeles,CA,Organic Search
+C00599,Mary Porter,mary.porter@example.com,2025-03-29,Tulsa,OK,Organic Search
+C00600,Timothy Galloway,timothy.galloway@example.com,2025-08-10,Phoenix,AZ,Organic Search
+C00601,Michael Walker,michael.walker@example.com,2025-04-29,San Diego,CA,Email Marketing
+C00602,Madison Smith,madison.smith@example.com,2024-05-29,Fresno,CA,Referral
+C00603,Tyrone Francis,tyrone.francis@example.com,2024-12-19,Charlotte,NC,Paid Social
+C00604,Todd Hendricks,todd.hendricks@example.com,2024-09-12,Memphis,TN,Organic Search
+C00605,Tiffany Mills,tiffany.mills@example.com,2024-08-11,Dallas,TX,Paid Social
+C00606,Douglas White,douglas.white@example.com,2025-05-24,Tucson,AZ,Referral
+C00607,Lori Lopez,lori.lopez@example.com,2025-07-02,San Francisco,CA,Referral
+C00608,Susan Haynes,susan.haynes@example.com,2023-10-06,San Diego,CA,Referral
+C00609,James Cross,james.cross@example.com,2025-06-07,Boise,ID,Paid Social
+C00610,Matthew Choi,matthew.choi@example.com,2024-10-27,Nashville,TN,Paid Social
+C00611,Renee Foster,renee.foster@example.com,2025-05-07,Philadelphia,PA,Email Marketing
+C00612,Nicholas Powell,nicholas.powell@example.com,2024-01-24,Raleigh,NC,Organic Search
+C00613,Andrew Figueroa,andrew.figueroa@example.com,2025-08-11,Tampa,FL,Paid Social
+C00614,Richard Henry,richard.henry@example.com,2024-02-17,Philadelphia,PA,Paid Social
+C00615,Natalie Anderson,natalie.anderson@example.com,2024-07-13,Oakland,CA,Referral
+C00616,Barbara Cuevas,barbara.cuevas@example.com,2025-04-28,Los Angeles,CA,Referral
+C00617,Amanda Smith,amanda.smith@example.com,2025-04-15,Austin,TX,Organic Search
+C00618,Lauren Rodgers,lauren.rodgers@example.com,2024-02-18,Chicago,IL,Organic Search
+C00619,James Jackson,james.jackson@example.com,2025-01-29,Oakland,CA,Referral
+C00620,Edward Poole,edward.poole@example.com,2024-06-15,Austin,TX,Organic Search
+C00621,Joseph Lindsey,joseph.lindsey@example.com,2025-03-16,Fresno,CA,Paid Social
+C00622,Emma Ramos,emma.ramos@example.com,2025-04-01,Nashville,TN,Organic Search
+C00623,Johnny Dunn,johnny.dunn@example.com,2024-02-14,Pittsburgh,PA,Organic Search
+C00624,Mary Bryant,mary.bryant@example.com,2024-03-18,Louisville,KY,Organic Search
+C00625,Mark Morrison,mark.morrison@example.com,2024-06-25,Sacramento,CA,Referral
+C00626,James Wallace,james.wallace@example.com,2024-08-10,Las Vegas,NV,Referral
+C00627,Mark Ruiz,mark.ruiz@example.com,2025-05-17,Dallas,TX,Paid Social
+C00628,Lauren Smith,lauren.smith@example.com,2024-12-29,Portland,OR,Referral
+C00629,Alex Mcfarland,alex.mcfarland@example.com,2024-05-27,Albuquerque,NM,Organic Search
+C00630,Amanda Luna,amanda.luna@example.com,2024-11-20,Mesa,AZ,Referral
+C00631,Amy Williams,amy.williams@example.com,2024-10-25,Seattle,WA,Organic Search
+C00632,Kristin Stone,kristin.stone@example.com,2024-12-13,Memphis,TN,Paid Social
+C00633,Jennifer Gordon,jennifer.gordon@example.com,2025-08-27,Charlotte,NC,Paid Social
+C00634,Kenneth Wilson,kenneth.wilson@example.com,2024-05-05,Dallas,TX,Organic Search
+C00635,John Price,john.price@example.com,2024-09-26,Kansas City,MO,Paid Social
+C00636,Lindsey Berry,lindsey.berry@example.com,2025-03-21,Indianapolis,IN,Organic Search
+C00637,Heather Jackson,heather.jackson@example.com,2023-12-12,Los Angeles,CA,Referral
+C00638,Justin Carter,justin.carter@example.com,2025-06-17,San Francisco,CA,Organic Search
+C00639,Troy Porter,troy.porter@example.com,2023-11-26,San Francisco,CA,Paid Social
+C00640,Mary Anthony,mary.anthony@example.com,2024-05-20,Austin,TX,Referral
+C00641,Andres Ray,andres.ray@example.com,2025-02-17,New York,NY,Organic Search
+C00642,Felicia Ramirez,felicia.ramirez@example.com,2024-01-17,Houston,TX,Referral
+C00643,Matthew Liu,matthew.liu@example.com,2023-10-09,Tulsa,OK,Paid Social
+C00644,Jennifer Martinez,jennifer.martinez@example.com,2025-03-18,Sacramento,CA,Organic Search
+C00645,Kimberly Lewis,kimberly.lewis@example.com,2024-05-25,Seattle,WA,Referral
+C00646,Timothy Grimes,timothy.grimes@example.com,2025-05-20,Las Vegas,NV,Organic Search
+C00647,Grace Jones,grace.jones@example.com,2025-03-12,Dallas,TX,Email Marketing
+C00648,Timothy Daniel,timothy.daniel@example.com,2024-07-24,Charlotte,NC,Organic Search
+C00649,Michelle Thompson,michelle.thompson@example.com,2024-05-21,Charlotte,NC,Paid Social
+C00650,Kenneth Hoffman,kenneth.hoffman@example.com,2024-09-05,Albuquerque,NM,Referral
+C00651,Warren Jones,warren.jones@example.com,2023-11-27,Phoenix,AZ,Referral
+C00652,Jose Wood,jose.wood@example.com,2025-03-24,Sacramento,CA,Organic Search
+C00653,Michele Chen,michele.chen@example.com,2025-08-14,Long Beach,CA,Organic Search
+C00654,Mitchell Trujillo,mitchell.trujillo@example.com,2024-11-04,Arlington,TX,Referral
+C00655,Ashley Martin,ashley.martin@example.com,2024-07-16,San Diego,CA,Referral
+C00656,Molly Osborne,molly.osborne@example.com,2024-02-19,Philadelphia,PA,Referral
+C00657,Benjamin Wood,benjamin.wood@example.com,2025-08-09,Baltimore,MD,Paid Social
+C00658,Evelyn Smith,evelyn.smith@example.com,2024-12-02,Tulsa,OK,Email Marketing
+C00659,Keith Arnold,keith.arnold@example.com,2024-04-06,San Diego,CA,Organic Search
+C00660,Edward Davis,edward.davis@example.com,2024-01-02,Columbus,OH,Organic Search
+C00661,Kenneth Mclaughlin,kenneth.mclaughlin@example.com,2024-10-20,Arlington,TX,Organic Search
+C00662,Amber Moreno,amber.moreno@example.com,2024-11-06,Oklahoma City,OK,Organic Search
+C00663,Christian Carter,christian.carter@example.com,2024-09-26,Tucson,AZ,Paid Social
+C00664,Tyler Cox,tyler.cox@example.com,2024-03-20,Minneapolis,MN,Organic Search
+C00665,Jason Wright,jason.wright@example.com,2025-05-17,Richmond,VA,Referral
+C00666,Zachary Reeves,zachary.reeves@example.com,2024-01-16,Nashville,TN,Paid Social
+C00667,Briana Nelson,briana.nelson@example.com,2023-11-09,Miami,FL,Organic Search
+C00668,Jennifer Ward,jennifer.ward@example.com,2024-03-07,Orlando,FL,Organic Search
+C00669,Matthew White,matthew.white@example.com,2024-04-08,Boise,ID,Organic Search
+C00670,Doris Solomon,doris.solomon@example.com,2024-07-21,Pittsburgh,PA,Organic Search
+C00671,Jonathan Garza,jonathan.garza@example.com,2024-04-11,Denver,CO,Organic Search
+C00672,Audrey Smith,audrey.smith@example.com,2024-01-21,Memphis,TN,Organic Search
+C00673,Tony Jacobson,tony.jacobson@example.com,2023-12-25,New Orleans,LA,Paid Social
+C00674,Rachel Kirk,rachel.kirk@example.com,2024-08-22,Las Vegas,NV,Organic Search
+C00675,Vanessa Johnson,vanessa.johnson@example.com,2023-11-24,Fresno,CA,Organic Search
+C00676,Brett Jones,brett.jones@example.com,2024-05-27,Boise,ID,Referral
+C00677,Brooke Nunez,brooke.nunez@example.com,2025-06-23,Kansas City,MO,Paid Social
+C00678,Sherry Williams,sherry.williams@example.com,2024-02-18,Long Beach,CA,Organic Search
+C00679,David Gallegos,david.gallegos@example.com,2023-11-30,Albuquerque,NM,Organic Search
+C00680,Jonathan Klein,jonathan.klein@example.com,2024-04-01,Boston,MA,Paid Social
+C00681,Sherry Arnold,sherry.arnold@example.com,2025-03-19,Houston,TX,Organic Search
+C00682,Cody Wilson,cody.wilson@example.com,2025-01-15,Arlington,TX,Email Marketing
+C00683,Russell Hubbard,russell.hubbard@example.com,2024-10-23,Boise,ID,Organic Search
+C00684,Teresa Page,teresa.page@example.com,2025-06-26,New York,NY,Organic Search
+C00685,Anthony Collins,anthony.collins@example.com,2024-10-28,New York,NY,Email Marketing
+C00686,James Aguirre,james.aguirre@example.com,2023-09-30,Sacramento,CA,Paid Social
+C00687,Scott Delgado,scott.delgado@example.com,2024-01-23,Long Beach,CA,Paid Social
+C00688,Michelle Rich,michelle.rich@example.com,2025-04-22,Houston,TX,Referral
+C00689,Curtis Kline,curtis.kline@example.com,2025-01-10,Cleveland,OH,Organic Search
+C00690,Joe Thompson,joe.thompson@example.com,2024-03-03,San Diego,CA,Referral
+C00691,John Olson,john.olson@example.com,2025-09-09,Orlando,FL,Organic Search
+C00692,Robert Beck,robert.beck@example.com,2023-10-26,Milwaukee,WI,Organic Search
+C00693,Jason Smith,jason.smith@example.com,2025-06-05,New York,NY,Referral
+C00694,William Bennett,william.bennett@example.com,2025-05-28,Seattle,WA,Referral
+C00695,Brandon Simpson,brandon.simpson@example.com,2023-11-09,Cleveland,OH,Organic Search
+C00696,Joseph Lee,joseph.lee@example.com,2025-01-19,Oakland,CA,Email Marketing
+C00697,Gerald Johnson,gerald.johnson@example.com,2024-03-24,Austin,TX,Paid Social
+C00698,Michelle Tucker,michelle.tucker@example.com,2025-05-31,Denver,CO,Referral
+C00699,Rhonda Cortez,rhonda.cortez@example.com,2024-04-01,Las Vegas,NV,Organic Search
+C00700,Robert Patterson,robert.patterson@example.com,2024-12-28,San Francisco,CA,Paid Social
+C00701,Kathryn Bryant,kathryn.bryant@example.com,2025-05-25,Boise,ID,Paid Social
+C00702,Bonnie Griffin,bonnie.griffin@example.com,2024-03-06,Chicago,IL,Paid Social
+C00703,Lori Cook,lori.cook@example.com,2023-10-30,New Orleans,LA,Organic Search
+C00704,Joshua Fisher,joshua.fisher@example.com,2024-07-28,Albuquerque,NM,Paid Social
+C00705,Donald Parrish,donald.parrish@example.com,2025-08-14,Indianapolis,IN,Referral
+C00706,Dawn Torres,dawn.torres@example.com,2024-06-05,Columbus,OH,Organic Search
+C00707,Brian Pugh,brian.pugh@example.com,2023-10-10,Salt Lake City,UT,Organic Search
+C00708,Jesse Guerrero,jesse.guerrero@example.com,2025-06-09,Los Angeles,CA,Organic Search
+C00709,Eric Francis,eric.francis@example.com,2025-06-26,Los Angeles,CA,Organic Search
+C00710,Joseph Wood,joseph.wood@example.com,2024-07-14,Cleveland,OH,Paid Social
+C00711,Richard Brown,richard.brown@example.com,2023-11-09,San Francisco,CA,Paid Social
+C00712,Elizabeth Young,elizabeth.young@example.com,2023-12-29,San Diego,CA,Paid Social
+C00713,Stephanie Hayes,stephanie.hayes@example.com,2025-01-27,San Francisco,CA,Paid Social
+C00714,Robin Norris,robin.norris@example.com,2025-03-06,Columbus,OH,Organic Search
+C00715,Ethan Sanders,ethan.sanders@example.com,2025-07-12,Baltimore,MD,Organic Search
+C00716,Dawn White,dawn.white@example.com,2025-01-15,San Francisco,CA,Referral
+C00717,Timothy Haynes,timothy.haynes@example.com,2024-12-29,Tucson,AZ,Organic Search
+C00718,Jessica Davis,jessica.davis@example.com,2025-06-27,Pittsburgh,PA,Email Marketing
+C00719,Dennis Aguilar,dennis.aguilar@example.com,2025-05-11,Phoenix,AZ,Organic Search
+C00720,Sarah Barajas,sarah.barajas@example.com,2025-04-01,New York,NY,Organic Search
+C00721,Kenneth Key,kenneth.key@example.com,2025-09-21,Dallas,TX,Referral
+C00722,Brianna Gordon,brianna.gordon@example.com,2025-09-08,San Francisco,CA,Paid Social
+C00723,Brian Lee,brian.lee@example.com,2025-07-03,Minneapolis,MN,Paid Social
+C00724,Eric Rosales,eric.rosales@example.com,2023-12-31,Arlington,TX,Organic Search
+C00725,James Martinez,james.martinez@example.com,2024-11-24,Tampa,FL,Organic Search
+C00726,Marcus Reed,marcus.reed@example.com,2025-05-29,Oklahoma City,OK,Organic Search
+C00727,Joseph Andrews,joseph.andrews@example.com,2025-05-07,Houston,TX,Referral
+C00728,Samantha Hinton,samantha.hinton@example.com,2023-12-19,Cincinnati,OH,Referral
+C00729,Latoya Chavez,latoya.chavez@example.com,2025-06-21,Albuquerque,NM,Paid Social
+C00730,Nicole Davis,nicole.davis@example.com,2023-11-29,Dallas,TX,Organic Search
+C00731,Elizabeth Hernandez,elizabeth.hernandez@example.com,2024-08-24,Miami,FL,Referral
+C00732,Diana Wilcox,diana.wilcox@example.com,2025-08-22,Oklahoma City,OK,Organic Search
+C00733,Sherry Reynolds,sherry.reynolds@example.com,2024-12-19,New Orleans,LA,Paid Social
+C00734,Leah Kirk,leah.kirk@example.com,2025-08-16,Richmond,VA,Organic Search
+C00735,Cassandra Miller,cassandra.miller@example.com,2024-04-22,Minneapolis,MN,Organic Search
+C00736,Patrick Lopez,patrick.lopez@example.com,2024-07-13,San Diego,CA,Organic Search
+C00737,Donna Soto,donna.soto@example.com,2024-01-25,San Francisco,CA,Referral
+C00738,Gabriel Mcdonald,gabriel.mcdonald@example.com,2025-09-16,Kansas City,MO,Paid Social
+C00739,Danielle Smith,danielle.smith@example.com,2023-10-07,Charlotte,NC,Paid Social
+C00740,Erica Logan,erica.logan@example.com,2024-12-09,San Francisco,CA,Organic Search
+C00741,Kimberly Griffin,kimberly.griffin@example.com,2025-04-03,Los Angeles,CA,Email Marketing
+C00742,Kevin Bullock,kevin.bullock@example.com,2024-09-20,Miami,FL,Organic Search
+C00743,Gregory Myers,gregory.myers@example.com,2025-04-14,Oklahoma City,OK,Organic Search
+C00744,Patricia Johnson,patricia.johnson@example.com,2023-10-16,Cleveland,OH,Referral
+C00745,Debra Roth,debra.roth@example.com,2024-07-07,Atlanta,GA,Referral
+C00746,Christine Boone,christine.boone@example.com,2025-04-20,Nashville,TN,Organic Search
+C00747,David Morgan,david.morgan@example.com,2025-06-01,Virginia Beach,VA,Organic Search
+C00748,Anita Martinez,anita.martinez@example.com,2025-05-27,Charlotte,NC,Paid Social
+C00749,Gregory Moon,gregory.moon@example.com,2024-03-18,Tampa,FL,Paid Social
+C00750,Scott Cameron,scott.cameron@example.com,2023-10-26,Arlington,TX,Referral
+C00751,Charles Long,charles.long@example.com,2025-07-30,Fresno,CA,Paid Social
+C00752,Jessica Cook,jessica.cook@example.com,2024-09-08,Richmond,VA,Paid Social
+C00753,Mark Harris,mark.harris@example.com,2023-10-25,Los Angeles,CA,Email Marketing
+C00754,Leslie Lee,leslie.lee@example.com,2024-04-16,Houston,TX,Organic Search
+C00755,Isaac Wagner,isaac.wagner@example.com,2025-01-13,Oakland,CA,Organic Search
+C00756,Derek Wilson,derek.wilson@example.com,2025-05-31,Atlanta,GA,Paid Social
+C00757,Paul Murray,paul.murray@example.com,2024-11-25,Houston,TX,Paid Social
+C00758,Michael Alvarado,michael.alvarado@example.com,2023-12-17,Louisville,KY,Paid Social
+C00759,Debra Craig,debra.craig@example.com,2024-02-11,Dallas,TX,Email Marketing
+C00760,Jeremiah Wells,jeremiah.wells@example.com,2024-04-25,Philadelphia,PA,Organic Search
+C00761,Monica Gonzalez,monica.gonzalez@example.com,2024-05-15,Orlando,FL,Referral
+C00762,Andrea Jones,andrea.jones@example.com,2025-02-12,Richmond,VA,Paid Social
+C00763,Jorge Hardy,jorge.hardy@example.com,2025-01-24,San Diego,CA,Referral
+C00764,Walter Jones,walter.jones@example.com,2024-06-17,Minneapolis,MN,Paid Social
+C00765,Jennifer Perry,jennifer.perry@example.com,2025-04-25,Tulsa,OK,Paid Social
+C00766,Christine Bates,christine.bates@example.com,2025-05-28,Virginia Beach,VA,Organic Search
+C00767,Cassandra Bennett,cassandra.bennett@example.com,2024-04-08,Milwaukee,WI,Organic Search
+C00768,Rhonda Suarez,rhonda.suarez@example.com,2024-08-24,Austin,TX,Referral
+C00769,Angela Smith,angela.smith@example.com,2024-02-26,Dallas,TX,Organic Search
+C00770,Wendy Chapman,wendy.chapman@example.com,2025-08-09,San Francisco,CA,Referral
+C00771,Ryan Griffin,ryan.griffin@example.com,2024-04-13,Long Beach,CA,Referral
+C00772,Jordan Wilson,jordan.wilson@example.com,2025-02-02,Albuquerque,NM,Referral
+C00773,Rachel Miller,rachel.miller@example.com,2024-03-01,Phoenix,AZ,Organic Search
+C00774,Randy Henderson,randy.henderson@example.com,2023-09-29,Milwaukee,WI,Organic Search
+C00775,Katelyn English,katelyn.english@example.com,2024-11-03,Miami,FL,Organic Search
+C00776,Richard Burke,richard.burke@example.com,2024-07-26,Atlanta,GA,Organic Search
+C00777,Joseph Brown,joseph.brown@example.com,2025-08-21,San Diego,CA,Organic Search
+C00778,Samantha Martin,samantha.martin@example.com,2024-06-04,Los Angeles,CA,Paid Social
+C00779,Dylan Novak,dylan.novak@example.com,2025-01-03,Tampa,FL,Paid Social
+C00780,Bruce Doyle,bruce.doyle@example.com,2023-12-29,Baltimore,MD,Organic Search
+C00781,Mikayla Curry,mikayla.curry@example.com,2024-02-27,Philadelphia,PA,Referral
+C00782,Eric Boyle,eric.boyle@example.com,2024-01-15,Orlando,FL,Paid Social
+C00783,Samantha Smith,samantha.smith@example.com,2024-02-16,Arlington,TX,Referral
+C00784,Raven Turner,raven.turner@example.com,2024-08-25,Fresno,CA,Paid Social
+C00785,Melissa Lawrence,melissa.lawrence@example.com,2024-02-07,Columbus,OH,Email Marketing
+C00786,Jacob Chang,jacob.chang@example.com,2023-10-05,Nashville,TN,Referral
+C00787,Crystal Hale,crystal.hale@example.com,2023-11-29,New York,NY,Referral
+C00788,Billy Oliver,billy.oliver@example.com,2025-07-13,Minneapolis,MN,Referral
+C00789,Aaron Flores,aaron.flores@example.com,2025-08-09,Arlington,TX,Referral
+C00790,Vincent Walsh,vincent.walsh@example.com,2024-01-30,Tampa,FL,Paid Social
+C00791,Laurie Gonzales,laurie.gonzales@example.com,2024-03-25,Cleveland,OH,Paid Social
+C00792,Daniel Jones,daniel.jones@example.com,2023-12-24,Long Beach,CA,Email Marketing
+C00793,Peter Fritz,peter.fritz@example.com,2024-03-26,Phoenix,AZ,Referral
+C00794,Anne Black,anne.black@example.com,2025-01-16,Minneapolis,MN,Organic Search
+C00795,Amanda Byrd,amanda.byrd@example.com,2024-02-21,Oklahoma City,OK,Referral
+C00796,Monique Burke,monique.burke@example.com,2024-09-04,Charlotte,NC,Organic Search
+C00797,Barbara Wright,barbara.wright@example.com,2024-10-18,Sacramento,CA,Organic Search
+C00798,Michael Martin,michael.martin@example.com,2024-11-25,Long Beach,CA,Organic Search
+C00799,Brian Garcia,brian.garcia@example.com,2024-06-13,New York,NY,Email Marketing
+C00800,Mary Hahn,mary.hahn@example.com,2025-06-11,San Francisco,CA,Referral
+C00801,Amanda Davis,amanda.davis@example.com,2024-04-02,Boston,MA,Email Marketing
+C00802,Noah Green,noah.green@example.com,2024-09-19,Oakland,CA,Organic Search
+C00803,Sarah Jones,sarah.jones@example.com,2024-03-21,Miami,FL,Referral
+C00804,Darryl Saunders,darryl.saunders@example.com,2024-08-09,Boise,ID,Referral
+C00805,Jennifer Garcia,jennifer.garcia@example.com,2024-12-01,New York,NY,Paid Social
+C00806,Katie Carpenter,katie.carpenter@example.com,2024-12-05,Cleveland,OH,Referral
+C00807,Deborah Jenkins,deborah.jenkins@example.com,2025-08-11,Memphis,TN,Paid Social
+C00808,Ashley Robertson,ashley.robertson@example.com,2024-03-25,Atlanta,GA,Organic Search
+C00809,Ivan Romero,ivan.romero@example.com,2025-08-17,Tampa,FL,Organic Search
+C00810,Mary Rowe,mary.rowe@example.com,2023-09-26,Orlando,FL,Referral
+C00811,Krystal Thornton,krystal.thornton@example.com,2025-09-19,San Francisco,CA,Organic Search
+C00812,Michael Johnson,michael.johnson@example.com,2025-03-17,Dallas,TX,Paid Social
+C00813,Curtis Olsen,curtis.olsen@example.com,2024-12-19,Milwaukee,WI,Referral
+C00814,Susan Woods,susan.woods@example.com,2024-05-04,Albuquerque,NM,Email Marketing
+C00815,Gary Hernandez,gary.hernandez@example.com,2025-03-17,New York,NY,Referral
+C00816,John Moore,john.moore@example.com,2023-10-03,Atlanta,GA,Email Marketing
+C00817,Rebecca Hooper,rebecca.hooper@example.com,2024-09-27,Dallas,TX,Referral
+C00818,Angela Brooks,angela.brooks@example.com,2025-02-06,Richmond,VA,Referral
+C00819,Francisco Lewis,francisco.lewis@example.com,2025-05-20,Virginia Beach,VA,Organic Search
+C00820,Glenn Calhoun,glenn.calhoun@example.com,2024-06-09,Tampa,FL,Paid Social
+C00821,Ashley Mcdonald,ashley.mcdonald@example.com,2023-10-23,Dallas,TX,Paid Social
+C00822,Megan Bryant,megan.bryant@example.com,2024-02-03,Cleveland,OH,Email Marketing
+C00823,Jessica Taylor,jessica.taylor@example.com,2023-11-30,Orlando,FL,Organic Search
+C00824,Jeffery Baldwin,jeffery.baldwin@example.com,2024-04-14,New York,NY,Organic Search
+C00825,Erica Arnold,erica.arnold@example.com,2024-05-30,Los Angeles,CA,Referral
+C00826,Tiffany Ponce,tiffany.ponce@example.com,2024-07-11,Long Beach,CA,Organic Search
+C00827,Tasha Gonzalez,tasha.gonzalez@example.com,2025-03-19,Oakland,CA,Organic Search
+C00828,Michael Gonzalez,michael.gonzalez@example.com,2024-06-04,Austin,TX,Organic Search
+C00829,John Davis,john.davis@example.com,2024-06-21,Louisville,KY,Referral
+C00830,Daniel Romero,daniel.romero@example.com,2024-04-14,Nashville,TN,Paid Social
+C00831,Rachel Roberts,rachel.roberts@example.com,2025-09-03,Portland,OR,Organic Search
+C00832,David Bryant,david.bryant@example.com,2025-07-12,Long Beach,CA,Organic Search
+C00833,Hannah Barnes,hannah.barnes@example.com,2024-07-19,Cincinnati,OH,Paid Social
+C00834,Savannah Jones,savannah.jones@example.com,2024-09-22,Boston,MA,Paid Social
+C00835,Brittney Buckley,brittney.buckley@example.com,2024-12-21,Sacramento,CA,Referral
+C00836,Joseph Guerrero,joseph.guerrero@example.com,2025-02-09,San Diego,CA,Organic Search
+C00837,Amy Leonard,amy.leonard@example.com,2024-10-29,Cleveland,OH,Organic Search
+C00838,Nancy Hampton,nancy.hampton@example.com,2025-02-20,Cleveland,OH,Email Marketing
+C00839,Ashley Mathis,ashley.mathis@example.com,2024-10-09,Tampa,FL,Organic Search
+C00840,Robin Byrd,robin.byrd@example.com,2025-04-07,Baltimore,MD,Organic Search
+C00841,Richard Ryan,richard.ryan@example.com,2024-02-14,Kansas City,MO,Organic Search
+C00842,Michael Robinson,michael.robinson@example.com,2024-07-12,Sacramento,CA,Referral
+C00843,Allison Carson,allison.carson@example.com,2023-11-16,Virginia Beach,VA,Paid Social
+C00844,Anna Ruiz,anna.ruiz@example.com,2024-10-12,San Diego,CA,Paid Social
+C00845,Samantha Miller,samantha.miller@example.com,2025-01-21,Memphis,TN,Organic Search
+C00846,Mary Lyons,mary.lyons@example.com,2024-11-24,Oklahoma City,OK,Paid Social
+C00847,Wendy Becker,wendy.becker@example.com,2024-12-07,Nashville,TN,Organic Search
+C00848,Jonathan Hull,jonathan.hull@example.com,2025-03-24,San Francisco,CA,Paid Social
+C00849,Bryan Hamilton,bryan.hamilton@example.com,2024-12-05,Houston,TX,Email Marketing
+C00850,Brandon Miller,brandon.miller@example.com,2024-05-29,Cleveland,OH,Referral
+C00851,Hayden Cortez,hayden.cortez@example.com,2025-01-09,Oakland,CA,Paid Social
+C00852,Brian Blackwell,brian.blackwell@example.com,2025-08-07,San Diego,CA,Paid Social
+C00853,Kimberly Moss,kimberly.moss@example.com,2023-10-27,San Diego,CA,Organic Search
+C00854,Abigail Khan,abigail.khan@example.com,2025-06-04,New Orleans,LA,Organic Search
+C00855,Victoria Lowe,victoria.lowe@example.com,2024-09-04,Arlington,TX,Paid Social
+C00856,Matthew Jordan,matthew.jordan@example.com,2025-03-29,Oakland,CA,Organic Search
+C00857,Linda Benson,linda.benson@example.com,2025-06-09,Memphis,TN,Referral
+C00858,James Wise,james.wise@example.com,2024-09-06,Kansas City,MO,Paid Social
+C00859,Catherine Knapp,catherine.knapp@example.com,2024-04-28,Boise,ID,Organic Search
+C00860,Kayla Ayala,kayla.ayala@example.com,2024-09-20,Oklahoma City,OK,Paid Social
+C00861,Alex Gutierrez,alex.gutierrez@example.com,2024-10-12,Sacramento,CA,Referral
+C00862,Crystal Sharp,crystal.sharp@example.com,2023-12-27,Kansas City,MO,Paid Social
+C00863,Melissa Jones,melissa.jones@example.com,2025-07-14,Los Angeles,CA,Paid Social
+C00864,Seth Freeman,seth.freeman@example.com,2023-10-25,Austin,TX,Referral
+C00865,Danielle Scott,danielle.scott@example.com,2024-09-29,Pittsburgh,PA,Organic Search
+C00866,Katherine Murray,katherine.murray@example.com,2025-02-23,Cleveland,OH,Referral
+C00867,Kevin Mora,kevin.mora@example.com,2024-10-12,Miami,FL,Referral
+C00868,Jordan Ewing,jordan.ewing@example.com,2024-03-07,New Orleans,LA,Organic Search
+C00869,Robert Jones,robert.jones@example.com,2024-01-29,Tulsa,OK,Organic Search
+C00870,Michele Brown,michele.brown@example.com,2025-08-19,Oklahoma City,OK,Referral
+C00871,Jonathan Miller,jonathan.miller@example.com,2025-09-16,New York,NY,Referral
+C00872,Brian Williams,brian.williams@example.com,2025-04-20,Phoenix,AZ,Organic Search
+C00873,Jennifer Carson,jennifer.carson@example.com,2025-02-11,Dallas,TX,Referral
+C00874,Juan Walker,juan.walker@example.com,2024-04-21,Arlington,TX,Referral
+C00875,James Copeland,james.copeland@example.com,2024-09-23,Austin,TX,Referral
+C00876,Brianna Ruiz,brianna.ruiz@example.com,2025-07-17,Los Angeles,CA,Paid Social
+C00877,Dylan Adkins,dylan.adkins@example.com,2023-10-04,Louisville,KY,Paid Social
+C00878,Tom Perez,tom.perez@example.com,2024-08-15,Miami,FL,Organic Search
+C00879,Robert Price,robert.price@example.com,2024-12-21,Los Angeles,CA,Paid Social
+C00880,Haley Williams,haley.williams@example.com,2024-05-30,Mesa,AZ,Referral
+C00881,Matthew Moore,matthew.moore@example.com,2024-08-13,New York,NY,Paid Social
+C00882,Kellie Cooper,kellie.cooper@example.com,2025-01-11,Minneapolis,MN,Paid Social
+C00883,Rebecca Hill,rebecca.hill@example.com,2024-03-15,San Francisco,CA,Organic Search
+C00884,Marco Salazar,marco.salazar@example.com,2024-06-23,Miami,FL,Referral
+C00885,Jimmy Stephens,jimmy.stephens@example.com,2023-11-15,Los Angeles,CA,Referral
+C00886,James Chapman,james.chapman@example.com,2025-08-09,Long Beach,CA,Organic Search
+C00887,Christina Thompson,christina.thompson@example.com,2025-01-27,Cincinnati,OH,Organic Search
+C00888,James Pacheco,james.pacheco@example.com,2024-08-28,Oakland,CA,Referral
+C00889,Kim Carter,kim.carter@example.com,2023-11-13,Chicago,IL,Organic Search
+C00890,Victoria Wright,victoria.wright@example.com,2024-08-09,Dallas,TX,Organic Search
+C00891,Kathy Lawson,kathy.lawson@example.com,2024-11-17,Memphis,TN,Organic Search
+C00892,Heidi Patterson,heidi.patterson@example.com,2024-10-12,Oakland,CA,Organic Search
+C00893,Jeremy Simmons,jeremy.simmons@example.com,2024-11-26,Minneapolis,MN,Email Marketing
+C00894,Lindsay Shepherd,lindsay.shepherd@example.com,2024-04-11,San Francisco,CA,Paid Social
+C00895,Charles Lee,charles.lee@example.com,2024-07-03,Sacramento,CA,Email Marketing
+C00896,Nicole Smith,nicole.smith@example.com,2023-12-13,Cleveland,OH,Organic Search
+C00897,Julie Salazar,julie.salazar@example.com,2025-01-21,Tampa,FL,Organic Search
+C00898,Monique Steele,monique.steele@example.com,2024-03-09,Cincinnati,OH,Paid Social
+C00899,Charles Lopez,charles.lopez@example.com,2025-02-12,Fresno,CA,Referral
+C00900,Brandon Gamble,brandon.gamble@example.com,2023-11-27,Boise,ID,Referral
+C00901,Ariel Brown,ariel.brown@example.com,2024-03-15,Oakland,CA,Paid Social
+C00902,Robert Mcpherson,robert.mcpherson@example.com,2024-03-16,Oklahoma City,OK,Referral
+C00903,Dalton Salinas,dalton.salinas@example.com,2023-11-09,Indianapolis,IN,Referral
+C00904,Melissa Simmons,melissa.simmons@example.com,2024-06-24,Austin,TX,Organic Search
+C00905,Dylan Robinson,dylan.robinson@example.com,2024-04-30,Austin,TX,Referral
+C00906,Tina Martinez,tina.martinez@example.com,2025-07-30,Baltimore,MD,Organic Search
+C00907,Daniel Decker,daniel.decker@example.com,2024-10-15,Fresno,CA,Organic Search
+C00908,Andrew Lynch,andrew.lynch@example.com,2023-10-15,San Diego,CA,Paid Social
+C00909,Suzanne Cameron,suzanne.cameron@example.com,2024-08-29,Sacramento,CA,Paid Social
+C00910,Virginia Shelton,virginia.shelton@example.com,2024-12-19,Raleigh,NC,Organic Search
+C00911,William Brown,william.brown@example.com,2023-10-31,Los Angeles,CA,Referral
+C00912,Tyler Mcgee,tyler.mcgee@example.com,2024-02-28,New York,NY,Paid Social
+C00913,Ryan Elliott,ryan.elliott@example.com,2024-10-31,Arlington,TX,Organic Search
+C00914,Danielle Choi,danielle.choi@example.com,2025-04-30,San Francisco,CA,Organic Search
+C00915,Randall Woods,randall.woods@example.com,2024-05-31,Seattle,WA,Paid Social
+C00916,Christina Bullock,christina.bullock@example.com,2025-08-07,Columbus,OH,Organic Search
+C00917,Mary Fowler,mary.fowler@example.com,2025-01-26,Virginia Beach,VA,Paid Social
+C00918,Jean Melendez,jean.melendez@example.com,2025-08-26,San Francisco,CA,Email Marketing
+C00919,Thomas Garcia,thomas.garcia@example.com,2023-10-18,Fresno,CA,Referral
+C00920,Barbara Pierce,barbara.pierce@example.com,2024-02-19,Mesa,AZ,Organic Search
+C00921,Noah Scott,noah.scott@example.com,2024-01-09,Salt Lake City,UT,Referral
+C00922,Daniel Mills,daniel.mills@example.com,2023-10-05,Tampa,FL,Paid Social
+C00923,Bethany Pearson,bethany.pearson@example.com,2025-07-07,Orlando,FL,Organic Search
+C00924,Anita Spencer,anita.spencer@example.com,2024-05-23,Austin,TX,Organic Search
+C00925,Anna Martinez,anna.martinez@example.com,2025-03-14,Cincinnati,OH,Paid Social
+C00926,Amber Blair,amber.blair@example.com,2024-10-04,Kansas City,MO,Organic Search
+C00927,Ashley Davis,ashley.davis@example.com,2024-03-18,Milwaukee,WI,Organic Search
+C00928,Paula Jackson,paula.jackson@example.com,2024-08-18,Boston,MA,Organic Search
+C00929,Michelle Jones,michelle.jones@example.com,2025-07-10,Seattle,WA,Referral
+C00930,Shaun Greer,shaun.greer@example.com,2024-04-11,Salt Lake City,UT,Paid Social
+C00931,Shannon Morton,shannon.morton@example.com,2024-12-30,Austin,TX,Email Marketing
+C00932,Christopher Mcclain,christopher.mcclain@example.com,2024-02-01,Austin,TX,Organic Search
+C00933,Kylie Sanchez,kylie.sanchez@example.com,2024-04-03,Columbus,OH,Referral
+C00934,Annette Fisher,annette.fisher@example.com,2025-03-18,Fresno,CA,Email Marketing
+C00935,Kara Cooper,kara.cooper@example.com,2023-10-17,New Orleans,LA,Organic Search
+C00936,Sara Webb,sara.webb@example.com,2024-02-08,Long Beach,CA,Organic Search
+C00937,Anthony Dodson,anthony.dodson@example.com,2024-11-11,Seattle,WA,Organic Search
+C00938,Gregg Welch,gregg.welch@example.com,2023-10-07,Philadelphia,PA,Paid Social
+C00939,Sheila Grant,sheila.grant@example.com,2025-05-27,Tulsa,OK,Organic Search
+C00940,Maria Ford,maria.ford@example.com,2024-12-06,Miami,FL,Paid Social
+C00941,William Garcia,william.garcia@example.com,2025-04-12,Orlando,FL,Referral
+C00942,Brenda Perez,brenda.perez@example.com,2025-06-19,San Francisco,CA,Paid Social
+C00943,Scott Williams,scott.williams@example.com,2024-05-18,Nashville,TN,Referral
+C00944,Michele Smith,michele.smith@example.com,2024-07-01,Long Beach,CA,Paid Social
+C00945,Kimberly Rivera,kimberly.rivera@example.com,2024-11-22,Dallas,TX,Paid Social
+C00946,Douglas Farrell,douglas.farrell@example.com,2025-03-09,Austin,TX,Organic Search
+C00947,Scott Mitchell,scott.mitchell@example.com,2025-08-18,Raleigh,NC,Email Marketing
+C00948,Jeffrey Green,jeffrey.green@example.com,2025-09-19,Seattle,WA,Organic Search
+C00949,Mary Matthews,mary.matthews@example.com,2024-09-08,Orlando,FL,Organic Search
+C00950,Jennifer Wiggins,jennifer.wiggins@example.com,2024-03-20,Columbus,OH,Organic Search
+C00951,Ryan Schmidt,ryan.schmidt@example.com,2025-08-11,Los Angeles,CA,Email Marketing
+C00952,Pamela Johnson,pamela.johnson@example.com,2024-06-08,Miami,FL,Organic Search
+C00953,Joshua Ross,joshua.ross@example.com,2024-05-06,Austin,TX,Email Marketing
+C00954,Michael Jones,michael.jones@example.com,2025-09-19,Arlington,TX,Referral
+C00955,Jason Sheppard,jason.sheppard@example.com,2024-06-26,New Orleans,LA,Referral
+C00956,Stephen Good,stephen.good@example.com,2025-04-13,Baltimore,MD,Organic Search
+C00957,David Owens,david.owens@example.com,2023-10-03,San Francisco,CA,Referral
+C00958,Karl Walker,karl.walker@example.com,2024-12-23,Albuquerque,NM,Paid Social
+C00959,Jake Perez,jake.perez@example.com,2024-04-16,Austin,TX,Organic Search
+C00960,Jacqueline Walker,jacqueline.walker@example.com,2024-10-06,Dallas,TX,Organic Search
+C00961,Patrick Ramirez,patrick.ramirez@example.com,2025-01-15,Baltimore,MD,Organic Search
+C00962,Hannah Shannon,hannah.shannon@example.com,2023-10-18,Virginia Beach,VA,Email Marketing
+C00963,Herbert Rogers,herbert.rogers@example.com,2025-08-19,Oakland,CA,Paid Social
+C00964,Linda Dennis,linda.dennis@example.com,2024-07-10,Portland,OR,Organic Search
+C00965,Marc Jones,marc.jones@example.com,2024-12-24,Orlando,FL,Referral
+C00966,Anthony Meyer,anthony.meyer@example.com,2024-12-06,Dallas,TX,Paid Social
+C00967,Patrick Knox,patrick.knox@example.com,2025-03-26,Charlotte,NC,Organic Search
+C00968,Christopher Wells,christopher.wells@example.com,2025-08-10,Oakland,CA,Organic Search
+C00969,Felicia Hines,felicia.hines@example.com,2024-09-30,Long Beach,CA,Referral
+C00970,Steven Washington,steven.washington@example.com,2025-07-06,Milwaukee,WI,Organic Search
+C00971,Jodi Allen,jodi.allen@example.com,2024-09-29,Tampa,FL,Organic Search
+C00972,Cynthia Perry,cynthia.perry@example.com,2024-08-27,Atlanta,GA,Paid Social
+C00973,Andrew Russo,andrew.russo@example.com,2024-08-21,Virginia Beach,VA,Organic Search
+C00974,Andrew Collins,andrew.collins@example.com,2025-01-11,Dallas,TX,Referral
+C00975,Amber Lawrence,amber.lawrence@example.com,2024-08-02,New York,NY,Organic Search
+C00976,Christine Williams,christine.williams@example.com,2024-04-03,Louisville,KY,Organic Search
+C00977,Jessica Elliott,jessica.elliott@example.com,2024-12-09,Miami,FL,Referral
+C00978,Clayton Moore,clayton.moore@example.com,2024-02-10,Chicago,IL,Paid Social
+C00979,Alexis Carson,alexis.carson@example.com,2025-06-03,Cleveland,OH,Organic Search
+C00980,David Jones,david.jones@example.com,2024-08-10,Tucson,AZ,Paid Social
+C00981,Natasha Barrett,natasha.barrett@example.com,2023-11-22,Columbus,OH,Paid Social
+C00982,Caroline Ayala,caroline.ayala@example.com,2024-09-25,Mesa,AZ,Paid Social
+C00983,Hannah Harris,hannah.harris@example.com,2023-11-30,Raleigh,NC,Organic Search
+C00984,Kevin Wright,kevin.wright@example.com,2023-12-10,Houston,TX,Paid Social
+C00985,Erin Serrano,erin.serrano@example.com,2024-03-21,Kansas City,MO,Organic Search
+C00986,Michael Snyder,michael.snyder@example.com,2023-11-18,Oakland,CA,Organic Search
+C00987,Joshua Webb,joshua.webb@example.com,2023-10-05,Indianapolis,IN,Organic Search
+C00988,Theresa Williams,theresa.williams@example.com,2023-12-31,Portland,OR,Organic Search
+C00989,Cody Knight,cody.knight@example.com,2024-11-04,Fresno,CA,Organic Search
+C00990,Denise Thompson,denise.thompson@example.com,2025-06-15,Tucson,AZ,Organic Search
+C00991,Jesse Peterson,jesse.peterson@example.com,2023-10-29,Los Angeles,CA,Organic Search
+C00992,David Mullen,david.mullen@example.com,2024-06-05,Richmond,VA,Organic Search
+C00993,Lori Dyer,lori.dyer@example.com,2024-07-07,New Orleans,LA,Organic Search
+C00994,Melissa Mosley,melissa.mosley@example.com,2025-07-18,Austin,TX,Referral
+C00995,James Morales,james.morales@example.com,2024-06-12,Fresno,CA,Organic Search
+C00996,Paul Anderson,paul.anderson@example.com,2024-04-25,San Diego,CA,Organic Search
+C00997,Troy Gonzalez,troy.gonzalez@example.com,2025-05-06,New York,NY,Organic Search
+C00998,Michael Allen,michael.allen@example.com,2025-01-08,Philadelphia,PA,Organic Search
+C00999,Olivia Cline,olivia.cline@example.com,2025-03-23,Boise,ID,Paid Social
+C01000,Eric Campbell,eric.campbell@example.com,2024-11-07,Denver,CO,Paid Social
+C01001,Antonio Ballard,antonio.ballard@example.com,2025-07-21,Miami,FL,Organic Search
+C01002,Lindsey Lang,lindsey.lang@example.com,2025-08-29,Indianapolis,IN,Referral
+C01003,Stephanie Price,stephanie.price@example.com,2024-04-13,Atlanta,GA,Referral
+C01004,Joseph Carney,joseph.carney@example.com,2024-11-21,Nashville,TN,Organic Search
+C01005,Marissa Myers,marissa.myers@example.com,2025-01-10,Raleigh,NC,Email Marketing
+C01006,Lori Barron,lori.barron@example.com,2024-04-16,Los Angeles,CA,Organic Search
+C01007,Sarah Flores,sarah.flores@example.com,2024-09-25,Tampa,FL,Referral
+C01008,Laurie Patterson,laurie.patterson@example.com,2024-03-06,Milwaukee,WI,Referral
+C01009,Beth Munoz,beth.munoz@example.com,2025-05-23,Austin,TX,Email Marketing
+C01010,Lisa Ford,lisa.ford@example.com,2023-10-27,Minneapolis,MN,Organic Search
+C01011,David Zimmerman,david.zimmerman@example.com,2025-06-29,Miami,FL,Referral
+C01012,Catherine Williams,catherine.williams@example.com,2024-11-25,Columbus,OH,Organic Search
+C01013,Robert Rivera,robert.rivera@example.com,2025-09-18,Oakland,CA,Paid Social
+C01014,Brian Parker,brian.parker@example.com,2025-04-10,Long Beach,CA,Paid Social
+C01015,Yolanda Melendez,yolanda.melendez@example.com,2025-07-16,Houston,TX,Email Marketing
+C01016,Wendy Perez,wendy.perez@example.com,2024-10-19,Miami,FL,Referral
+C01017,Ellen Pearson,ellen.pearson@example.com,2025-03-17,Los Angeles,CA,Email Marketing
+C01018,Vanessa Galvan,vanessa.galvan@example.com,2023-11-13,Cleveland,OH,Organic Search
+C01019,Eileen Walker,eileen.walker@example.com,2025-01-25,San Francisco,CA,Referral
+C01020,Lindsey Lawrence,lindsey.lawrence@example.com,2025-04-28,New York,NY,Email Marketing
+C01021,Stacy Perry,stacy.perry@example.com,2023-12-08,Memphis,TN,Referral
+C01022,Danielle Ford,danielle.ford@example.com,2025-06-22,Austin,TX,Organic Search
+C01023,Sydney Blair,sydney.blair@example.com,2025-03-21,New York,NY,Paid Social
+C01024,Melinda Sims,melinda.sims@example.com,2025-08-15,San Francisco,CA,Paid Social
+C01025,Traci Gonzalez,traci.gonzalez@example.com,2023-10-31,Phoenix,AZ,Organic Search
+C01026,William Moon,william.moon@example.com,2023-10-02,Raleigh,NC,Referral
+C01027,Carrie Kidd,carrie.kidd@example.com,2024-05-15,Sacramento,CA,Organic Search
+C01028,Kathleen Mcdowell,kathleen.mcdowell@example.com,2024-08-09,San Diego,CA,Email Marketing
+C01029,Robert Allen,robert.allen@example.com,2025-08-27,Memphis,TN,Organic Search
+C01030,Lisa Warren,lisa.warren@example.com,2024-06-23,Las Vegas,NV,Organic Search
+C01031,Micheal Cervantes,micheal.cervantes@example.com,2024-02-11,Houston,TX,Paid Social
+C01032,Marcus Castillo,marcus.castillo@example.com,2024-03-28,Chicago,IL,Referral
+C01033,Allison Ferrell,allison.ferrell@example.com,2024-07-29,Albuquerque,NM,Organic Search
+C01034,Michael Hines,michael.hines@example.com,2024-03-25,Seattle,WA,Organic Search
+C01035,Bianca Eaton,bianca.eaton@example.com,2025-02-10,Chicago,IL,Organic Search
+C01036,Brandon Garcia,brandon.garcia@example.com,2025-07-05,Tampa,FL,Organic Search
+C01037,Angela Pitts,angela.pitts@example.com,2025-02-09,Arlington,TX,Organic Search
+C01038,Erika Smith,erika.smith@example.com,2024-08-04,New York,NY,Paid Social
+C01039,Reginald Dickson,reginald.dickson@example.com,2024-09-23,Houston,TX,Organic Search
+C01040,Patricia Smith,patricia.smith@example.com,2025-03-25,Denver,CO,Referral
+C01041,David Mccann,david.mccann@example.com,2024-03-09,Arlington,TX,Email Marketing
+C01042,Kyle Barron,kyle.barron@example.com,2024-05-10,Phoenix,AZ,Paid Social
+C01043,Ronald Michael,ronald.michael@example.com,2024-11-30,Tampa,FL,Referral
+C01044,Tyler Schroeder,tyler.schroeder@example.com,2024-04-21,Tulsa,OK,Paid Social
+C01045,Loretta Campbell,loretta.campbell@example.com,2024-05-27,Oakland,CA,Referral
+C01046,Melissa Chang,melissa.chang@example.com,2024-06-15,Orlando,FL,Referral
+C01047,Pam Luna,pam.luna@example.com,2024-08-21,Tulsa,OK,Organic Search
+C01048,Robert Sellers,robert.sellers@example.com,2025-01-01,Houston,TX,Referral
+C01049,Judy Andrews,judy.andrews@example.com,2025-08-15,Fresno,CA,Organic Search
+C01050,Samantha Atkinson,samantha.atkinson@example.com,2025-07-25,Nashville,TN,Organic Search
+C01051,Thomas Grant,thomas.grant@example.com,2024-11-04,Sacramento,CA,Referral
+C01052,Emily Hernandez,emily.hernandez@example.com,2024-04-11,Minneapolis,MN,Paid Social
+C01053,Dawn Ayala,dawn.ayala@example.com,2024-05-08,Orlando,FL,Paid Social
+C01054,Logan Cox,logan.cox@example.com,2024-10-31,Miami,FL,Paid Social
+C01055,Brent White,brent.white@example.com,2024-06-30,New Orleans,LA,Referral
+C01056,Joseph Mora,joseph.mora@example.com,2024-11-18,Los Angeles,CA,Organic Search
+C01057,Andres Foster,andres.foster@example.com,2025-03-08,Pittsburgh,PA,Paid Social
+C01058,Ashlee Davis,ashlee.davis@example.com,2025-06-15,Atlanta,GA,Organic Search
+C01059,Christopher Smith,christopher.smith@example.com,2023-10-04,Las Vegas,NV,Paid Social
+C01060,Bryan Simon,bryan.simon@example.com,2025-05-31,Las Vegas,NV,Organic Search
+C01061,Ryan Ortiz,ryan.ortiz@example.com,2025-06-28,Baltimore,MD,Paid Social
+C01062,Jennifer Bennett,jennifer.bennett@example.com,2024-12-26,Columbus,OH,Paid Social
+C01063,Destiny Cruz,destiny.cruz@example.com,2023-12-23,Tampa,FL,Paid Social
+C01064,Mary Baxter,mary.baxter@example.com,2024-08-13,Oakland,CA,Referral
+C01065,Shawn Odonnell,shawn.odonnell@example.com,2024-07-22,San Francisco,CA,Email Marketing
+C01066,Kimberly Gonzales,kimberly.gonzales@example.com,2024-01-11,Tucson,AZ,Email Marketing
+C01067,Brian Valenzuela,brian.valenzuela@example.com,2025-03-15,Sacramento,CA,Referral
+C01068,Kenneth Blair,kenneth.blair@example.com,2024-01-25,Los Angeles,CA,Organic Search
+C01069,Robert Taylor,robert.taylor@example.com,2024-12-29,Orlando,FL,Email Marketing
+C01070,David Cardenas,david.cardenas@example.com,2025-07-10,Mesa,AZ,Referral
+C01071,Tammy Clark,tammy.clark@example.com,2025-04-17,Charlotte,NC,Paid Social
+C01072,Tara Perry,tara.perry@example.com,2025-01-24,Denver,CO,Paid Social
+C01073,Tiffany Choi,tiffany.choi@example.com,2024-07-25,Oklahoma City,OK,Referral
+C01074,Kristen Martinez,kristen.martinez@example.com,2025-02-09,Austin,TX,Organic Search
+C01075,Ashley Hudson,ashley.hudson@example.com,2024-12-27,San Diego,CA,Paid Social
+C01076,Mary Merritt,mary.merritt@example.com,2024-10-18,Long Beach,CA,Paid Social
+C01077,Michael Hall,michael.hall@example.com,2024-12-04,New Orleans,LA,Organic Search
+C01078,Kevin Golden,kevin.golden@example.com,2024-11-14,Miami,FL,Organic Search
+C01079,Daniel Johnson,daniel.johnson@example.com,2023-11-13,Sacramento,CA,Referral
+C01080,Cheyenne Black,cheyenne.black@example.com,2025-06-22,Oakland,CA,Referral
+C01081,Jonathon Acosta,jonathon.acosta@example.com,2025-07-18,New York,NY,Organic Search
+C01082,Michael Williams,michael.williams@example.com,2024-08-29,Phoenix,AZ,Referral
+C01083,Elizabeth Burns,elizabeth.burns@example.com,2025-07-13,Los Angeles,CA,Referral
+C01084,Tara Martin,tara.martin@example.com,2025-01-05,Arlington,TX,Email Marketing
+C01085,Katie Perez,katie.perez@example.com,2025-07-19,Tampa,FL,Paid Social
+C01086,Benjamin Davies,benjamin.davies@example.com,2025-03-11,Tampa,FL,Organic Search
+C01087,Shelly Fernandez,shelly.fernandez@example.com,2024-05-23,Sacramento,CA,Referral
+C01088,Rebecca Perkins,rebecca.perkins@example.com,2023-11-23,Chicago,IL,Organic Search
+C01089,Ivan Taylor,ivan.taylor@example.com,2025-06-19,San Diego,CA,Referral
+C01090,Stacy Wilson,stacy.wilson@example.com,2025-07-16,Miami,FL,Organic Search
+C01091,Katherine Cooper,katherine.cooper@example.com,2025-06-04,Oakland,CA,Paid Social
+C01092,Steven Bishop,steven.bishop@example.com,2025-06-11,Houston,TX,Paid Social
+C01093,Debbie Conrad,debbie.conrad@example.com,2025-02-12,San Diego,CA,Referral
+C01094,Michael Smith,michael.smith@example.com,2025-06-30,Richmond,VA,Organic Search
+C01095,Elizabeth Morgan,elizabeth.morgan@example.com,2024-05-19,New York,NY,Referral
+C01096,Kelly Perry,kelly.perry@example.com,2025-04-21,Boston,MA,Email Marketing
+C01097,Lonnie Wallace,lonnie.wallace@example.com,2025-03-07,Dallas,TX,Email Marketing
+C01098,Nathan Ramirez,nathan.ramirez@example.com,2025-03-03,Seattle,WA,Organic Search
+C01099,Betty Moreno,betty.moreno@example.com,2025-09-02,Seattle,WA,Paid Social
+C01100,James Wilkinson,james.wilkinson@example.com,2023-12-09,Cleveland,OH,Email Marketing
+C01101,Ronald Simpson,ronald.simpson@example.com,2025-06-11,Tulsa,OK,Referral
+C01102,Patrick Hunt,patrick.hunt@example.com,2025-03-18,Oakland,CA,Referral
+C01103,Douglas Gordon,douglas.gordon@example.com,2025-08-02,Tampa,FL,Referral
+C01104,Jason Mitchell,jason.mitchell@example.com,2023-10-06,Kansas City,MO,Organic Search
+C01105,Amy Johnson,amy.johnson@example.com,2025-07-21,Houston,TX,Paid Social
+C01106,Jacqueline Brown,jacqueline.brown@example.com,2023-10-29,New York,NY,Organic Search
+C01107,Paula White,paula.white@example.com,2024-06-17,Kansas City,MO,Paid Social
+C01108,Peter Hernandez,peter.hernandez@example.com,2024-07-19,Los Angeles,CA,Organic Search
+C01109,Amy Mclaughlin,amy.mclaughlin@example.com,2025-06-11,Pittsburgh,PA,Organic Search
+C01110,Victoria Thomas,victoria.thomas@example.com,2023-09-24,Orlando,FL,Paid Social
+C01111,Henry Marshall,henry.marshall@example.com,2024-07-25,Nashville,TN,Organic Search
+C01112,Steven Thompson,steven.thompson@example.com,2024-05-07,Albuquerque,NM,Organic Search
+C01113,Joseph Abbott,joseph.abbott@example.com,2024-08-24,Mesa,AZ,Paid Social
+C01114,William Brown,william.brown@example.com,2024-09-14,Salt Lake City,UT,Email Marketing
+C01115,Richard Rocha,richard.rocha@example.com,2025-03-27,Tulsa,OK,Organic Search
+C01116,Sarah Chandler,sarah.chandler@example.com,2024-10-16,Philadelphia,PA,Referral
+C01117,Joyce Williams,joyce.williams@example.com,2025-04-16,Arlington,TX,Referral
+C01118,Brian Alexander,brian.alexander@example.com,2024-03-28,Austin,TX,Organic Search
+C01119,Allison Farmer,allison.farmer@example.com,2025-02-26,Tampa,FL,Paid Social
+C01120,Ian Nguyen,ian.nguyen@example.com,2025-05-19,Minneapolis,MN,Organic Search
+C01121,Charles Manning,charles.manning@example.com,2023-12-06,San Diego,CA,Paid Social
+C01122,Diana Garcia,diana.garcia@example.com,2025-02-06,Long Beach,CA,Organic Search
+C01123,Monica Perkins,monica.perkins@example.com,2025-09-10,Miami,FL,Organic Search
+C01124,Melissa Fuentes,melissa.fuentes@example.com,2024-10-02,New York,NY,Referral
+C01125,Tammie Simmons,tammie.simmons@example.com,2024-02-13,Seattle,WA,Organic Search
+C01126,Larry Espinoza,larry.espinoza@example.com,2025-07-03,Cleveland,OH,Referral
+C01127,Andrew Wright,andrew.wright@example.com,2025-09-11,Tampa,FL,Organic Search
+C01128,Lisa Anthony,lisa.anthony@example.com,2025-05-07,Miami,FL,Organic Search
+C01129,Victoria Fry,victoria.fry@example.com,2025-06-08,Los Angeles,CA,Referral
+C01130,Jonathon Sanchez,jonathon.sanchez@example.com,2024-07-05,Oakland,CA,Email Marketing
+C01131,Laura Wilson,laura.wilson@example.com,2024-04-28,New York,NY,Email Marketing
+C01132,Walter Hammond,walter.hammond@example.com,2024-01-19,Richmond,VA,Paid Social
+C01133,Andrew Smith,andrew.smith@example.com,2024-12-01,Tampa,FL,Organic Search
+C01134,Michael Smith,michael.smith@example.com,2024-08-15,Seattle,WA,Organic Search
+C01135,Alyssa Allen,alyssa.allen@example.com,2024-01-06,Fresno,CA,Paid Social
+C01136,Matthew Holloway,matthew.holloway@example.com,2023-10-13,Houston,TX,Paid Social
+C01137,Curtis Kennedy,curtis.kennedy@example.com,2024-03-13,Las Vegas,NV,Paid Social
+C01138,Tanya Simpson,tanya.simpson@example.com,2024-12-15,San Diego,CA,Organic Search
+C01139,Robert Morrow,robert.morrow@example.com,2023-11-30,Indianapolis,IN,Organic Search
+C01140,Brent James,brent.james@example.com,2024-10-03,Pittsburgh,PA,Paid Social
+C01141,Allen Conner,allen.conner@example.com,2025-08-14,Chicago,IL,Referral
+C01142,Ryan Price,ryan.price@example.com,2024-12-30,Miami,FL,Organic Search
+C01143,Angela Cruz,angela.cruz@example.com,2023-11-12,New York,NY,Referral
+C01144,Rodney Robinson,rodney.robinson@example.com,2025-05-19,Philadelphia,PA,Paid Social
+C01145,Lawrence Mccarty,lawrence.mccarty@example.com,2024-07-03,Arlington,TX,Referral
+C01146,Kara Watkins,kara.watkins@example.com,2024-06-15,Tampa,FL,Referral
+C01147,Samantha Blackburn,samantha.blackburn@example.com,2024-09-26,Philadelphia,PA,Referral
+C01148,Brittney Lester,brittney.lester@example.com,2024-04-20,Nashville,TN,Paid Social
+C01149,Danielle Norris,danielle.norris@example.com,2024-01-06,Oakland,CA,Email Marketing
+C01150,Matthew Russell,matthew.russell@example.com,2025-03-28,Los Angeles,CA,Organic Search
+C01151,Marie Shelton,marie.shelton@example.com,2024-09-11,Memphis,TN,Organic Search
+C01152,Patricia Rowe,patricia.rowe@example.com,2024-10-17,Portland,OR,Email Marketing
+C01153,Michael Barber,michael.barber@example.com,2023-11-05,Atlanta,GA,Paid Social
+C01154,Amy Rodriguez,amy.rodriguez@example.com,2025-01-05,Oakland,CA,Organic Search
+C01155,Todd Wilson,todd.wilson@example.com,2023-10-22,Minneapolis,MN,Organic Search
+C01156,Victoria Roy,victoria.roy@example.com,2023-09-25,Orlando,FL,Organic Search
+C01157,Brandon Franklin,brandon.franklin@example.com,2024-11-30,Raleigh,NC,Organic Search
+C01158,Carla Woods,carla.woods@example.com,2024-09-02,New York,NY,Email Marketing
+C01159,John Russo,john.russo@example.com,2025-02-28,Indianapolis,IN,Organic Search
+C01160,Adam Phillips,adam.phillips@example.com,2024-12-07,San Diego,CA,Paid Social
+C01161,Christopher Peterson,christopher.peterson@example.com,2024-05-30,Tampa,FL,Paid Social
+C01162,Stephen Lee,stephen.lee@example.com,2024-10-13,Tulsa,OK,Paid Social
+C01163,Gabriel Mendoza,gabriel.mendoza@example.com,2023-10-31,New York,NY,Organic Search
+C01164,Stephanie Wilson,stephanie.wilson@example.com,2025-07-21,Tampa,FL,Paid Social
+C01165,Andrew Smith,andrew.smith@example.com,2024-03-15,Cleveland,OH,Paid Social
+C01166,Nicole Cardenas,nicole.cardenas@example.com,2024-02-12,Albuquerque,NM,Referral
+C01167,Yolanda Jones,yolanda.jones@example.com,2023-12-18,Arlington,TX,Organic Search
+C01168,Angela Oconnell,angela.oconnell@example.com,2025-07-10,San Francisco,CA,Organic Search
+C01169,Jacob Franklin,jacob.franklin@example.com,2025-04-21,San Diego,CA,Organic Search
+C01170,Gregory Boyd,gregory.boyd@example.com,2025-01-06,Arlington,TX,Paid Social
+C01171,Christina Roberts,christina.roberts@example.com,2023-10-10,Boise,ID,Paid Social
+C01172,William Shaw,william.shaw@example.com,2023-11-17,Arlington,TX,Paid Social
+C01173,Rebecca Smith,rebecca.smith@example.com,2023-11-09,Houston,TX,Organic Search
+C01174,Ronnie Adams,ronnie.adams@example.com,2025-06-07,Dallas,TX,Referral
+C01175,Angela Logan,angela.logan@example.com,2024-10-04,Orlando,FL,Organic Search
+C01176,Christopher Taylor,christopher.taylor@example.com,2024-02-13,San Francisco,CA,Organic Search
+C01177,Christopher Taylor,christopher.taylor@example.com,2023-10-06,Philadelphia,PA,Organic Search
+C01178,Brian Santana,brian.santana@example.com,2024-06-05,Austin,TX,Email Marketing
+C01179,Stacey Lee,stacey.lee@example.com,2025-07-17,Houston,TX,Organic Search
+C01180,Amanda Hays,amanda.hays@example.com,2025-02-11,Miami,FL,Paid Social
+C01181,Gregory Hanson,gregory.hanson@example.com,2024-12-03,Milwaukee,WI,Organic Search
+C01182,Sherry Rios,sherry.rios@example.com,2024-09-21,Denver,CO,Referral
+C01183,Jimmy Mueller,jimmy.mueller@example.com,2025-08-15,Nashville,TN,Paid Social
+C01184,Jason Mccarty,jason.mccarty@example.com,2025-04-10,Miami,FL,Referral
+C01185,Barry Grant,barry.grant@example.com,2024-10-15,Austin,TX,Referral
+C01186,Seth Ward,seth.ward@example.com,2025-05-11,Cincinnati,OH,Organic Search
+C01187,Monica Cobb,monica.cobb@example.com,2023-12-09,Tulsa,OK,Paid Social
+C01188,Thomas Martinez,thomas.martinez@example.com,2025-03-26,New York,NY,Organic Search
+C01189,Andrew Heath,andrew.heath@example.com,2024-08-24,Dallas,TX,Referral
+C01190,Geoffrey Nelson,geoffrey.nelson@example.com,2024-06-19,Columbus,OH,Referral
+C01191,Daniel Sims,daniel.sims@example.com,2024-11-26,Portland,OR,Organic Search
+C01192,Zachary Williams,zachary.williams@example.com,2024-02-10,Miami,FL,Email Marketing
+C01193,Ryan Silva,ryan.silva@example.com,2024-11-11,Atlanta,GA,Paid Social
+C01194,Shane Blackwell,shane.blackwell@example.com,2025-08-02,Houston,TX,Organic Search
+C01195,Janet Graves,janet.graves@example.com,2025-08-23,Albuquerque,NM,Organic Search
+C01196,Janice Rowe,janice.rowe@example.com,2025-02-20,Sacramento,CA,Organic Search
+C01197,Justin Green,justin.green@example.com,2024-06-13,Raleigh,NC,Referral
+C01198,Cathy Harris,cathy.harris@example.com,2025-09-04,Philadelphia,PA,Email Marketing
+C01199,Stephanie Wilson,stephanie.wilson@example.com,2024-05-01,Louisville,KY,Organic Search
+C01200,Elijah Ross,elijah.ross@example.com,2024-09-25,Milwaukee,WI,Organic Search
+C01201,Judith Orr,judith.orr@example.com,2024-10-28,Kansas City,MO,Paid Social
+C01202,Meredith Brown,meredith.brown@example.com,2023-11-06,Houston,TX,Organic Search
+C01203,Jennifer Ho,jennifer.ho@example.com,2025-01-11,Columbus,OH,Organic Search
+C01204,Lauren Beck,lauren.beck@example.com,2023-12-06,Denver,CO,Referral
+C01205,Jeremy Ayala,jeremy.ayala@example.com,2024-06-29,Miami,FL,Referral
+C01206,Kelly Williams,kelly.williams@example.com,2025-09-02,Orlando,FL,Paid Social
+C01207,James Charles,james.charles@example.com,2024-01-15,Milwaukee,WI,Referral
+C01208,Tara Reynolds,tara.reynolds@example.com,2025-04-23,New York,NY,Referral
+C01209,Alyssa Howell,alyssa.howell@example.com,2025-03-01,Seattle,WA,Email Marketing
+C01210,Sara Davis,sara.davis@example.com,2024-11-01,Boise,ID,Organic Search
+C01211,Kristen Adams,kristen.adams@example.com,2023-10-18,Philadelphia,PA,Organic Search
+C01212,Keith Brown,keith.brown@example.com,2025-05-21,Albuquerque,NM,Paid Social
+C01213,Ian Lee,ian.lee@example.com,2025-05-21,Albuquerque,NM,Referral
+C01214,Timothy Brown,timothy.brown@example.com,2025-08-20,Miami,FL,Paid Social
+C01215,Kevin Prince,kevin.prince@example.com,2025-03-17,Arlington,TX,Organic Search
+C01216,Manuel Callahan,manuel.callahan@example.com,2024-08-22,Kansas City,MO,Organic Search
+C01217,Mary Wright,mary.wright@example.com,2025-05-11,Tampa,FL,Paid Social
+C01218,Jose Baker,jose.baker@example.com,2024-11-07,Tulsa,OK,Organic Search
+C01219,Cynthia Murray,cynthia.murray@example.com,2024-05-05,Dallas,TX,Organic Search
+C01220,Jason Walker,jason.walker@example.com,2023-10-29,San Francisco,CA,Organic Search
+C01221,Danielle King,danielle.king@example.com,2024-10-04,Oklahoma City,OK,Paid Social
+C01222,Daniel Robles,daniel.robles@example.com,2024-10-02,Minneapolis,MN,Paid Social
+C01223,Thomas Edwards,thomas.edwards@example.com,2025-03-18,Louisville,KY,Organic Search
+C01224,Sarah West,sarah.west@example.com,2024-10-22,Richmond,VA,Paid Social
+C01225,Robin Fisher,robin.fisher@example.com,2024-07-24,Mesa,AZ,Paid Social
+C01226,Jon Garrett,jon.garrett@example.com,2025-08-31,New Orleans,LA,Organic Search
+C01227,Mark Jones,mark.jones@example.com,2024-02-09,Los Angeles,CA,Organic Search
+C01228,John Medina,john.medina@example.com,2023-12-04,Houston,TX,Organic Search
+C01229,Robert Hendrix,robert.hendrix@example.com,2025-04-02,Mesa,AZ,Paid Social
+C01230,Jordan Ray,jordan.ray@example.com,2024-05-13,Pittsburgh,PA,Organic Search
+C01231,Tyler Coleman,tyler.coleman@example.com,2025-07-04,Long Beach,CA,Referral
+C01232,Jeanette Price,jeanette.price@example.com,2024-08-11,Minneapolis,MN,Referral
+C01233,Lisa Kelly,lisa.kelly@example.com,2025-08-25,Seattle,WA,Organic Search
+C01234,Carol Sosa,carol.sosa@example.com,2023-10-13,Fresno,CA,Organic Search
+C01235,Catherine Smith,catherine.smith@example.com,2023-10-03,Boston,MA,Email Marketing
+C01236,Garrett Sutton,garrett.sutton@example.com,2023-10-11,Fresno,CA,Referral
+C01237,Nicholas Morrison,nicholas.morrison@example.com,2025-01-12,Los Angeles,CA,Paid Social
+C01238,Michael Ritter,michael.ritter@example.com,2024-01-07,Miami,FL,Organic Search
+C01239,Erica Case,erica.case@example.com,2025-01-15,Tucson,AZ,Referral
+C01240,Stephanie Jacobs,stephanie.jacobs@example.com,2024-09-17,Denver,CO,Email Marketing
+C01241,Thomas Lopez,thomas.lopez@example.com,2024-03-30,Phoenix,AZ,Referral
+C01242,David Jenkins,david.jenkins@example.com,2024-10-16,New Orleans,LA,Paid Social
+C01243,Steven Nixon,steven.nixon@example.com,2024-12-04,Sacramento,CA,Paid Social
+C01244,Pamela Lopez,pamela.lopez@example.com,2025-02-11,Tucson,AZ,Paid Social
+C01245,Anthony Peters,anthony.peters@example.com,2025-08-04,Salt Lake City,UT,Referral
+C01246,Steven Mayo,steven.mayo@example.com,2025-08-13,Houston,TX,Organic Search
+C01247,Frank Franklin,frank.franklin@example.com,2024-10-22,San Francisco,CA,Organic Search
+C01248,Julia Allen,julia.allen@example.com,2024-04-18,Raleigh,NC,Organic Search
+C01249,Calvin Lyons,calvin.lyons@example.com,2023-11-04,Denver,CO,Organic Search
+C01250,Matthew Fleming,matthew.fleming@example.com,2024-07-01,Oakland,CA,Organic Search
+C01251,Angie Sanders,angie.sanders@example.com,2023-11-16,Houston,TX,Paid Social
+C01252,Melvin Robinson,melvin.robinson@example.com,2023-10-11,Milwaukee,WI,Email Marketing
+C01253,Holly Perez,holly.perez@example.com,2024-08-22,Memphis,TN,Organic Search
+C01254,Cody Garcia,cody.garcia@example.com,2025-04-06,Mesa,AZ,Referral
+C01255,Tracey Hudson,tracey.hudson@example.com,2024-03-04,San Diego,CA,Referral
+C01256,Kevin Lyons,kevin.lyons@example.com,2025-01-16,Salt Lake City,UT,Organic Search
+C01257,Jose Johnson,jose.johnson@example.com,2024-01-01,Austin,TX,Organic Search
+C01258,Mary Knapp,mary.knapp@example.com,2024-10-24,San Diego,CA,Organic Search
+C01259,Pam Jordan,pam.jordan@example.com,2023-09-28,Los Angeles,CA,Paid Social
+C01260,Heidi King,heidi.king@example.com,2023-11-15,Los Angeles,CA,Organic Search
+C01261,Benjamin Boyle,benjamin.boyle@example.com,2024-07-05,Austin,TX,Organic Search
+C01262,Derrick Howell,derrick.howell@example.com,2025-04-29,New York,NY,Organic Search
+C01263,Erin Lane,erin.lane@example.com,2025-05-11,Sacramento,CA,Paid Social
+C01264,Carla Tyler,carla.tyler@example.com,2024-12-27,Orlando,FL,Referral
+C01265,Erin Bell,erin.bell@example.com,2024-10-20,Mesa,AZ,Organic Search
+C01266,Danielle Schaefer,danielle.schaefer@example.com,2024-12-18,Portland,OR,Organic Search
+C01267,Curtis Rangel,curtis.rangel@example.com,2024-06-13,Milwaukee,WI,Paid Social
+C01268,Stephen Estrada,stephen.estrada@example.com,2025-07-27,Atlanta,GA,Paid Social
+C01269,Peter Robinson,peter.robinson@example.com,2024-01-16,Columbus,OH,Organic Search
+C01270,Brandi Bullock,brandi.bullock@example.com,2024-02-12,Albuquerque,NM,Paid Social
+C01271,Brandon Knight,brandon.knight@example.com,2025-04-23,Miami,FL,Paid Social
+C01272,Jared Harris,jared.harris@example.com,2024-06-27,New York,NY,Email Marketing
+C01273,Clayton Humphrey,clayton.humphrey@example.com,2023-12-10,New Orleans,LA,Organic Search
+C01274,Darryl Vasquez,darryl.vasquez@example.com,2024-01-21,Sacramento,CA,Organic Search
+C01275,Leah Clark,leah.clark@example.com,2024-06-19,Seattle,WA,Email Marketing
+C01276,Adriana Morris,adriana.morris@example.com,2024-12-07,Richmond,VA,Organic Search
+C01277,Tanya Edwards,tanya.edwards@example.com,2025-04-16,Chicago,IL,Paid Social
+C01278,Anne Silva,anne.silva@example.com,2023-12-26,Las Vegas,NV,Organic Search
+C01279,Rhonda Thomas,rhonda.thomas@example.com,2025-07-06,Seattle,WA,Paid Social
+C01280,Matthew Perez,matthew.perez@example.com,2024-09-30,Boise,ID,Organic Search
+C01281,Travis Eaton,travis.eaton@example.com,2024-09-12,Milwaukee,WI,Organic Search
+C01282,Rhonda Harrison,rhonda.harrison@example.com,2024-01-09,Arlington,TX,Organic Search
+C01283,Bruce Nichols,bruce.nichols@example.com,2025-07-07,Oklahoma City,OK,Referral
+C01284,Marie Mcdonald,marie.mcdonald@example.com,2024-01-05,Tulsa,OK,Organic Search
+C01285,Amanda Tucker,amanda.tucker@example.com,2025-01-15,New York,NY,Referral
+C01286,Mary Hendrix,mary.hendrix@example.com,2025-06-19,New York,NY,Referral
+C01287,Victoria Le,victoria.le@example.com,2024-06-20,Philadelphia,PA,Paid Social
+C01288,Jenna Flores,jenna.flores@example.com,2025-06-24,Portland,OR,Paid Social
+C01289,Gina Robinson,gina.robinson@example.com,2025-05-13,Milwaukee,WI,Referral
+C01290,Douglas Hill,douglas.hill@example.com,2025-06-26,Kansas City,MO,Organic Search
+C01291,Mary Simmons,mary.simmons@example.com,2025-07-05,Fresno,CA,Organic Search
+C01292,Adam Washington,adam.washington@example.com,2025-01-15,Mesa,AZ,Organic Search
+C01293,Nathaniel Kaiser,nathaniel.kaiser@example.com,2024-08-12,Louisville,KY,Referral
+C01294,Joshua White,joshua.white@example.com,2024-05-17,Miami,FL,Paid Social
+C01295,David Knight,david.knight@example.com,2024-08-29,Chicago,IL,Paid Social
+C01296,Jerry Long,jerry.long@example.com,2024-12-28,New York,NY,Paid Social
+C01297,Danielle Owen,danielle.owen@example.com,2024-05-18,Philadelphia,PA,Organic Search
+C01298,Adam Koch,adam.koch@example.com,2025-06-18,Tampa,FL,Paid Social
+C01299,Jacqueline Summers,jacqueline.summers@example.com,2024-06-19,Virginia Beach,VA,Referral
+C01300,Duane Brown,duane.brown@example.com,2024-05-19,Los Angeles,CA,Referral
+C01301,Carrie Cardenas,carrie.cardenas@example.com,2025-07-09,Oklahoma City,OK,Organic Search
+C01302,Ronald Ewing,ronald.ewing@example.com,2025-01-22,Las Vegas,NV,Referral
+C01303,Cynthia Thomas,cynthia.thomas@example.com,2024-04-18,Raleigh,NC,Referral
+C01304,April Wood,april.wood@example.com,2023-12-24,Oklahoma City,OK,Organic Search
+C01305,Melissa Orozco,melissa.orozco@example.com,2025-09-09,Raleigh,NC,Organic Search
+C01306,Kevin Kennedy,kevin.kennedy@example.com,2024-10-08,Oakland,CA,Organic Search
+C01307,Steven Snow,steven.snow@example.com,2025-01-30,Atlanta,GA,Referral
+C01308,Adrian Miles,adrian.miles@example.com,2024-05-06,Arlington,TX,Organic Search
+C01309,Derek Gordon,derek.gordon@example.com,2025-01-21,Minneapolis,MN,Paid Social
+C01310,Thomas Campbell,thomas.campbell@example.com,2025-07-17,Baltimore,MD,Email Marketing
+C01311,Brittany Hunter,brittany.hunter@example.com,2024-05-05,Oklahoma City,OK,Organic Search
+C01312,Charles Jones,charles.jones@example.com,2024-09-05,Boise,ID,Organic Search
+C01313,Julie Rhodes,julie.rhodes@example.com,2024-11-19,Miami,FL,Referral
+C01314,Sara Campbell,sara.campbell@example.com,2025-09-21,Memphis,TN,Organic Search
+C01315,Kelly Cardenas,kelly.cardenas@example.com,2024-02-05,Las Vegas,NV,Paid Social
+C01316,Victoria Ward,victoria.ward@example.com,2023-09-30,Houston,TX,Paid Social
+C01317,Melissa Guerrero,melissa.guerrero@example.com,2024-05-14,Oklahoma City,OK,Organic Search
+C01318,Jon Perkins,jon.perkins@example.com,2023-09-28,Austin,TX,Referral
+C01319,Michelle Tran,michelle.tran@example.com,2023-11-18,Sacramento,CA,Paid Social
+C01320,Christian Henderson,christian.henderson@example.com,2024-11-04,Baltimore,MD,Organic Search
+C01321,Tammy Johnson,tammy.johnson@example.com,2023-12-01,San Francisco,CA,Organic Search
+C01322,Lisa Myers,lisa.myers@example.com,2024-03-22,Memphis,TN,Organic Search
+C01323,Evan Kline,evan.kline@example.com,2025-02-06,Tucson,AZ,Organic Search
+C01324,Miguel Smith,miguel.smith@example.com,2024-08-29,New York,NY,Organic Search
+C01325,Zachary Lucero,zachary.lucero@example.com,2024-02-20,Dallas,TX,Organic Search
+C01326,Jeremy Brennan,jeremy.brennan@example.com,2024-08-27,Charlotte,NC,Referral
+C01327,Eric Cole,eric.cole@example.com,2025-09-10,Orlando,FL,Organic Search
+C01328,Andrew Carlson,andrew.carlson@example.com,2024-07-26,Arlington,TX,Paid Social
+C01329,Bradley Smith,bradley.smith@example.com,2023-12-24,Boise,ID,Paid Social
+C01330,Ricky Diaz,ricky.diaz@example.com,2024-07-07,Houston,TX,Paid Social
+C01331,Christopher Elliott,christopher.elliott@example.com,2023-11-23,Baltimore,MD,Paid Social
+C01332,Courtney Dominguez,courtney.dominguez@example.com,2024-12-21,Fresno,CA,Paid Social
+C01333,Frances Bailey,frances.bailey@example.com,2025-04-28,Sacramento,CA,Organic Search
+C01334,Leslie Hall,leslie.hall@example.com,2023-12-26,Oklahoma City,OK,Paid Social
+C01335,Christopher Cook,christopher.cook@example.com,2024-01-13,Long Beach,CA,Organic Search
+C01336,Michelle Johnson,michelle.johnson@example.com,2025-09-09,Fresno,CA,Paid Social
+C01337,Joseph Alvarez,joseph.alvarez@example.com,2025-04-22,Tampa,FL,Organic Search
+C01338,Kimberly Osborne,kimberly.osborne@example.com,2024-07-05,San Francisco,CA,Organic Search
+C01339,Robin Ramos,robin.ramos@example.com,2023-12-20,Sacramento,CA,Organic Search
+C01340,John Owens,john.owens@example.com,2024-02-21,Fresno,CA,Referral
+C01341,Denise Roberts,denise.roberts@example.com,2024-10-16,Oakland,CA,Referral
+C01342,Tara Turner,tara.turner@example.com,2024-12-22,Salt Lake City,UT,Paid Social
+C01343,Tina Sparks,tina.sparks@example.com,2024-06-01,Boston,MA,Paid Social
+C01344,Paul Chung,paul.chung@example.com,2025-05-09,Portland,OR,Organic Search
+C01345,Allen Frye,allen.frye@example.com,2024-12-14,Salt Lake City,UT,Paid Social
+C01346,Autumn Frye,autumn.frye@example.com,2023-11-19,Miami,FL,Paid Social
+C01347,Michele Griffin,michele.griffin@example.com,2025-01-06,Long Beach,CA,Organic Search
+C01348,Julie Dalton,julie.dalton@example.com,2023-10-16,Cleveland,OH,Paid Social
+C01349,Heather Moore,heather.moore@example.com,2023-10-28,Chicago,IL,Paid Social
+C01350,Taylor Goodman,taylor.goodman@example.com,2024-09-02,Austin,TX,Paid Social
+C01351,Denise Myers,denise.myers@example.com,2024-01-25,Charlotte,NC,Paid Social
+C01352,Teresa Ray,teresa.ray@example.com,2024-07-30,Long Beach,CA,Paid Social
+C01353,Danielle Stokes,danielle.stokes@example.com,2024-05-10,Houston,TX,Referral
+C01354,Charles Martinez,charles.martinez@example.com,2025-03-01,Tampa,FL,Paid Social
+C01355,Kimberly Vazquez,kimberly.vazquez@example.com,2025-07-27,Cleveland,OH,Referral
+C01356,Bobby Vega,bobby.vega@example.com,2024-05-25,Charlotte,NC,Organic Search
+C01357,Shawn Price,shawn.price@example.com,2024-03-17,Phoenix,AZ,Referral
+C01358,Lucas Jones,lucas.jones@example.com,2024-11-25,Philadelphia,PA,Organic Search
+C01359,Vickie Jimenez,vickie.jimenez@example.com,2023-12-13,Indianapolis,IN,Paid Social
+C01360,Chad Martinez,chad.martinez@example.com,2023-12-01,New York,NY,Referral
+C01361,Paula Mason,paula.mason@example.com,2024-07-11,New York,NY,Referral
+C01362,Steven Davis,steven.davis@example.com,2025-03-26,New York,NY,Email Marketing
+C01363,Kevin Underwood,kevin.underwood@example.com,2025-07-28,Louisville,KY,Paid Social
+C01364,Justin Leach,justin.leach@example.com,2024-10-28,Orlando,FL,Referral
+C01365,Erin Maynard,erin.maynard@example.com,2024-05-26,Cincinnati,OH,Referral
+C01366,Alejandra Christian,alejandra.christian@example.com,2023-11-17,Austin,TX,Paid Social
+C01367,Jason Richards,jason.richards@example.com,2025-02-12,Raleigh,NC,Organic Search
+C01368,Candace Cordova,candace.cordova@example.com,2023-11-11,Long Beach,CA,Paid Social
+C01369,Heather Garrett,heather.garrett@example.com,2025-02-07,Boston,MA,Organic Search
+C01370,Anthony Brown,anthony.brown@example.com,2023-11-27,Indianapolis,IN,Referral
+C01371,Jennifer Martin,jennifer.martin@example.com,2023-11-26,Dallas,TX,Referral
+C01372,Dennis Rich,dennis.rich@example.com,2025-03-11,Sacramento,CA,Organic Search
+C01373,Michael Adams,michael.adams@example.com,2024-12-11,San Diego,CA,Referral
+C01374,Sarah Smith,sarah.smith@example.com,2024-06-21,Houston,TX,Referral
+C01375,Michael Foster,michael.foster@example.com,2025-01-12,Fresno,CA,Organic Search
+C01376,John Nelson,john.nelson@example.com,2025-05-03,Boise,ID,Referral
+C01377,Melanie Sandoval,melanie.sandoval@example.com,2024-03-03,Boston,MA,Referral
+C01378,Nicole Stevens,nicole.stevens@example.com,2025-05-01,Raleigh,NC,Referral
+C01379,David Krause,david.krause@example.com,2023-11-09,New Orleans,LA,Email Marketing
+C01380,Steven Beck,steven.beck@example.com,2024-08-27,Memphis,TN,Paid Social
+C01381,Katie Miller,katie.miller@example.com,2024-07-20,New York,NY,Referral
+C01382,Anthony King,anthony.king@example.com,2023-11-03,Austin,TX,Paid Social
+C01383,Ashley Brown,ashley.brown@example.com,2024-07-31,Los Angeles,CA,Organic Search
+C01384,Timothy Winters,timothy.winters@example.com,2024-06-14,Nashville,TN,Paid Social
+C01385,Dawn Lynch,dawn.lynch@example.com,2024-05-12,Milwaukee,WI,Email Marketing
+C01386,Danielle Garcia,danielle.garcia@example.com,2024-10-30,Austin,TX,Email Marketing
+C01387,Eric Duncan,eric.duncan@example.com,2025-06-29,Sacramento,CA,Paid Social
+C01388,Vanessa Collins,vanessa.collins@example.com,2024-12-01,Columbus,OH,Organic Search
+C01389,Kathy Robertson,kathy.robertson@example.com,2025-03-20,Tulsa,OK,Organic Search
+C01390,Tyler Lowe,tyler.lowe@example.com,2024-06-22,Columbus,OH,Referral
+C01391,Wayne Coffey,wayne.coffey@example.com,2025-03-27,Baltimore,MD,Organic Search
+C01392,Molly Perez,molly.perez@example.com,2024-12-29,Richmond,VA,Paid Social
+C01393,Kristin Cobb,kristin.cobb@example.com,2024-07-19,Denver,CO,Paid Social
+C01394,Justin Blake,justin.blake@example.com,2024-12-02,Phoenix,AZ,Paid Social
+C01395,Kaylee Lloyd,kaylee.lloyd@example.com,2024-02-14,Fresno,CA,Referral
+C01396,Deanna Briggs,deanna.briggs@example.com,2024-12-28,Raleigh,NC,Paid Social
+C01397,Kevin Moore,kevin.moore@example.com,2023-12-24,Long Beach,CA,Organic Search
+C01398,Brandy Armstrong,brandy.armstrong@example.com,2025-02-06,Austin,TX,Email Marketing
+C01399,Walter Jones,walter.jones@example.com,2025-05-13,San Francisco,CA,Paid Social
+C01400,Tammy Walker,tammy.walker@example.com,2024-12-23,Baltimore,MD,Paid Social
+C01401,William Zimmerman,william.zimmerman@example.com,2024-01-01,Los Angeles,CA,Referral
+C01402,Kayla Christian,kayla.christian@example.com,2025-09-19,Baltimore,MD,Organic Search
+C01403,Maria Davis,maria.davis@example.com,2024-01-30,San Diego,CA,Organic Search
+C01404,Kathleen Smith,kathleen.smith@example.com,2023-12-17,Louisville,KY,Organic Search
+C01405,Melissa Henderson,melissa.henderson@example.com,2024-04-01,Baltimore,MD,Paid Social
+C01406,Anthony Garcia,anthony.garcia@example.com,2024-09-25,Fresno,CA,Organic Search
+C01407,John Carter,john.carter@example.com,2024-05-07,Arlington,TX,Organic Search
+C01408,Jacob Chavez,jacob.chavez@example.com,2024-05-19,Cleveland,OH,Email Marketing
+C01409,Janice Ball,janice.ball@example.com,2025-04-23,Phoenix,AZ,Organic Search
+C01410,David White,david.white@example.com,2025-06-06,San Francisco,CA,Referral
+C01411,Christian Medina,christian.medina@example.com,2025-01-25,Tampa,FL,Organic Search
+C01412,Kimberly King,kimberly.king@example.com,2025-04-15,Tucson,AZ,Referral
+C01413,Molly Sanchez,molly.sanchez@example.com,2023-09-27,Sacramento,CA,Referral
+C01414,Tyler Madden,tyler.madden@example.com,2024-01-10,Albuquerque,NM,Organic Search
+C01415,Vanessa Wood,vanessa.wood@example.com,2025-06-09,New Orleans,LA,Paid Social
+C01416,Mark Lee,mark.lee@example.com,2025-04-07,Los Angeles,CA,Organic Search
+C01417,Emily Allen,emily.allen@example.com,2024-05-15,Tampa,FL,Organic Search
+C01418,Bryan Barron,bryan.barron@example.com,2025-04-10,Orlando,FL,Organic Search
+C01419,Heather Rhodes,heather.rhodes@example.com,2025-04-28,Charlotte,NC,Referral
+C01420,Joseph Bailey,joseph.bailey@example.com,2023-09-28,Tampa,FL,Paid Social
+C01421,Matthew Beltran,matthew.beltran@example.com,2025-05-26,Los Angeles,CA,Organic Search
+C01422,Sarah Miller,sarah.miller@example.com,2024-02-19,Nashville,TN,Paid Social
+C01423,Jennifer Mathews,jennifer.mathews@example.com,2025-04-02,Dallas,TX,Paid Social
+C01424,Anna Evans,anna.evans@example.com,2024-07-28,Houston,TX,Paid Social
+C01425,Jose Williams,jose.williams@example.com,2023-09-30,Columbus,OH,Organic Search
+C01426,Jacqueline Martinez,jacqueline.martinez@example.com,2025-01-12,Virginia Beach,VA,Paid Social
+C01427,Katie Waters,katie.waters@example.com,2024-06-16,Atlanta,GA,Referral
+C01428,Deborah Pierce,deborah.pierce@example.com,2024-03-15,Austin,TX,Referral
+C01429,Lisa Rice,lisa.rice@example.com,2024-01-14,Houston,TX,Referral
+C01430,Felicia Flores,felicia.flores@example.com,2024-09-14,San Francisco,CA,Paid Social
+C01431,John Zhang,john.zhang@example.com,2025-06-27,Albuquerque,NM,Paid Social
+C01432,Angela Park,angela.park@example.com,2025-01-29,Houston,TX,Organic Search
+C01433,Michael Jimenez,michael.jimenez@example.com,2024-08-02,Louisville,KY,Paid Social
+C01434,Ross Francis,ross.francis@example.com,2025-06-12,Philadelphia,PA,Email Marketing
+C01435,Laura Young,laura.young@example.com,2023-11-05,Cincinnati,OH,Referral
+C01436,Seth Hansen,seth.hansen@example.com,2023-12-27,Boise,ID,Organic Search
+C01437,Frances Smith,frances.smith@example.com,2024-07-03,Richmond,VA,Referral
+C01438,Pamela Paul,pamela.paul@example.com,2024-01-07,Fresno,CA,Referral
+C01439,Michael Taylor,michael.taylor@example.com,2024-12-18,Pittsburgh,PA,Paid Social
+C01440,Sydney Johnson,sydney.johnson@example.com,2024-12-10,Atlanta,GA,Organic Search
+C01441,Alexander Crawford,alexander.crawford@example.com,2024-10-31,Tampa,FL,Organic Search
+C01442,Dorothy Rogers,dorothy.rogers@example.com,2024-12-29,San Francisco,CA,Organic Search
+C01443,Andrea Graham,andrea.graham@example.com,2024-05-08,Denver,CO,Paid Social
+C01444,Victoria Kent,victoria.kent@example.com,2024-11-15,Houston,TX,Organic Search
+C01445,Cindy Jones,cindy.jones@example.com,2024-11-13,Boise,ID,Organic Search
+C01446,Rhonda Gordon,rhonda.gordon@example.com,2024-01-04,Pittsburgh,PA,Referral
+C01447,Eric Brock,eric.brock@example.com,2025-03-29,Miami,FL,Organic Search
+C01448,Michelle Stevens,michelle.stevens@example.com,2024-03-03,Fresno,CA,Organic Search
+C01449,Kimberly Barr,kimberly.barr@example.com,2025-05-01,Nashville,TN,Organic Search
+C01450,Chad Barry,chad.barry@example.com,2025-07-07,Cincinnati,OH,Referral
+C01451,Sally Mcgrath,sally.mcgrath@example.com,2025-04-30,Boise,ID,Referral
+C01452,Ryan Collins,ryan.collins@example.com,2025-07-17,Tucson,AZ,Paid Social
+C01453,Daniel Bailey,daniel.bailey@example.com,2023-12-22,Austin,TX,Organic Search
+C01454,Matthew Mcdaniel,matthew.mcdaniel@example.com,2025-02-22,Memphis,TN,Paid Social
+C01455,Russell Andrade,russell.andrade@example.com,2024-05-17,Oakland,CA,Referral
+C01456,Tommy Gordon,tommy.gordon@example.com,2024-03-15,Baltimore,MD,Organic Search
+C01457,Brian Brown,brian.brown@example.com,2024-09-09,Chicago,IL,Organic Search
+C01458,Barbara Mcintyre,barbara.mcintyre@example.com,2023-10-30,Las Vegas,NV,Paid Social
+C01459,Alison Yang,alison.yang@example.com,2024-02-29,Richmond,VA,Paid Social
+C01460,Fernando Alexander,fernando.alexander@example.com,2024-04-01,Boston,MA,Paid Social
+C01461,Erica Richardson,erica.richardson@example.com,2024-04-07,Tampa,FL,Organic Search
+C01462,Megan Martin,megan.martin@example.com,2024-03-17,Philadelphia,PA,Organic Search
+C01463,David Conley,david.conley@example.com,2025-01-20,Boise,ID,Paid Social
+C01464,Rodney Guerra,rodney.guerra@example.com,2025-01-15,New York,NY,Organic Search
+C01465,Shannon Stuart,shannon.stuart@example.com,2025-06-23,Fresno,CA,Paid Social
+C01466,Levi Torres,levi.torres@example.com,2025-09-08,Pittsburgh,PA,Paid Social
+C01467,Elizabeth Allen,elizabeth.allen@example.com,2024-06-19,New York,NY,Organic Search
+C01468,Andrea Mccarty,andrea.mccarty@example.com,2023-10-26,New York,NY,Referral
+C01469,Stephanie Garcia,stephanie.garcia@example.com,2025-09-16,Orlando,FL,Email Marketing
+C01470,James Rivas,james.rivas@example.com,2024-03-17,Tampa,FL,Email Marketing
+C01471,Samantha Cruz,samantha.cruz@example.com,2024-05-17,Miami,FL,Email Marketing
+C01472,Joseph Edwards,joseph.edwards@example.com,2025-07-03,Fresno,CA,Paid Social
+C01473,Daniel Jones,daniel.jones@example.com,2025-09-19,Seattle,WA,Organic Search
+C01474,Garrett Roberts,garrett.roberts@example.com,2023-10-04,Orlando,FL,Referral
+C01475,Diana Carpenter,diana.carpenter@example.com,2025-06-01,Orlando,FL,Organic Search
+C01476,Stephen Ruiz,stephen.ruiz@example.com,2025-04-14,Milwaukee,WI,Organic Search
+C01477,Angela Sullivan,angela.sullivan@example.com,2023-12-26,Chicago,IL,Paid Social
+C01478,Michelle Bell,michelle.bell@example.com,2023-10-03,New York,NY,Email Marketing
+C01479,Jason Riggs,jason.riggs@example.com,2024-03-23,Boston,MA,Organic Search
+C01480,Vanessa Valentine,vanessa.valentine@example.com,2025-09-18,Cincinnati,OH,Organic Search
+C01481,Justin Terry,justin.terry@example.com,2023-11-23,Arlington,TX,Paid Social
+C01482,Kevin Duncan,kevin.duncan@example.com,2025-08-08,Orlando,FL,Paid Social
+C01483,Daniel Marshall,daniel.marshall@example.com,2024-02-04,Miami,FL,Paid Social
+C01484,Melissa Butler,melissa.butler@example.com,2025-02-14,Fresno,CA,Email Marketing
+C01485,Shannon Jones,shannon.jones@example.com,2024-02-25,Tampa,FL,Paid Social
+C01486,Joyce Black,joyce.black@example.com,2024-01-26,Atlanta,GA,Organic Search
+C01487,Charles Castillo,charles.castillo@example.com,2025-07-29,Louisville,KY,Email Marketing
+C01488,Nathan Charles,nathan.charles@example.com,2024-01-29,Boston,MA,Paid Social
+C01489,Richard Rhodes,richard.rhodes@example.com,2025-03-15,Tampa,FL,Referral
+C01490,Kevin Cox,kevin.cox@example.com,2025-05-04,San Diego,CA,Organic Search
+C01491,Elizabeth James,elizabeth.james@example.com,2025-07-09,Columbus,OH,Paid Social
+C01492,Heather Jensen,heather.jensen@example.com,2024-07-10,Tampa,FL,Email Marketing
+C01493,Ronald Martin,ronald.martin@example.com,2024-12-22,Cincinnati,OH,Paid Social
+C01494,Melissa Watson,melissa.watson@example.com,2024-04-02,Minneapolis,MN,Organic Search
+C01495,Raymond Phillips,raymond.phillips@example.com,2024-04-20,Mesa,AZ,Organic Search
+C01496,Michael Baldwin,michael.baldwin@example.com,2025-01-10,Richmond,VA,Referral
+C01497,Elaine Thomas,elaine.thomas@example.com,2025-06-29,Minneapolis,MN,Organic Search
+C01498,Jason Hernandez,jason.hernandez@example.com,2025-08-29,Salt Lake City,UT,Organic Search
+C01499,Tommy Mendoza,tommy.mendoza@example.com,2024-09-04,Boise,ID,Organic Search
+C01500,Keith Yoder,keith.yoder@example.com,2024-12-21,Nashville,TN,Organic Search
+C01501,Paul Harrell,paul.harrell@example.com,2024-02-16,Kansas City,MO,Organic Search
+C01502,Michael Townsend,michael.townsend@example.com,2024-11-07,Atlanta,GA,Organic Search
+C01503,David Johnson,david.johnson@example.com,2023-09-23,Boise,ID,Paid Social
+C01504,Troy Knapp,troy.knapp@example.com,2025-02-03,San Diego,CA,Organic Search
+C01505,Heather Osborne,heather.osborne@example.com,2025-09-04,Chicago,IL,Referral
+C01506,Krista Smith,krista.smith@example.com,2024-10-24,Albuquerque,NM,Paid Social
+C01507,Stephanie Hernandez,stephanie.hernandez@example.com,2025-02-12,Memphis,TN,Paid Social
+C01508,Timothy Salinas,timothy.salinas@example.com,2024-09-11,Atlanta,GA,Organic Search
+C01509,Scott Clark,scott.clark@example.com,2024-05-01,Fresno,CA,Organic Search
+C01510,Jacqueline Moore,jacqueline.moore@example.com,2025-08-30,San Francisco,CA,Organic Search
+C01511,Kerry Pacheco,kerry.pacheco@example.com,2025-01-12,Houston,TX,Organic Search
+C01512,Theresa Franklin,theresa.franklin@example.com,2025-06-02,Nashville,TN,Paid Social
+C01513,William Mccullough,william.mccullough@example.com,2024-10-19,Miami,FL,Paid Social
+C01514,Alyssa Martinez,alyssa.martinez@example.com,2024-10-15,Charlotte,NC,Paid Social
+C01515,Tyler Warren,tyler.warren@example.com,2025-08-10,Albuquerque,NM,Organic Search
+C01516,Robin Black,robin.black@example.com,2024-08-21,Indianapolis,IN,Referral
+C01517,Anthony Anthony,anthony.anthony@example.com,2024-09-06,Austin,TX,Email Marketing
+C01518,Marvin Fuller,marvin.fuller@example.com,2025-03-21,Miami,FL,Referral
+C01519,Cynthia Bauer,cynthia.bauer@example.com,2024-03-02,San Francisco,CA,Paid Social
+C01520,Duane Wright,duane.wright@example.com,2024-09-14,Charlotte,NC,Organic Search
+C01521,Carrie Hernandez,carrie.hernandez@example.com,2024-02-03,Charlotte,NC,Organic Search
+C01522,Wendy Miller,wendy.miller@example.com,2024-08-09,Houston,TX,Referral
+C01523,Brent Kelley,brent.kelley@example.com,2025-08-23,Austin,TX,Organic Search
+C01524,Christopher Alexander,christopher.alexander@example.com,2024-02-16,Boise,ID,Paid Social
+C01525,Paul Perez,paul.perez@example.com,2025-09-05,Phoenix,AZ,Referral
+C01526,Bonnie Haas,bonnie.haas@example.com,2023-11-28,Orlando,FL,Paid Social
+C01527,Valerie Ward,valerie.ward@example.com,2024-08-23,Milwaukee,WI,Organic Search
+C01528,Aaron Sandoval,aaron.sandoval@example.com,2024-07-09,Pittsburgh,PA,Paid Social
+C01529,Donna Reid,donna.reid@example.com,2025-08-25,Arlington,TX,Organic Search
+C01530,Christopher Davis,christopher.davis@example.com,2024-05-25,Orlando,FL,Referral
+C01531,Samuel Pollard,samuel.pollard@example.com,2023-12-30,Raleigh,NC,Referral
+C01532,Anna Fernandez,anna.fernandez@example.com,2025-01-17,Tulsa,OK,Referral
+C01533,James Campos,james.campos@example.com,2025-01-05,Boise,ID,Organic Search
+C01534,David Ali,david.ali@example.com,2024-12-26,Cleveland,OH,Organic Search
+C01535,John Phillips,john.phillips@example.com,2023-10-24,Pittsburgh,PA,Paid Social
+C01536,Clifford Evans,clifford.evans@example.com,2024-04-01,Memphis,TN,Organic Search
+C01537,Crystal Simmons,crystal.simmons@example.com,2025-04-20,San Francisco,CA,Organic Search
+C01538,Caitlin Mann,caitlin.mann@example.com,2024-03-27,Cincinnati,OH,Paid Social
+C01539,Morgan Rubio,morgan.rubio@example.com,2024-10-26,Kansas City,MO,Organic Search
+C01540,Stacy Hutchinson,stacy.hutchinson@example.com,2025-01-11,Richmond,VA,Referral
+C01541,Jennifer Garcia,jennifer.garcia@example.com,2023-10-15,Virginia Beach,VA,Organic Search
+C01542,Michael Lewis,michael.lewis@example.com,2025-09-12,Dallas,TX,Paid Social
+C01543,Vanessa Wolf,vanessa.wolf@example.com,2023-12-28,San Francisco,CA,Paid Social
+C01544,Glenn Dalton,glenn.dalton@example.com,2023-12-22,Fresno,CA,Email Marketing
+C01545,Tara Hood,tara.hood@example.com,2025-04-30,Miami,FL,Organic Search
+C01546,Maria Collins,maria.collins@example.com,2023-10-23,New York,NY,Organic Search
+C01547,Rhonda Hall,rhonda.hall@example.com,2025-07-25,Seattle,WA,Email Marketing
+C01548,Laura Weber,laura.weber@example.com,2024-09-06,New York,NY,Paid Social
+C01549,Christopher Hall,christopher.hall@example.com,2024-11-11,Milwaukee,WI,Paid Social
+C01550,Thomas Glenn,thomas.glenn@example.com,2025-06-18,Virginia Beach,VA,Paid Social
+C01551,Linda Richards,linda.richards@example.com,2024-05-26,Kansas City,MO,Organic Search
+C01552,Natalie Woods,natalie.woods@example.com,2024-12-28,Sacramento,CA,Paid Social
+C01553,Edward Johnston,edward.johnston@example.com,2025-08-16,Baltimore,MD,Referral
+C01554,Nicholas Martinez,nicholas.martinez@example.com,2024-02-21,San Diego,CA,Referral
+C01555,Richard Morgan,richard.morgan@example.com,2025-07-15,San Diego,CA,Paid Social
+C01556,Dale Larson,dale.larson@example.com,2025-07-19,Milwaukee,WI,Organic Search
+C01557,Rachel Li,rachel.li@example.com,2024-08-24,Miami,FL,Organic Search
+C01558,William Smith,william.smith@example.com,2025-07-25,New Orleans,LA,Organic Search
+C01559,Jessica Roberson,jessica.roberson@example.com,2025-02-23,Minneapolis,MN,Paid Social
+C01560,Tom Cline,tom.cline@example.com,2024-10-03,New York,NY,Paid Social
+C01561,Rachel Cox,rachel.cox@example.com,2024-08-12,Houston,TX,Paid Social
+C01562,Rebecca Watson,rebecca.watson@example.com,2024-06-29,Tulsa,OK,Organic Search
+C01563,Natasha Holmes,natasha.holmes@example.com,2025-06-17,New Orleans,LA,Organic Search
+C01564,Joe Brady,joe.brady@example.com,2025-01-29,Baltimore,MD,Referral
+C01565,Caitlin Thomas,caitlin.thomas@example.com,2024-01-13,Los Angeles,CA,Paid Social
+C01566,Mark Dominguez,mark.dominguez@example.com,2024-01-28,Oakland,CA,Email Marketing
+C01567,Pam Hall,pam.hall@example.com,2024-10-13,Arlington,TX,Organic Search
+C01568,Nancy Murphy,nancy.murphy@example.com,2025-01-27,Las Vegas,NV,Paid Social
+C01569,Michael Blake,michael.blake@example.com,2024-10-11,Denver,CO,Paid Social
+C01570,Amber Baker,amber.baker@example.com,2025-06-20,San Francisco,CA,Organic Search
+C01571,Brian Bullock,brian.bullock@example.com,2024-04-05,Dallas,TX,Email Marketing
+C01572,Raven Garcia,raven.garcia@example.com,2025-09-15,New Orleans,LA,Organic Search
+C01573,Kenneth White,kenneth.white@example.com,2024-08-20,Los Angeles,CA,Paid Social
+C01574,Sandy Green,sandy.green@example.com,2023-10-19,Long Beach,CA,Paid Social
+C01575,Steven Hammond,steven.hammond@example.com,2025-05-05,Orlando,FL,Paid Social
+C01576,Alexander George,alexander.george@example.com,2024-11-12,Pittsburgh,PA,Organic Search
+C01577,Jonathan Barker,jonathan.barker@example.com,2024-03-09,Arlington,TX,Paid Social
+C01578,Anna Young,anna.young@example.com,2025-06-21,Dallas,TX,Referral
+C01579,Cheryl Banks,cheryl.banks@example.com,2025-07-11,New York,NY,Email Marketing
+C01580,Nathan Diaz,nathan.diaz@example.com,2024-03-02,Oakland,CA,Organic Search
+C01581,Kenneth Gross,kenneth.gross@example.com,2024-05-16,Arlington,TX,Referral
+C01582,Laurie Stone,laurie.stone@example.com,2024-01-04,Boston,MA,Email Marketing
+C01583,John Brooks,john.brooks@example.com,2025-02-25,Phoenix,AZ,Referral
+C01584,Christine Reynolds,christine.reynolds@example.com,2025-02-14,Sacramento,CA,Organic Search
+C01585,Allison Fleming,allison.fleming@example.com,2025-06-14,Dallas,TX,Paid Social
+C01586,Donna Miller,donna.miller@example.com,2025-04-07,Dallas,TX,Referral
+C01587,Kevin Castillo,kevin.castillo@example.com,2024-05-19,Austin,TX,Organic Search
+C01588,Alexis Rogers,alexis.rogers@example.com,2024-09-14,Boise,ID,Organic Search
+C01589,Monica Thomas,monica.thomas@example.com,2025-06-23,Atlanta,GA,Organic Search
+C01590,Robert Ward,robert.ward@example.com,2024-08-06,Fresno,CA,Paid Social
+C01591,Kevin Martin,kevin.martin@example.com,2024-06-23,Mesa,AZ,Organic Search
+C01592,Melissa Mendoza,melissa.mendoza@example.com,2025-03-03,Oklahoma City,OK,Paid Social
+C01593,Julie Lewis,julie.lewis@example.com,2025-07-16,Las Vegas,NV,Referral
+C01594,Sherry Bauer,sherry.bauer@example.com,2025-08-21,Phoenix,AZ,Referral
+C01595,Ashley Thomas,ashley.thomas@example.com,2024-08-08,Baltimore,MD,Paid Social
+C01596,Tina Carlson,tina.carlson@example.com,2024-09-17,Minneapolis,MN,Organic Search
+C01597,Danielle Ross,danielle.ross@example.com,2025-07-11,San Diego,CA,Organic Search
+C01598,Monica Daniels,monica.daniels@example.com,2024-06-16,Tampa,FL,Paid Social
+C01599,Ann Esparza,ann.esparza@example.com,2024-03-20,Boise,ID,Referral
+C01600,Jacqueline Wood,jacqueline.wood@example.com,2025-02-16,Austin,TX,Organic Search
+C01601,Tyler Pacheco,tyler.pacheco@example.com,2024-07-13,Los Angeles,CA,Paid Social
+C01602,Danielle Lewis,danielle.lewis@example.com,2024-07-18,Los Angeles,CA,Paid Social
+C01603,Juan Martin,juan.martin@example.com,2024-02-18,New York,NY,Referral
+C01604,Ashley Johnson,ashley.johnson@example.com,2025-01-15,Cincinnati,OH,Referral
+C01605,Tyler Arnold,tyler.arnold@example.com,2024-12-16,Louisville,KY,Organic Search
+C01606,Robert Davis,robert.davis@example.com,2024-09-24,Miami,FL,Organic Search
+C01607,Thomas Pham,thomas.pham@example.com,2024-03-09,Tulsa,OK,Paid Social
+C01608,Richard Smith,richard.smith@example.com,2025-09-17,Dallas,TX,Organic Search
+C01609,Joshua Sanchez,joshua.sanchez@example.com,2025-06-05,Austin,TX,Referral
+C01610,Jack Powers,jack.powers@example.com,2023-12-30,Baltimore,MD,Paid Social
+C01611,Jody Elliott,jody.elliott@example.com,2023-12-05,Austin,TX,Referral
+C01612,Joel Diaz,joel.diaz@example.com,2025-09-15,Oakland,CA,Paid Social
+C01613,Robert Anderson,robert.anderson@example.com,2025-07-08,Philadelphia,PA,Paid Social
+C01614,Timothy Davis,timothy.davis@example.com,2025-08-27,Fresno,CA,Organic Search
+C01615,Jay Martin,jay.martin@example.com,2024-07-13,New York,NY,Organic Search
+C01616,Jeffrey Miller,jeffrey.miller@example.com,2024-02-13,Miami,FL,Paid Social
+C01617,Angela Maldonado,angela.maldonado@example.com,2023-10-08,Oakland,CA,Paid Social
+C01618,Michelle Carpenter,michelle.carpenter@example.com,2024-07-16,Kansas City,MO,Paid Social
+C01619,Jose Anderson,jose.anderson@example.com,2024-01-12,Raleigh,NC,Email Marketing
+C01620,Timothy Robinson,timothy.robinson@example.com,2024-07-29,Los Angeles,CA,Organic Search
+C01621,Daniel Davidson,daniel.davidson@example.com,2023-12-27,Seattle,WA,Organic Search
+C01622,Katrina Becker,katrina.becker@example.com,2024-02-23,New Orleans,LA,Referral
+C01623,Lisa Keller,lisa.keller@example.com,2024-09-13,Tucson,AZ,Paid Social
+C01624,Brandi Ochoa,brandi.ochoa@example.com,2024-04-18,Portland,OR,Paid Social
+C01625,Justin Foster,justin.foster@example.com,2024-07-03,Austin,TX,Organic Search
+C01626,Amy Rowe,amy.rowe@example.com,2024-08-14,Cleveland,OH,Paid Social
+C01627,Patricia Carlson,patricia.carlson@example.com,2024-05-27,Austin,TX,Email Marketing
+C01628,Cassandra Atkinson,cassandra.atkinson@example.com,2024-05-23,Virginia Beach,VA,Organic Search
+C01629,Maurice Turner,maurice.turner@example.com,2024-09-28,Long Beach,CA,Paid Social
+C01630,Thomas Andrade,thomas.andrade@example.com,2024-12-13,Richmond,VA,Organic Search
+C01631,Sean James,sean.james@example.com,2025-08-12,Miami,FL,Referral
+C01632,Peter Perez,peter.perez@example.com,2024-09-20,Baltimore,MD,Organic Search
+C01633,Ryan Mejia,ryan.mejia@example.com,2025-09-21,Fresno,CA,Paid Social
+C01634,Danielle Gonzalez,danielle.gonzalez@example.com,2025-07-26,Arlington,TX,Organic Search
+C01635,Jeffery Johns,jeffery.johns@example.com,2023-12-05,Philadelphia,PA,Paid Social
+C01636,Rebecca Vazquez,rebecca.vazquez@example.com,2024-06-11,Memphis,TN,Paid Social
+C01637,Catherine Green,catherine.green@example.com,2024-06-28,Minneapolis,MN,Paid Social
+C01638,Geoffrey Johnson,geoffrey.johnson@example.com,2024-12-05,Milwaukee,WI,Referral
+C01639,Nicolas Cox,nicolas.cox@example.com,2025-09-16,San Diego,CA,Organic Search
+C01640,Katherine Taylor,katherine.taylor@example.com,2025-07-30,Austin,TX,Paid Social
+C01641,Max Ramirez,max.ramirez@example.com,2024-07-28,Arlington,TX,Referral
+C01642,Paul Aguilar,paul.aguilar@example.com,2024-10-20,San Diego,CA,Referral
+C01643,Brianna Hill,brianna.hill@example.com,2024-09-22,Raleigh,NC,Paid Social
+C01644,Sean Padilla,sean.padilla@example.com,2024-08-31,New Orleans,LA,Referral
+C01645,Matthew Howard,matthew.howard@example.com,2025-07-08,Pittsburgh,PA,Paid Social
+C01646,Cody Murray,cody.murray@example.com,2025-06-08,Oakland,CA,Organic Search
+C01647,Ryan Robinson,ryan.robinson@example.com,2023-09-24,Kansas City,MO,Email Marketing
+C01648,Lindsay Hunt,lindsay.hunt@example.com,2024-04-22,Dallas,TX,Referral
+C01649,Taylor Fernandez,taylor.fernandez@example.com,2024-11-18,Salt Lake City,UT,Referral
+C01650,Peggy Bruce,peggy.bruce@example.com,2025-08-02,Memphis,TN,Organic Search
+C01651,Scott Hunt,scott.hunt@example.com,2024-10-03,Arlington,TX,Paid Social
+C01652,Jeffrey Cook,jeffrey.cook@example.com,2024-04-30,Denver,CO,Referral
+C01653,Julie Andrade,julie.andrade@example.com,2025-06-02,San Diego,CA,Email Marketing
+C01654,Angel Miller,angel.miller@example.com,2024-04-09,Raleigh,NC,Email Marketing
+C01655,Julie Moss,julie.moss@example.com,2024-04-15,Atlanta,GA,Paid Social
+C01656,Jessica Melton,jessica.melton@example.com,2024-10-11,Orlando,FL,Referral
+C01657,Amanda Beasley,amanda.beasley@example.com,2025-08-22,Sacramento,CA,Paid Social
+C01658,Theresa Martinez,theresa.martinez@example.com,2024-05-14,Oakland,CA,Paid Social
+C01659,John Ramirez,john.ramirez@example.com,2023-11-21,Pittsburgh,PA,Referral
+C01660,Monica Armstrong,monica.armstrong@example.com,2023-12-16,Oakland,CA,Organic Search
+C01661,Ronnie Blankenship,ronnie.blankenship@example.com,2024-05-24,San Francisco,CA,Organic Search
+C01662,Natalie Lee,natalie.lee@example.com,2024-08-29,Memphis,TN,Organic Search
+C01663,Tonya Navarro,tonya.navarro@example.com,2024-07-28,New York,NY,Paid Social
+C01664,Austin Blake,austin.blake@example.com,2024-07-23,Oklahoma City,OK,Paid Social
+C01665,Kimberly Howard,kimberly.howard@example.com,2024-04-26,Houston,TX,Organic Search
+C01666,Christian Lopez,christian.lopez@example.com,2024-03-24,Dallas,TX,Referral
+C01667,Adam Vaughn,adam.vaughn@example.com,2025-06-26,Los Angeles,CA,Paid Social
+C01668,Jessica Green,jessica.green@example.com,2024-09-20,Miami,FL,Paid Social
+C01669,Rodney Martin,rodney.martin@example.com,2024-11-25,Long Beach,CA,Organic Search
+C01670,Michelle Bradshaw,michelle.bradshaw@example.com,2023-12-31,Las Vegas,NV,Referral
+C01671,Joshua Francis,joshua.francis@example.com,2024-07-31,Chicago,IL,Email Marketing
+C01672,Shawn Price,shawn.price@example.com,2024-01-11,Memphis,TN,Organic Search
+C01673,Derek Hawkins,derek.hawkins@example.com,2024-06-09,Mesa,AZ,Paid Social
+C01674,Nathan Owens,nathan.owens@example.com,2024-12-19,Albuquerque,NM,Paid Social
+C01675,Dawn Bailey,dawn.bailey@example.com,2025-04-24,Salt Lake City,UT,Email Marketing
+C01676,Joseph Hess,joseph.hess@example.com,2025-03-09,Chicago,IL,Paid Social
+C01677,Margaret Parker,margaret.parker@example.com,2024-04-02,Fresno,CA,Organic Search
+C01678,Matthew Gonzales,matthew.gonzales@example.com,2023-12-24,Baltimore,MD,Email Marketing
+C01679,Paige Hayden,paige.hayden@example.com,2025-08-05,Miami,FL,Organic Search
+C01680,Tamara Wells,tamara.wells@example.com,2025-06-06,Orlando,FL,Email Marketing
+C01681,Lauren Henderson,lauren.henderson@example.com,2025-04-07,Columbus,OH,Paid Social
+C01682,Timothy Parks,timothy.parks@example.com,2025-07-12,Memphis,TN,Paid Social
+C01683,Marie Wells,marie.wells@example.com,2024-05-26,Sacramento,CA,Email Marketing
+C01684,Karen Lambert,karen.lambert@example.com,2024-10-02,Oklahoma City,OK,Organic Search
+C01685,Brittany Davis,brittany.davis@example.com,2025-01-05,Oakland,CA,Paid Social
+C01686,Chad Farmer,chad.farmer@example.com,2024-05-17,Columbus,OH,Paid Social
+C01687,William Andersen,william.andersen@example.com,2024-04-01,Long Beach,CA,Referral
+C01688,Tiffany Vazquez,tiffany.vazquez@example.com,2024-08-18,Tampa,FL,Paid Social
+C01689,Miranda Stark,miranda.stark@example.com,2025-04-27,Albuquerque,NM,Referral
+C01690,James Hester,james.hester@example.com,2025-01-12,Arlington,TX,Paid Social
+C01691,Cynthia Wright,cynthia.wright@example.com,2024-09-04,Dallas,TX,Paid Social
+C01692,Stephen Rodriguez,stephen.rodriguez@example.com,2024-12-23,Las Vegas,NV,Referral
+C01693,Emily Blake,emily.blake@example.com,2025-09-16,Albuquerque,NM,Referral
+C01694,Nicole Anderson,nicole.anderson@example.com,2024-10-01,Tucson,AZ,Paid Social
+C01695,Stephen Gomez,stephen.gomez@example.com,2025-01-05,Los Angeles,CA,Organic Search
+C01696,Heidi Powell,heidi.powell@example.com,2025-03-02,Arlington,TX,Email Marketing
+C01697,Sandra Weaver,sandra.weaver@example.com,2025-08-06,Atlanta,GA,Organic Search
+C01698,Rita Bauer,rita.bauer@example.com,2024-04-10,Arlington,TX,Organic Search
+C01699,Marissa Wilson,marissa.wilson@example.com,2025-03-09,Nashville,TN,Referral
+C01700,Craig Finley,craig.finley@example.com,2024-11-18,Sacramento,CA,Organic Search
+C01701,Christopher Acosta,christopher.acosta@example.com,2023-12-16,Baltimore,MD,Organic Search
+C01702,Ashley Griffin,ashley.griffin@example.com,2025-06-21,Nashville,TN,Paid Social
+C01703,Jessica Brown,jessica.brown@example.com,2024-09-14,San Diego,CA,Paid Social
+C01704,Kathy Odonnell,kathy.odonnell@example.com,2024-04-18,Las Vegas,NV,Organic Search
+C01705,Judy Taylor,judy.taylor@example.com,2025-06-08,Atlanta,GA,Paid Social
+C01706,Patricia Jones,patricia.jones@example.com,2024-08-12,Tucson,AZ,Organic Search
+C01707,Tina Peterson,tina.peterson@example.com,2024-09-04,Austin,TX,Email Marketing
+C01708,Cheryl Powell,cheryl.powell@example.com,2024-06-02,Richmond,VA,Organic Search
+C01709,Seth Cherry,seth.cherry@example.com,2025-09-20,Los Angeles,CA,Paid Social
+C01710,Michelle Figueroa,michelle.figueroa@example.com,2024-06-06,Tucson,AZ,Organic Search
+C01711,Taylor Ray,taylor.ray@example.com,2025-07-15,Sacramento,CA,Referral
+C01712,Tiffany French,tiffany.french@example.com,2025-04-10,San Diego,CA,Referral
+C01713,Rebecca Savage,rebecca.savage@example.com,2024-03-05,Tampa,FL,Email Marketing
+C01714,Todd Curtis,todd.curtis@example.com,2024-07-22,Boston,MA,Referral
+C01715,Alec Watkins,alec.watkins@example.com,2023-10-18,Austin,TX,Organic Search
+C01716,Christopher Meyers,christopher.meyers@example.com,2025-06-24,Miami,FL,Referral
+C01717,Thomas Simpson,thomas.simpson@example.com,2024-04-11,Mesa,AZ,Paid Social
+C01718,Jennifer Gibbs,jennifer.gibbs@example.com,2024-11-04,Kansas City,MO,Referral
+C01719,Sara Parks,sara.parks@example.com,2024-12-23,Nashville,TN,Paid Social
+C01720,Carrie Hicks,carrie.hicks@example.com,2025-01-10,Fresno,CA,Referral
+C01721,Gerald Lin,gerald.lin@example.com,2025-03-23,New Orleans,LA,Paid Social
+C01722,Mary Schmidt,mary.schmidt@example.com,2024-10-31,Cincinnati,OH,Referral
+C01723,Lori Ray,lori.ray@example.com,2024-01-25,Oakland,CA,Organic Search
+C01724,Michael Riggs,michael.riggs@example.com,2024-09-03,Boise,ID,Organic Search
+C01725,Mindy Richardson,mindy.richardson@example.com,2025-06-28,Charlotte,NC,Organic Search
+C01726,Alicia Hoffman,alicia.hoffman@example.com,2023-11-01,Dallas,TX,Organic Search
+C01727,Michael Leach,michael.leach@example.com,2023-10-31,Tampa,FL,Organic Search
+C01728,Suzanne Allen,suzanne.allen@example.com,2024-08-10,Tucson,AZ,Organic Search
+C01729,Dale Reid,dale.reid@example.com,2023-11-25,Orlando,FL,Organic Search
+C01730,Sherri Cooper,sherri.cooper@example.com,2024-09-06,Phoenix,AZ,Referral
+C01731,Kayla Rose,kayla.rose@example.com,2024-01-12,Raleigh,NC,Referral
+C01732,Edward Montgomery,edward.montgomery@example.com,2025-08-09,San Diego,CA,Email Marketing
+C01733,Seth Rocha,seth.rocha@example.com,2024-10-28,Houston,TX,Paid Social
+C01734,Mark Sanchez,mark.sanchez@example.com,2023-11-22,Virginia Beach,VA,Organic Search
+C01735,Alisha Velasquez,alisha.velasquez@example.com,2023-12-06,Pittsburgh,PA,Referral
+C01736,Ryan Webb,ryan.webb@example.com,2025-02-16,Nashville,TN,Referral
+C01737,Justin Calderon,justin.calderon@example.com,2024-03-17,Minneapolis,MN,Organic Search
+C01738,Dawn Stuart,dawn.stuart@example.com,2025-04-08,Charlotte,NC,Organic Search
+C01739,Rose Riddle,rose.riddle@example.com,2025-07-29,Cincinnati,OH,Referral
+C01740,Miguel Smith,miguel.smith@example.com,2023-09-27,Salt Lake City,UT,Organic Search
+C01741,Valerie Carlson,valerie.carlson@example.com,2025-04-05,New York,NY,Paid Social
+C01742,Michael Evans,michael.evans@example.com,2024-01-05,Cleveland,OH,Organic Search
+C01743,John Rodriguez,john.rodriguez@example.com,2024-10-31,Raleigh,NC,Organic Search
+C01744,Stephanie Woods,stephanie.woods@example.com,2024-03-11,Austin,TX,Paid Social
+C01745,Suzanne Price,suzanne.price@example.com,2024-06-01,Memphis,TN,Organic Search
+C01746,Leah Williams,leah.williams@example.com,2025-07-05,Oakland,CA,Organic Search
+C01747,John Rose,john.rose@example.com,2025-03-18,Pittsburgh,PA,Organic Search
+C01748,Joshua Foley,joshua.foley@example.com,2023-11-25,Denver,CO,Organic Search
+C01749,Craig Best,craig.best@example.com,2025-01-28,Boston,MA,Paid Social
+C01750,Lauren Howe,lauren.howe@example.com,2024-07-17,Richmond,VA,Referral
+C01751,Ashley Jackson,ashley.jackson@example.com,2025-04-13,Charlotte,NC,Organic Search
+C01752,Anita Sanchez,anita.sanchez@example.com,2025-03-09,Tampa,FL,Referral
+C01753,Kristin Patel,kristin.patel@example.com,2023-11-01,Fresno,CA,Organic Search
+C01754,Megan Malone,megan.malone@example.com,2024-05-30,Tampa,FL,Organic Search
+C01755,Jennifer Weaver,jennifer.weaver@example.com,2024-06-09,Sacramento,CA,Email Marketing
+C01756,Spencer Beasley,spencer.beasley@example.com,2023-12-31,Tampa,FL,Paid Social
+C01757,David Lawson,david.lawson@example.com,2024-05-02,Austin,TX,Referral
+C01758,Joseph Harding,joseph.harding@example.com,2025-04-25,New York,NY,Referral
+C01759,Dennis Thomas,dennis.thomas@example.com,2024-03-15,Richmond,VA,Organic Search
+C01760,Jonathan Cohen,jonathan.cohen@example.com,2025-07-04,Oakland,CA,Organic Search
+C01761,Gary Brown,gary.brown@example.com,2025-02-11,Charlotte,NC,Paid Social
+C01762,Jessica Snow,jessica.snow@example.com,2024-08-12,Nashville,TN,Organic Search
+C01763,Jacob Campbell,jacob.campbell@example.com,2025-08-05,Los Angeles,CA,Paid Social
+C01764,Adam Mcgee,adam.mcgee@example.com,2025-06-24,Sacramento,CA,Email Marketing
+C01765,Diamond Jackson,diamond.jackson@example.com,2024-06-14,Albuquerque,NM,Organic Search
+C01766,Alexa Richard,alexa.richard@example.com,2024-10-02,Dallas,TX,Organic Search
+C01767,Erica Taylor,erica.taylor@example.com,2025-08-25,Oakland,CA,Organic Search
+C01768,Anna Evans,anna.evans@example.com,2024-06-24,Fresno,CA,Referral
+C01769,Cathy Ryan,cathy.ryan@example.com,2025-03-31,Orlando,FL,Paid Social
+C01770,David Fuller,david.fuller@example.com,2024-09-16,Oklahoma City,OK,Email Marketing
+C01771,Carl Dunn,carl.dunn@example.com,2023-10-11,Fresno,CA,Referral
+C01772,Patrick Reyes,patrick.reyes@example.com,2025-07-19,Arlington,TX,Email Marketing
+C01773,Ashley Morris,ashley.morris@example.com,2024-12-07,Orlando,FL,Referral
+C01774,Richard Mcclure,richard.mcclure@example.com,2025-08-01,Nashville,TN,Organic Search
+C01775,Sandra Young,sandra.young@example.com,2023-12-12,Pittsburgh,PA,Organic Search
+C01776,Michelle Contreras,michelle.contreras@example.com,2024-02-06,Richmond,VA,Referral
+C01777,Cheryl Rose,cheryl.rose@example.com,2025-03-30,San Diego,CA,Email Marketing
+C01778,Shelia Richardson,shelia.richardson@example.com,2024-07-13,Fresno,CA,Organic Search
+C01779,Manuel Owens,manuel.owens@example.com,2024-08-06,Minneapolis,MN,Paid Social
+C01780,James Campbell,james.campbell@example.com,2025-03-11,Los Angeles,CA,Email Marketing
+C01781,Brian Morales,brian.morales@example.com,2025-04-03,Tampa,FL,Organic Search
+C01782,Christine Phillips,christine.phillips@example.com,2025-08-30,Raleigh,NC,Organic Search
+C01783,Monica Moore,monica.moore@example.com,2025-01-01,Miami,FL,Organic Search
+C01784,Kimberly Hess,kimberly.hess@example.com,2025-07-06,Charlotte,NC,Organic Search
+C01785,Anthony Shaffer,anthony.shaffer@example.com,2025-05-25,San Francisco,CA,Referral
+C01786,James Briggs,james.briggs@example.com,2023-10-18,Richmond,VA,Referral
+C01787,Laura Gomez,laura.gomez@example.com,2024-02-04,Philadelphia,PA,Paid Social
+C01788,Isaac Richmond,isaac.richmond@example.com,2024-04-12,Arlington,TX,Referral
+C01789,Deanna Allen,deanna.allen@example.com,2024-04-08,Orlando,FL,Organic Search
+C01790,Corey Farmer,corey.farmer@example.com,2024-05-01,Sacramento,CA,Organic Search
+C01791,Kristen Harding,kristen.harding@example.com,2025-09-01,Fresno,CA,Paid Social
+C01792,Kelly Long,kelly.long@example.com,2024-11-12,Portland,OR,Organic Search
+C01793,Kathryn White,kathryn.white@example.com,2025-05-29,Oklahoma City,OK,Paid Social
+C01794,Lisa King,lisa.king@example.com,2024-07-06,Portland,OR,Organic Search
+C01795,Todd Warren,todd.warren@example.com,2023-11-01,Miami,FL,Paid Social
+C01796,Amanda Jones,amanda.jones@example.com,2023-09-28,Oakland,CA,Paid Social
+C01797,Brittany Johnson,brittany.johnson@example.com,2023-10-06,Boston,MA,Email Marketing
+C01798,Heidi Beard,heidi.beard@example.com,2024-04-25,Oakland,CA,Referral
+C01799,Sarah Jenkins,sarah.jenkins@example.com,2024-02-05,Louisville,KY,Organic Search
+C01800,Daniel Salazar,daniel.salazar@example.com,2024-09-09,Orlando,FL,Referral
+C01801,Christopher Harper,christopher.harper@example.com,2024-07-24,Houston,TX,Organic Search
+C01802,Shaun Taylor,shaun.taylor@example.com,2024-09-19,San Francisco,CA,Organic Search
+C01803,Laura Peterson,laura.peterson@example.com,2024-06-29,Fresno,CA,Paid Social
+C01804,Samantha Long,samantha.long@example.com,2024-12-05,Sacramento,CA,Paid Social
+C01805,Caitlin Bradshaw,caitlin.bradshaw@example.com,2025-04-30,Memphis,TN,Paid Social
+C01806,Sarah Malone,sarah.malone@example.com,2024-11-11,Charlotte,NC,Paid Social
+C01807,Aaron Hayes,aaron.hayes@example.com,2024-07-12,Oklahoma City,OK,Referral
+C01808,Stephanie Sutton,stephanie.sutton@example.com,2023-11-23,Richmond,VA,Paid Social
+C01809,Stephanie Green,stephanie.green@example.com,2025-05-16,Atlanta,GA,Referral
+C01810,Roger Martin,roger.martin@example.com,2024-09-05,Las Vegas,NV,Organic Search
+C01811,Anthony Martin,anthony.martin@example.com,2023-12-31,Denver,CO,Referral
+C01812,Charles Patel,charles.patel@example.com,2025-08-06,Sacramento,CA,Organic Search
+C01813,Yolanda Foster,yolanda.foster@example.com,2024-11-07,Virginia Beach,VA,Paid Social
+C01814,Dawn Thomas,dawn.thomas@example.com,2024-06-08,Dallas,TX,Organic Search
+C01815,George Bray,george.bray@example.com,2024-06-27,Kansas City,MO,Paid Social
+C01816,Martha Brown,martha.brown@example.com,2025-02-13,Sacramento,CA,Organic Search
+C01817,Matthew Cole,matthew.cole@example.com,2024-08-30,New Orleans,LA,Organic Search
+C01818,Lawrence Rivera,lawrence.rivera@example.com,2025-06-27,Minneapolis,MN,Paid Social
+C01819,Ruth Smith,ruth.smith@example.com,2025-05-08,New Orleans,LA,Organic Search
+C01820,Paul Farley,paul.farley@example.com,2024-05-24,Los Angeles,CA,Organic Search
+C01821,Jacqueline Boone,jacqueline.boone@example.com,2025-09-11,San Francisco,CA,Paid Social
+C01822,Jennifer Finley,jennifer.finley@example.com,2025-07-04,Portland,OR,Referral
+C01823,Shane Miller,shane.miller@example.com,2024-07-17,Louisville,KY,Organic Search
+C01824,Jessica Todd,jessica.todd@example.com,2024-04-24,Long Beach,CA,Organic Search
+C01825,Katrina Cole,katrina.cole@example.com,2024-08-09,Los Angeles,CA,Organic Search
+C01826,Kelly Diaz,kelly.diaz@example.com,2024-04-14,Baltimore,MD,Organic Search
+C01827,Erica Collins,erica.collins@example.com,2024-06-03,San Diego,CA,Referral
+C01828,Joseph Wells,joseph.wells@example.com,2024-01-24,Austin,TX,Organic Search
+C01829,Lindsay Patel,lindsay.patel@example.com,2024-02-19,Cleveland,OH,Referral
+C01830,Daniel Hahn,daniel.hahn@example.com,2025-04-03,New York,NY,Organic Search
+C01831,Lauren Coleman,lauren.coleman@example.com,2024-09-26,Los Angeles,CA,Paid Social
+C01832,Fred Crosby,fred.crosby@example.com,2024-06-05,Kansas City,MO,Paid Social
+C01833,Patricia Collins,patricia.collins@example.com,2023-10-12,Baltimore,MD,Paid Social
+C01834,Sally Rodgers,sally.rodgers@example.com,2024-06-20,Fresno,CA,Referral
+C01835,Robert Bullock,robert.bullock@example.com,2024-03-15,Pittsburgh,PA,Organic Search
+C01836,Margaret Bautista,margaret.bautista@example.com,2024-07-19,Denver,CO,Referral
+C01837,Dennis Cunningham,dennis.cunningham@example.com,2025-09-19,New York,NY,Paid Social
+C01838,Richard King,richard.king@example.com,2024-02-17,Los Angeles,CA,Referral
+C01839,Erica Austin,erica.austin@example.com,2023-10-11,Fresno,CA,Organic Search
+C01840,Stephanie Anderson,stephanie.anderson@example.com,2024-04-29,Salt Lake City,UT,Organic Search
+C01841,Elizabeth Thompson,elizabeth.thompson@example.com,2025-05-07,Austin,TX,Organic Search
+C01842,Misty Turner,misty.turner@example.com,2024-04-03,Baltimore,MD,Paid Social
+C01843,Austin Jefferson,austin.jefferson@example.com,2024-04-11,Tucson,AZ,Paid Social
+C01844,Dominic Cruz,dominic.cruz@example.com,2024-04-30,Miami,FL,Paid Social
+C01845,Lauren Adams,lauren.adams@example.com,2024-07-10,Richmond,VA,Email Marketing
+C01846,Gregory Jones,gregory.jones@example.com,2025-07-07,New York,NY,Organic Search
+C01847,Lee Fischer,lee.fischer@example.com,2024-03-03,New York,NY,Email Marketing
+C01848,Wyatt Bailey,wyatt.bailey@example.com,2023-09-28,Virginia Beach,VA,Paid Social
+C01849,Alicia Ramirez,alicia.ramirez@example.com,2023-11-19,Atlanta,GA,Referral
+C01850,Henry Smith,henry.smith@example.com,2025-01-24,Milwaukee,WI,Paid Social
+C01851,Christine Johnson,christine.johnson@example.com,2024-10-23,Albuquerque,NM,Organic Search
+C01852,Matthew Jones,matthew.jones@example.com,2024-08-09,Louisville,KY,Paid Social
+C01853,Robert Harris,robert.harris@example.com,2024-10-26,Mesa,AZ,Organic Search
+C01854,Deborah Tyler,deborah.tyler@example.com,2024-11-02,Portland,OR,Organic Search
+C01855,Beth Nelson,beth.nelson@example.com,2025-08-31,Baltimore,MD,Organic Search
+C01856,Jason Campos,jason.campos@example.com,2024-08-21,Tucson,AZ,Paid Social
+C01857,Alicia Reed,alicia.reed@example.com,2024-03-23,New York,NY,Paid Social
+C01858,Lisa Wagner,lisa.wagner@example.com,2024-11-21,Fresno,CA,Organic Search
+C01859,Jonathan Monroe,jonathan.monroe@example.com,2025-01-16,Arlington,TX,Email Marketing
+C01860,Cole Haas,cole.haas@example.com,2024-11-25,Houston,TX,Organic Search
+C01861,Kara Hood,kara.hood@example.com,2025-04-27,Fresno,CA,Organic Search
+C01862,Aaron Johnson,aaron.johnson@example.com,2024-10-22,Oakland,CA,Organic Search
+C01863,Kimberly Hughes,kimberly.hughes@example.com,2024-04-13,Nashville,TN,Email Marketing
+C01864,Christopher Richardson,christopher.richardson@example.com,2024-09-17,Raleigh,NC,Referral
+C01865,Cory Meadows,cory.meadows@example.com,2024-07-05,Minneapolis,MN,Organic Search
+C01866,Luis Johnson,luis.johnson@example.com,2024-11-12,Minneapolis,MN,Organic Search
+C01867,Daniel Douglas,daniel.douglas@example.com,2025-05-31,Long Beach,CA,Paid Social
+C01868,Jennifer Small,jennifer.small@example.com,2024-04-26,Oakland,CA,Referral
+C01869,Tamara Wilson,tamara.wilson@example.com,2025-09-03,Tampa,FL,Email Marketing
+C01870,Jonathan Velazquez,jonathan.velazquez@example.com,2024-11-26,Salt Lake City,UT,Paid Social
+C01871,Sarah Sparks,sarah.sparks@example.com,2023-12-31,Dallas,TX,Referral
+C01872,Michele Olson,michele.olson@example.com,2025-08-06,San Diego,CA,Paid Social
+C01873,Kenneth Cooley,kenneth.cooley@example.com,2025-08-13,Oakland,CA,Organic Search
+C01874,Jasmine Evans,jasmine.evans@example.com,2025-08-03,Long Beach,CA,Organic Search
+C01875,Aaron Vaughn,aaron.vaughn@example.com,2024-07-30,Fresno,CA,Referral
+C01876,Colin Gallagher,colin.gallagher@example.com,2024-02-01,Virginia Beach,VA,Paid Social
+C01877,Christopher Duke,christopher.duke@example.com,2024-06-22,Austin,TX,Organic Search
+C01878,Elizabeth Schwartz,elizabeth.schwartz@example.com,2024-09-15,Austin,TX,Organic Search
+C01879,Eric Fox,eric.fox@example.com,2024-06-17,Houston,TX,Referral
+C01880,Barbara Harrison,barbara.harrison@example.com,2024-03-26,New York,NY,Referral
+C01881,Isaac Anderson,isaac.anderson@example.com,2023-11-26,Albuquerque,NM,Referral
+C01882,Joe Lopez,joe.lopez@example.com,2024-05-17,Dallas,TX,Referral
+C01883,Peggy Wheeler,peggy.wheeler@example.com,2024-03-03,Milwaukee,WI,Organic Search
+C01884,Frank Johnson,frank.johnson@example.com,2024-06-10,Orlando,FL,Referral
+C01885,Sarah Sims,sarah.sims@example.com,2025-04-22,Kansas City,MO,Email Marketing
+C01886,Ebony Smith,ebony.smith@example.com,2024-09-05,Long Beach,CA,Referral
+C01887,Angela Tucker,angela.tucker@example.com,2024-11-20,Mesa,AZ,Paid Social
+C01888,Christina Weber,christina.weber@example.com,2025-02-25,Dallas,TX,Referral
+C01889,Tyler Garcia,tyler.garcia@example.com,2025-08-22,Los Angeles,CA,Email Marketing
+C01890,Eddie Morales,eddie.morales@example.com,2024-10-20,Nashville,TN,Organic Search
+C01891,Christopher Brown,christopher.brown@example.com,2024-04-05,Orlando,FL,Referral
+C01892,Jennifer Harper,jennifer.harper@example.com,2024-12-26,Sacramento,CA,Referral
+C01893,Michelle Avery,michelle.avery@example.com,2025-05-05,Cleveland,OH,Organic Search
+C01894,Benjamin Allen,benjamin.allen@example.com,2024-07-01,San Diego,CA,Email Marketing
+C01895,Holly Sims,holly.sims@example.com,2025-02-24,Indianapolis,IN,Email Marketing
+C01896,Lisa Zavala,lisa.zavala@example.com,2023-09-28,Nashville,TN,Paid Social
+C01897,David Gomez,david.gomez@example.com,2024-02-29,Oakland,CA,Organic Search
+C01898,Diane Gray,diane.gray@example.com,2024-05-05,Arlington,TX,Paid Social
+C01899,Sarah Boyd,sarah.boyd@example.com,2025-08-17,Pittsburgh,PA,Organic Search
+C01900,Sandra Madden,sandra.madden@example.com,2024-05-01,Kansas City,MO,Paid Social
+C01901,Joy Gonzalez,joy.gonzalez@example.com,2024-04-09,New York,NY,Email Marketing
+C01902,Jennifer Burgess,jennifer.burgess@example.com,2024-12-21,Atlanta,GA,Paid Social
+C01903,Frank Gray,frank.gray@example.com,2025-07-31,Los Angeles,CA,Organic Search
+C01904,Timothy Johnson,timothy.johnson@example.com,2024-05-19,San Francisco,CA,Organic Search
+C01905,William Aguilar,william.aguilar@example.com,2024-10-30,Tulsa,OK,Paid Social
+C01906,Brittany Mcbride,brittany.mcbride@example.com,2025-07-18,Phoenix,AZ,Paid Social
+C01907,Ashley Delgado,ashley.delgado@example.com,2025-04-16,Albuquerque,NM,Paid Social
+C01908,Brian Wood,brian.wood@example.com,2025-04-23,Portland,OR,Referral
+C01909,Amy Wang,amy.wang@example.com,2024-05-07,San Francisco,CA,Organic Search
+C01910,Stephen Thompson,stephen.thompson@example.com,2024-03-02,Tulsa,OK,Paid Social
+C01911,Richard Stewart,richard.stewart@example.com,2024-04-09,Arlington,TX,Paid Social
+C01912,Stephanie Gomez,stephanie.gomez@example.com,2025-01-23,Portland,OR,Referral
+C01913,Patrick Alvarez,patrick.alvarez@example.com,2024-09-13,Los Angeles,CA,Paid Social
+C01914,Eric Green,eric.green@example.com,2023-11-13,Columbus,OH,Organic Search
+C01915,Kyle Campbell,kyle.campbell@example.com,2023-09-26,Atlanta,GA,Organic Search
+C01916,Justin Winters,justin.winters@example.com,2024-11-29,Orlando,FL,Paid Social
+C01917,Kathryn Mills,kathryn.mills@example.com,2025-07-16,Phoenix,AZ,Referral
+C01918,Christopher Walker,christopher.walker@example.com,2024-03-07,Phoenix,AZ,Organic Search
+C01919,Shawn Chen,shawn.chen@example.com,2024-12-29,Virginia Beach,VA,Organic Search
+C01920,Douglas Mullins,douglas.mullins@example.com,2025-02-14,Boston,MA,Organic Search
+C01921,Jessica Hernandez,jessica.hernandez@example.com,2024-10-16,San Diego,CA,Email Marketing
+C01922,Douglas Russell,douglas.russell@example.com,2023-11-30,Portland,OR,Paid Social
+C01923,Brian Sexton,brian.sexton@example.com,2024-03-16,Atlanta,GA,Referral
+C01924,Frank Blankenship,frank.blankenship@example.com,2024-07-14,Los Angeles,CA,Referral
+C01925,Cindy Castro,cindy.castro@example.com,2023-09-29,Tucson,AZ,Email Marketing
+C01926,Jesus Anderson,jesus.anderson@example.com,2025-07-14,Milwaukee,WI,Paid Social
+C01927,Joshua Woodard,joshua.woodard@example.com,2025-02-05,Austin,TX,Organic Search
+C01928,Charles Drake,charles.drake@example.com,2025-02-25,Louisville,KY,Paid Social
+C01929,Jason Mills,jason.mills@example.com,2024-04-04,Tulsa,OK,Organic Search
+C01930,Samantha Pearson,samantha.pearson@example.com,2024-03-11,Oklahoma City,OK,Paid Social
+C01931,Elizabeth Nelson,elizabeth.nelson@example.com,2024-04-11,Louisville,KY,Organic Search
+C01932,Kelly Miller,kelly.miller@example.com,2024-10-16,Tampa,FL,Referral
+C01933,Devin Parks,devin.parks@example.com,2023-10-14,Fresno,CA,Organic Search
+C01934,Jacqueline Oliver,jacqueline.oliver@example.com,2024-12-03,Chicago,IL,Paid Social
+C01935,Megan Graham,megan.graham@example.com,2025-05-10,Denver,CO,Organic Search
+C01936,Heather Hood,heather.hood@example.com,2025-02-06,New York,NY,Organic Search
+C01937,Kimberly Edwards,kimberly.edwards@example.com,2024-09-03,Oakland,CA,Referral
+C01938,Michael Fowler,michael.fowler@example.com,2025-04-22,Tucson,AZ,Paid Social
+C01939,Dawn Jones,dawn.jones@example.com,2024-08-04,Oakland,CA,Organic Search
+C01940,Laura Carter,laura.carter@example.com,2025-04-13,Kansas City,MO,Organic Search
+C01941,Samantha Brown,samantha.brown@example.com,2024-12-09,Raleigh,NC,Organic Search
+C01942,Paul King,paul.king@example.com,2023-12-01,Las Vegas,NV,Paid Social
+C01943,Brian Bray,brian.bray@example.com,2024-12-06,Sacramento,CA,Organic Search
+C01944,Zachary Smith,zachary.smith@example.com,2025-04-26,Austin,TX,Paid Social
+C01945,Jennifer Mcintyre,jennifer.mcintyre@example.com,2024-09-11,Columbus,OH,Paid Social
+C01946,Alex Willis,alex.willis@example.com,2024-11-29,Milwaukee,WI,Referral
+C01947,Kimberly Brown,kimberly.brown@example.com,2024-06-14,Philadelphia,PA,Referral
+C01948,Thomas Miller,thomas.miller@example.com,2024-01-14,Long Beach,CA,Paid Social
+C01949,Amanda Oliver,amanda.oliver@example.com,2024-04-29,Fresno,CA,Referral
+C01950,Javier Lester,javier.lester@example.com,2024-01-27,Sacramento,CA,Organic Search
+C01951,Steven Franklin,steven.franklin@example.com,2025-03-11,Arlington,TX,Organic Search
+C01952,Thomas Gray,thomas.gray@example.com,2023-10-05,Long Beach,CA,Referral
+C01953,Paul Morgan,paul.morgan@example.com,2025-03-24,Sacramento,CA,Paid Social
+C01954,William Brown,william.brown@example.com,2025-04-25,Richmond,VA,Paid Social
+C01955,Johnathan Padilla,johnathan.padilla@example.com,2024-10-28,Salt Lake City,UT,Paid Social
+C01956,Michael Lee,michael.lee@example.com,2025-07-27,Louisville,KY,Email Marketing
+C01957,Adam Hernandez,adam.hernandez@example.com,2024-10-20,New York,NY,Organic Search
+C01958,John Gonzales,john.gonzales@example.com,2023-11-25,Miami,FL,Organic Search
+C01959,Barbara Jordan,barbara.jordan@example.com,2025-03-30,Tampa,FL,Paid Social
+C01960,Tammy Perez,tammy.perez@example.com,2024-12-27,New York,NY,Paid Social
+C01961,Diana Arnold,diana.arnold@example.com,2024-08-05,Salt Lake City,UT,Organic Search
+C01962,Kathleen Sandoval,kathleen.sandoval@example.com,2023-12-19,Phoenix,AZ,Organic Search
+C01963,Michelle Ayers,michelle.ayers@example.com,2025-02-01,Sacramento,CA,Organic Search
+C01964,Daniel Lopez,daniel.lopez@example.com,2024-09-26,Indianapolis,IN,Paid Social
+C01965,Phillip Lewis,phillip.lewis@example.com,2024-05-19,Fresno,CA,Organic Search
+C01966,Joshua Mercer,joshua.mercer@example.com,2024-05-18,Memphis,TN,Paid Social
+C01967,Derek Mcguire,derek.mcguire@example.com,2025-04-09,Charlotte,NC,Paid Social
+C01968,Marc Davis,marc.davis@example.com,2025-08-08,Denver,CO,Paid Social
+C01969,Colton Williams,colton.williams@example.com,2024-08-15,Columbus,OH,Organic Search
+C01970,Amber Huffman,amber.huffman@example.com,2023-11-03,Cincinnati,OH,Email Marketing
+C01971,Jason Mclaughlin,jason.mclaughlin@example.com,2024-06-11,Oakland,CA,Organic Search
+C01972,Paul Hoover,paul.hoover@example.com,2024-12-19,Tampa,FL,Paid Social
+C01973,Matthew Simmons,matthew.simmons@example.com,2025-06-27,Las Vegas,NV,Paid Social
+C01974,Brandon Walker,brandon.walker@example.com,2024-06-11,Cleveland,OH,Paid Social
+C01975,Daniel Brown,daniel.brown@example.com,2025-08-29,Seattle,WA,Organic Search
+C01976,Ryan Greene,ryan.greene@example.com,2025-09-02,Nashville,TN,Referral
+C01977,Amber Peterson,amber.peterson@example.com,2025-04-19,Miami,FL,Referral
+C01978,Juan Huffman,juan.huffman@example.com,2023-10-07,Seattle,WA,Paid Social
+C01979,Abigail Jones,abigail.jones@example.com,2025-02-02,Tulsa,OK,Paid Social
+C01980,Bonnie Terry,bonnie.terry@example.com,2025-07-08,Albuquerque,NM,Organic Search
+C01981,Nancy Gibson,nancy.gibson@example.com,2024-12-13,Arlington,TX,Organic Search
+C01982,Robert Lynch,robert.lynch@example.com,2024-02-02,Tulsa,OK,Organic Search
+C01983,Shannon Holder,shannon.holder@example.com,2023-11-20,Cleveland,OH,Organic Search
+C01984,Holly Davis,holly.davis@example.com,2025-01-02,Portland,OR,Organic Search
+C01985,Sarah Miller,sarah.miller@example.com,2024-06-30,San Francisco,CA,Organic Search
+C01986,Andres Miller,andres.miller@example.com,2024-06-03,Columbus,OH,Organic Search
+C01987,Theresa Evans,theresa.evans@example.com,2025-04-19,Orlando,FL,Paid Social
+C01988,Linda Arnold,linda.arnold@example.com,2023-12-28,San Francisco,CA,Paid Social
+C01989,Ryan Travis,ryan.travis@example.com,2024-11-13,Portland,OR,Paid Social
+C01990,Heather Rogers,heather.rogers@example.com,2025-05-14,Indianapolis,IN,Paid Social
+C01991,William Wiley,william.wiley@example.com,2025-01-31,Nashville,TN,Email Marketing
+C01992,Allison Brady,allison.brady@example.com,2024-10-26,New Orleans,LA,Paid Social
+C01993,Jonathan Jimenez,jonathan.jimenez@example.com,2024-10-30,Boston,MA,Referral
+C01994,Kelsey Rodriguez,kelsey.rodriguez@example.com,2024-04-10,Austin,TX,Organic Search
+C01995,Colleen Robles,colleen.robles@example.com,2025-06-02,Phoenix,AZ,Paid Social
+C01996,Nathan Erickson,nathan.erickson@example.com,2024-08-21,San Diego,CA,Organic Search
+C01997,Erik Rogers,erik.rogers@example.com,2025-08-20,Dallas,TX,Paid Social
+C01998,Nicole Griffin,nicole.griffin@example.com,2024-07-30,Nashville,TN,Paid Social
+C01999,Heather Wright,heather.wright@example.com,2023-12-06,Oklahoma City,OK,Paid Social
+C02000,Sarah Spencer,sarah.spencer@example.com,2025-04-17,Boston,MA,Paid Social
