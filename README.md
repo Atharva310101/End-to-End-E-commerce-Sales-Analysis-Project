@@ -15,28 +15,39 @@ The goal of this project was to perform an end-to-end data analysis of a fiction
 3.  **Dashboard Development:** Power BI was connected to the PostgreSQL database to create an interactive dashboard.
 
 ## 4. Key Questions Answered by the Dashboard
-The dashboard was designed to answer critical business questions:
+### The dashboard was designed to answer critical business questions:
 
-* What is the total revenue and how is it trending over time and What is our overall customer churn rate?
-Our total revenue over the last two years is **$545K**. The revenue trend shows consistent growth with a significant spike in sales during Q4 of each year.
+1.  What is the total revenue and how is it trending over time and What is our overall customer churn rate?
+
+The total revenue over the last two years is about **$545K**. The revenue trend shows consistent growth with a significant spike in sales during Q4 of each year.
 
 ![Total Revenue](./images/Churn%20and%20Amount%20Paid.png)
 ![Revenue Trend Chart](images/revenue_trend.png)
 
-* Which states are the top contributors to sales?
+2. Which states are the top contributors to sales?
+
+By analyzing the data, we can see that the states with higher poplutaion density like CA and TX are the top contributors to the sales.
 ![Sales by State Map](images/sales_by_state.png)
 
-* Which channels are most effective for acquiring new customers?
+3. Which channels are most effective for acquiring new customers?
+
+The 'Organic Search' channel was most effective in customer acquistion, which acquired about 40% of the total customers, closely followed by 'Paid Social' channel with 30% contribution.
 
 ![Channel Acquisition](./images/Channel_Acquisition.png)
 
-* Which subscription products are the most popular, and which are the best at retaining subscribers?
+4. Which subscription products are the most popular, and which are the best at retaining subscribers?
+
+The 'Standard Snack Box' product was most popular among majority of subscribers and was re-ordered by most active subscribers as well.
+
 ![Product Matrix](./images/Total%20and%20Active%20Subs.png)
 ![Popular Products among Subscribers](./images/Product%20Type%20and%20Units%20sold.png)
 
-* What are the biggest drivers behind our total revenue?
+5. What are the biggest drivers behind our total revenue?
+
+This Decomposition Graph gives us overall perspective of biggest source of our total revenue, considering each state, channel and product.
 ![Decomposition Graph](./images/Decomposition%20Tree.png)
 
 
-* Overall Dashboard
+6. Overall Dashboard
+
 ![Dashboard](./images/Dashboard%20final.png)
